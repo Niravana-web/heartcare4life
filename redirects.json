@@ -1,0 +1,652 @@
+[
+ {
+  "source": "/telehealth-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/appointments/telehealth",
+  "permanent": true
+ },
+ {
+  "source": "/online-appointment-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/appointments/online",
+  "permanent": true
+ },
+ {
+  "source": "/about-us-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/about",
+  "permanent": true
+ },
+ {
+  "source": "/dr-vimal-nanavati-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/dr-vimal-nanavati",
+  "permanent": true
+ },
+ {
+  "source": "/practice-locations-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/locations",
+  "permanent": true
+ },
+ {
+  "source": "/services-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services",
+  "permanent": true
+ },
+ {
+  "source": "/concierge-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/appointments/concierge",
+  "permanent": true
+ },
+ {
+  "source": "/diseases-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions",
+  "permanent": true
+ },
+ {
+  "source": "/faqs-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/faqs",
+  "permanent": true
+ },
+ {
+  "source": "/treatments-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/treatments",
+  "permanent": true
+ },
+ {
+  "source": "/media-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/media",
+  "permanent": true
+ },
+ {
+  "source": "/videos-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/videos",
+  "permanent": true
+ },
+ {
+  "source": "/gallery-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/gallery",
+  "permanent": true
+ },
+ {
+  "source": "/contact-us-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/contact",
+  "permanent": true
+ },
+ {
+  "source": "/general-appointment-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/appointments/general",
+  "permanent": true
+ },
+ {
+  "source": "/transthoracic-echocardiography-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/transthoracic-echocardiography",
+  "permanent": true
+ },
+ {
+  "source": "/electrocardiogram-ecg-ekg-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/electrocardiogram-ecg-ekg",
+  "permanent": true
+ },
+ {
+  "source": "/advanced-stress-testing-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/advanced-stress-testing",
+  "permanent": true
+ },
+ {
+  "source": "/venous-ablation-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/venous-ablation",
+  "permanent": true
+ },
+ {
+  "source": "/holter-monitoring-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/holter-monitoring",
+  "permanent": true
+ },
+ {
+  "source": "/advanced-lipid-testing-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/advanced-lipid-testing",
+  "permanent": true
+ },
+ {
+  "source": "/coronary-stenting-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/coronary-stenting",
+  "permanent": true
+ },
+ {
+  "source": "/left-atrial-appendage-closure-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/left-atrial-appendage-closure",
+  "permanent": true
+ },
+ {
+  "source": "/seven-risk-factors-for-heart-attack-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/seven-risk-factors-for-heart-attack",
+  "permanent": true
+ },
+ {
+  "source": "/patient-info-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/patient-info",
+  "permanent": true
+ },
+ {
+  "source": "/patient-forms-and-downloads-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/patient-info/patient-forms",
+  "permanent": true
+ },
+ {
+  "source": "/patient-education-videos-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/patient-info/patient-education-videos",
+  "permanent": true
+ },
+ {
+  "source": "/bill-payment-options-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/patient-info/bill-payment",
+  "permanent": true
+ },
+ {
+  "source": "/medical-insurance-information-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/patient-info/insurance",
+  "permanent": true
+ },
+ {
+  "source": "/echocardiogram-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/echocardiogram",
+  "permanent": true
+ },
+ {
+  "source": "/heart-anatomy-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions/heart-anatomy",
+  "permanent": true
+ },
+ {
+  "source": "/arrhythmias-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions/arrhythmias",
+  "permanent": true
+ },
+ {
+  "source": "/atrial-fibrillation-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions/atrial-fibrillation",
+  "permanent": true
+ },
+ {
+  "source": "/coronary-artery-disease-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions/coronary-artery-disease",
+  "permanent": true
+ },
+ {
+  "source": "/aortic-aneurysm-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions/aortic-aneurysm",
+  "permanent": true
+ },
+ {
+  "source": "/chest-pain-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions/chest-pain",
+  "permanent": true
+ },
+ {
+  "source": "/ventricular-arrhythmias-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions/ventricular-arrhythmias",
+  "permanent": true
+ },
+ {
+  "source": "/heart-murmur-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions/heart-murmur",
+  "permanent": true
+ },
+ {
+  "source": "/ventricular-tachycardia-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions/ventricular-tachycardia",
+  "permanent": true
+ },
+ {
+  "source": "/heart-palpitations-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/conditions/heart-palpitations",
+  "permanent": true
+ },
+ {
+  "source": "/venous-ultrasound-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/venous-ultrasound",
+  "permanent": true
+ },
+ {
+  "source": "/carotid-ultrasound-doppler-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/carotid-ultrasound-doppler",
+  "permanent": true
+ },
+ {
+  "source": "/arterial-ultrasound-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/arterial-ultrasound",
+  "permanent": true
+ },
+ {
+  "source": "/angioplasty-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/angioplasty",
+  "permanent": true
+ },
+ {
+  "source": "/loop-recorder-implantation-and-interrogation-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/loop-recorder-implantation-and-interrogation",
+  "permanent": true
+ },
+ {
+  "source": "/treadmill-stress-test-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/treadmill-stress-test",
+  "permanent": true
+ },
+ {
+  "source": "/nuclear-stress-test-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/nuclear-stress-test",
+  "permanent": true
+ },
+ {
+  "source": "/ankle-brachial-index-abi-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/ankle-brachial-index-abi",
+  "permanent": true
+ },
+ {
+  "source": "/coronary-ct-angiography-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/coronary-ct-angiography",
+  "permanent": true
+ },
+ {
+  "source": "/transfemoral-angiogram-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/transfemoral-angiogram",
+  "permanent": true
+ },
+ {
+  "source": "/transradial-angiogram-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/transradial-angiogram",
+  "permanent": true
+ },
+ {
+  "source": "/transesophageal-echocardiography-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/transesophageal-echocardiography",
+  "permanent": true
+ },
+ {
+  "source": "/ihd-evaluation-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/ihd-evaluation",
+  "permanent": true
+ },
+ {
+  "source": "/temporary-pacemaker-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/temporary-pacemaker",
+  "permanent": true
+ },
+ {
+  "source": "/cardiology-services-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/cardiology-services",
+  "permanent": true
+ },
+ {
+  "source": "/cardiac-rehabilitation-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/cardiac-rehabilitation",
+  "permanent": true
+ },
+ {
+  "source": "/ptca-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/ptca",
+  "permanent": true
+ },
+ {
+  "source": "/7-10-day-ambulatory-rhythm-monitor-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/7-10-day-ambulatory-rhythm-monitor",
+  "permanent": true
+ },
+ {
+  "source": "/pacemaker-interrogation-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/pacemaker-interrogation",
+  "permanent": true
+ },
+ {
+  "source": "/defibrillator-interrogation-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/defibrillator-interrogation",
+  "permanent": true
+ },
+ {
+  "source": "/consultations-for-international-patients-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/appointments/international",
+  "permanent": true
+ },
+ {
+  "source": "/appointments-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/appointments",
+  "permanent": true
+ },
+ {
+  "source": "/before-after-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/before-and-after",
+  "permanent": true
+ },
+ {
+  "source": "/vascular-ultrasound-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/services/vascular-ultrasound",
+  "permanent": true
+ },
+ {
+  "source": "/telehealth-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/appointments/telehealth",
+  "permanent": true
+ },
+ {
+  "source": "/online-appointment-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/appointments/online",
+  "permanent": true
+ },
+ {
+  "source": "/about-us-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/about",
+  "permanent": true
+ },
+ {
+  "source": "/dr-vimal-nanavati-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/dr-vimal-nanavati",
+  "permanent": true
+ },
+ {
+  "source": "/practice-locations-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/locations",
+  "permanent": true
+ },
+ {
+  "source": "/services-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services",
+  "permanent": true
+ },
+ {
+  "source": "/concierge-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/appointments/concierge",
+  "permanent": true
+ },
+ {
+  "source": "/diseases-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions",
+  "permanent": true
+ },
+ {
+  "source": "/faqs-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/faqs",
+  "permanent": true
+ },
+ {
+  "source": "/treatments-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/treatments",
+  "permanent": true
+ },
+ {
+  "source": "/media-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/media",
+  "permanent": true
+ },
+ {
+  "source": "/videos-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/videos",
+  "permanent": true
+ },
+ {
+  "source": "/gallery-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/gallery",
+  "permanent": true
+ },
+ {
+  "source": "/contact-us-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/contact",
+  "permanent": true
+ },
+ {
+  "source": "/general-appointment-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/appointments/general",
+  "permanent": true
+ },
+ {
+  "source": "/transthoracic-echocardiography-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/transthoracic-echocardiography",
+  "permanent": true
+ },
+ {
+  "source": "/electrocardiogram-ecg-ekg-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/electrocardiogram-ecg-ekg",
+  "permanent": true
+ },
+ {
+  "source": "/advanced-stress-testing-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/advanced-stress-testing",
+  "permanent": true
+ },
+ {
+  "source": "/venous-ablation-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/venous-ablation",
+  "permanent": true
+ },
+ {
+  "source": "/holter-monitoring-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/holter-monitoring",
+  "permanent": true
+ },
+ {
+  "source": "/advanced-lipid-testing-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/advanced-lipid-testing",
+  "permanent": true
+ },
+ {
+  "source": "/coronary-stenting-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/coronary-stenting",
+  "permanent": true
+ },
+ {
+  "source": "/left-atrial-appendage-closure-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/left-atrial-appendage-closure",
+  "permanent": true
+ },
+ {
+  "source": "/seven-risk-factors-for-heart-attack-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/seven-risk-factors-for-heart-attack",
+  "permanent": true
+ },
+ {
+  "source": "/patient-info-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/patient-info",
+  "permanent": true
+ },
+ {
+  "source": "/patient-forms-and-downloads-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/patient-info/patient-forms",
+  "permanent": true
+ },
+ {
+  "source": "/patient-education-videos-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/patient-info/patient-education-videos",
+  "permanent": true
+ },
+ {
+  "source": "/bill-payment-options-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/patient-info/bill-payment",
+  "permanent": true
+ },
+ {
+  "source": "/medical-insurance-information-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/patient-info/insurance",
+  "permanent": true
+ },
+ {
+  "source": "/echocardiogram-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/echocardiogram",
+  "permanent": true
+ },
+ {
+  "source": "/heart-anatomy-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions/heart-anatomy",
+  "permanent": true
+ },
+ {
+  "source": "/arrhythmias-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions/arrhythmias",
+  "permanent": true
+ },
+ {
+  "source": "/atrial-fibrillation-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions/atrial-fibrillation",
+  "permanent": true
+ },
+ {
+  "source": "/coronary-artery-disease-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions/coronary-artery-disease",
+  "permanent": true
+ },
+ {
+  "source": "/aortic-aneurysm-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions/aortic-aneurysm",
+  "permanent": true
+ },
+ {
+  "source": "/chest-pain-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions/chest-pain",
+  "permanent": true
+ },
+ {
+  "source": "/ventricular-arrhythmias-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions/ventricular-arrhythmias",
+  "permanent": true
+ },
+ {
+  "source": "/heart-murmur-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions/heart-murmur",
+  "permanent": true
+ },
+ {
+  "source": "/ventricular-tachycardia-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions/ventricular-tachycardia",
+  "permanent": true
+ },
+ {
+  "source": "/heart-palpitations-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/conditions/heart-palpitations",
+  "permanent": true
+ },
+ {
+  "source": "/venous-ultrasound-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/venous-ultrasound",
+  "permanent": true
+ },
+ {
+  "source": "/carotid-ultrasound-doppler-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/carotid-ultrasound-doppler",
+  "permanent": true
+ },
+ {
+  "source": "/arterial-ultrasound-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/arterial-ultrasound",
+  "permanent": true
+ },
+ {
+  "source": "/angioplasty-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/angioplasty",
+  "permanent": true
+ },
+ {
+  "source": "/loop-recorder-implantation-and-interrogation-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/loop-recorder-implantation-and-interrogation",
+  "permanent": true
+ },
+ {
+  "source": "/treadmill-stress-test-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/treadmill-stress-test",
+  "permanent": true
+ },
+ {
+  "source": "/nuclear-stress-test-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/nuclear-stress-test",
+  "permanent": true
+ },
+ {
+  "source": "/ankle-brachial-index-abi-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/ankle-brachial-index-abi",
+  "permanent": true
+ },
+ {
+  "source": "/coronary-ct-angiography-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/coronary-ct-angiography",
+  "permanent": true
+ },
+ {
+  "source": "/transfemoral-angiogram-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/transfemoral-angiogram",
+  "permanent": true
+ },
+ {
+  "source": "/transradial-angiogram-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/transradial-angiogram",
+  "permanent": true
+ },
+ {
+  "source": "/transesophageal-echocardiography-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/transesophageal-echocardiography",
+  "permanent": true
+ },
+ {
+  "source": "/ihd-evaluation-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/ihd-evaluation",
+  "permanent": true
+ },
+ {
+  "source": "/temporary-pacemaker-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/temporary-pacemaker",
+  "permanent": true
+ },
+ {
+  "source": "/cardiology-services-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/cardiology-services",
+  "permanent": true
+ },
+ {
+  "source": "/cardiac-rehabilitation-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/cardiac-rehabilitation",
+  "permanent": true
+ },
+ {
+  "source": "/ptca-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/ptca",
+  "permanent": true
+ },
+ {
+  "source": "/7-10-day-ambulatory-rhythm-monitor-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/7-10-day-ambulatory-rhythm-monitor",
+  "permanent": true
+ },
+ {
+  "source": "/pacemaker-interrogation-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/pacemaker-interrogation",
+  "permanent": true
+ },
+ {
+  "source": "/defibrillator-interrogation-interventional-cardiologist-bonita-redding-ca",
+  "destination": "/services/defibrillator-interrogation",
+  "permanent": true
+ },
+ {
+  "source": "/patient-testimonials-f17732",
+  "destination": "/testimonials",
+  "permanent": true
+ },
+ {
+  "source": "/patient-testimonials-f17732-:n",
+  "destination": "/testimonials",
+  "permanent": true
+ },
+ {
+  "source": "/in-news",
+  "destination": "/news",
+  "permanent": true
+ },
+ {
+  "source": "/in-news/:slug",
+  "destination": "/news/:slug",
+  "permanent": true
+ },
+ {
+  "source": "/sitemap",
+  "destination": "/site-map",
+  "permanent": true
+ },
+ {
+  "source": "/submit-testimonials-interventional-cardiologist-bonita-redding-san-diego-ca",
+  "destination": "/testimonials/submit",
+  "permanent": true
+ }
+]
