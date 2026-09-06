@@ -81,7 +81,7 @@ img, video, svg { display: block; max-width: 100%; }
 .prose-hc .figure-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; }
 .prose-hc .figure-row img { margin: 0; }
 
-.hero-scrim { background: linear-gradient(180deg, rgba(21,32,47,.1), rgba(21,32,47,.06) 40%, rgba(18,26,38,.62)); }
+.hero-scrim { background: linear-gradient(180deg, rgba(21,32,47,.15), rgba(21,32,47,.1) 35%, rgba(12,18,28,.85)); }
 .navbar-blur { background: rgba(244,238,224,.95); backdrop-filter: blur(6px); }
 
 @media (prefers-reduced-motion: reduce) {
