@@ -25,7 +25,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const page = getPage("/" + slug.join("/"));
   if (!page) return {};
-  return buildMetadata({ title: cleanTitle(page.h1, page.section), description: page.description, route: page.route });
+  const label = SECTION_META[page.section]?.name ?? "Cardiology";
+  return buildMetadata({
+    title: cleanTitle(page.h1, page.section),
+    description: page.description,
+    route: page.route,
+    image: `/og?t=${encodeURIComponent(page.h1)}&s=${encodeURIComponent(label)}`,
+  });
 }
 
 /**
