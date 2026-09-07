@@ -10,6 +10,9 @@ export type Page = {
   sourceUrl: string;
   legacyUrls: string[];
   youtube: string[];
+  /** ISO date the page content last changed. File mtimes are useless in CI, where a
+   *  fresh clone stamps every file with the checkout time, so this is explicit. */
+  updated?: string;
   body: string;
   section: string;
 };

@@ -46,6 +46,7 @@ for (const p of pages) {
   else if (p.description.length > 165) warn(p.file, `description ${p.description.length} chars, will be truncated at render`);
   if (!Array.isArray(p.legacyUrls)) bad(p.file, "legacyUrls must be an array");
   if (!Array.isArray(p.youtube)) bad(p.file, "youtube must be an array");
+  if (p.updated !== undefined && !/^\d{4}-\d{2}-\d{2}$/.test(p.updated)) bad(p.file, `updated must be YYYY-MM-DD, got ${p.updated}`);
 }
 
 // 2. No duplicate routes, titles or descriptions
@@ -131,6 +132,10 @@ const robots = fs.readFileSync(path.join(root, "src", "app", "robots.ts"), "utf8
 if (/^\s*host:/m.test(robots)) bad("robots.ts", "deprecated Host directive still present");
 if (!fs.existsSync(path.join(root, "src", "app", "not-found.tsx"))) bad("app", "not-found.tsx missing");
 if (!fs.readdirSync(path.join(root, "public")).some((f) => /^[0-9a-f]{32}\.txt$/.test(f))) bad("public", "IndexNow key file missing");
+// A CI checkout resets file mtimes, so sitemap lastmod must not read them.
+const sm = fs.readFileSync(path.join(root, "src", "app", "sitemap.ts"), "utf8")
+  .split("\n").filter((l) => !/^\s*(\/\/|\*|\/\*)/.test(l)).join("\n");
+if (/statSync|\.mtime/.test(sm)) bad("sitemap.ts", "lastmod reads file mtime, which is the clone time in CI");
 
 if (warns.length) {
   console.warn(`\n${warns.length} warning(s):`);
