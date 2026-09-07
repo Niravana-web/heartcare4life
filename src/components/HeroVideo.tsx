@@ -21,6 +21,13 @@ export default function HeroVideo() {
 
   useEffect(() => {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    // The clips are 19-34MB each and cycle. That is an unacceptable cost on a phone,
+    // especially for an older patient audience on cellular, so small screens and
+    // data-saver sessions keep the poster image instead.
+    if (window.matchMedia("(max-width: 899px)").matches) return;
+    const conn = (navigator as Navigator & { connection?: { saveData?: boolean; effectiveType?: string } }).connection;
+    if (conn?.saveData || (conn?.effectiveType && !/4g/.test(conn.effectiveType))) return;
+
     const A = a.current, B = b.current; if (!A || !B) return;
     const idx = 0; let cur: HTMLVideoElement | null = null, timer = 0, failures = 0, dead = false;
     const src = (i: number) => CLIPS[((i % CLIPS.length) + CLIPS.length) % CLIPS.length];
@@ -37,16 +44,26 @@ export default function HeroVideo() {
       v.addEventListener("playing", ok); v.onerror = fail;
       v.src = src(i).u; v.load(); v.play().catch(fail);
     };
-    start(A, idx);
-    return () => { dead = true; window.clearTimeout(timer); };
+    // Wait for load, then for the browser to go idle, so video bytes never compete
+    // with the hero poster for bandwidth during LCP.
+    let boot = 0;
+    const kick = () => {
+      const ric = (window as Window & { requestIdleCallback?: (cb: () => void, o?: { timeout: number }) => number }).requestIdleCallback;
+      if (ric) ric(() => start(A, idx), { timeout: 3000 });
+      else boot = window.setTimeout(() => start(A, idx), 1200);
+    };
+    if (document.readyState === "complete") kick();
+    else window.addEventListener("load", kick, { once: true });
+
+    return () => { dead = true; window.clearTimeout(timer); window.clearTimeout(boot); window.removeEventListener("load", kick); };
   }, []);
 
   return (
     <section className="relative h-[68svh] max-h-[720px] min-h-[440px] overflow-hidden bg-navy-2" aria-label="Welcome">
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img src="/images/hero-poster.jpg" alt="" width={1600} height={686} fetchPriority="high" decoding="async" className="absolute inset-0 h-full w-full object-cover" aria-hidden="true" />
-      <video ref={a} muted playsInline preload="auto" className="absolute inset-0 h-full w-full object-cover opacity-0 transition-opacity duration-[1400ms] [&.playing]:opacity-100" />
-      <video ref={b} muted playsInline preload="auto" className="absolute inset-0 h-full w-full object-cover opacity-0 transition-opacity duration-[1400ms] [&.playing]:opacity-100" />
+      <video ref={a} muted playsInline preload="none" className="absolute inset-0 h-full w-full object-cover opacity-0 transition-opacity duration-[1400ms] [&.playing]:opacity-100" />
+      <video ref={b} muted playsInline preload="none" className="absolute inset-0 h-full w-full object-cover opacity-0 transition-opacity duration-[1400ms] [&.playing]:opacity-100" />
       <div className="absolute inset-0 bg-black/45" aria-hidden="true" />
       <div className="hero-scrim absolute inset-0" aria-hidden="true" />
       <div className="container-x relative flex h-full flex-col justify-end pb-14">

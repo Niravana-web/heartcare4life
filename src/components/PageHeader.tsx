@@ -10,6 +10,9 @@ export default function PageHeader({ eyebrow, title, lede, crumbs, bg }: { eyebr
     <section className={"relative border-b border-rule" + (bg ? " min-h-[60svh] flex items-end" : "")}>
       {bg && (
         <>
+          {/* React 19 hoists this into <head>, so the LCP image is discovered before
+              the stylesheet finishes and does not queue behind JS chunks. */}
+          <link rel="preload" as="image" href={bg} fetchPriority="high" />
           {/* LCP element on pages that pass a bg. eslint-disable-next-line @next/next/no-img-element */}
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={bg} alt="" aria-hidden="true" width={1600} height={829} fetchPriority="high" decoding="async" className="absolute inset-0 h-full w-full object-cover object-top" />
