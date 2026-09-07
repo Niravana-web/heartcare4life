@@ -13,6 +13,10 @@ export function GET(req: Request) {
   const title = (q.get("t") ?? SITE.name).slice(0, 90);
   const eyebrow = (q.get("s") ?? "Cardiology").slice(0, 40);
 
+  // The output is a pure function of t and s, so it can cache hard. Without this
+  // every social crawler and repeat fetch re-renders the PNG on the server.
+  const headers = { "Cache-Control": "public, max-age=31536000, s-maxage=31536000, immutable" };
+
   return new ImageResponse(
     (
       <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", justifyContent: "space-between", background: CREAM, padding: "68px 76px", fontFamily: "sans-serif" }}>
@@ -31,6 +35,6 @@ export function GET(req: Request) {
         </div>
       </div>
     ),
-    { width: 1200, height: 630 },
+    { width: 1200, height: 630, headers },
   );
 }
