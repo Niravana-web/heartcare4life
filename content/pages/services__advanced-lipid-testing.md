@@ -22,12 +22,12 @@ Cholesterol is carried through the blood inside particles. The damage to an arte
 
 Dr. Nanavati may suggest advanced lipid testing if you have:
 
-- A family history of early heart attack or stroke, especially in a parent or sibling before age 55 for men and 65 for women
-- A normal or borderline LDL cholesterol but other risk factors such as diabetes, high blood pressure, or a history of smoking
-- Known [coronary artery disease](/conditions/coronary-artery-disease) or plaque found on a [coronary CT angiogram](/services/coronary-ct-angiography) or [carotid ultrasound](/services/carotid-ultrasound-doppler)
-- High triglycerides, low HDL, obesity, or metabolic syndrome
-- LDL cholesterol at goal on a statin, but ongoing concern about residual risk
-- A risk estimate that sits in a gray zone where the decision to start medication is not obvious
+- A family history of early heart attack or stroke, especially in a parent or sibling before age 55 for men and 65 for women.
+- A normal or borderline LDL cholesterol but other risk factors such as diabetes, high blood pressure, or a history of smoking.
+- Known [coronary artery disease](/conditions/coronary-artery-disease) or plaque found on a [coronary CT angiogram](/services/coronary-ct-angiography) or [carotid ultrasound](/services/carotid-ultrasound-doppler).
+- High triglycerides, low HDL, obesity, or metabolic syndrome.
+- LDL cholesterol at goal on a statin, but ongoing concern about residual risk.
+- A risk estimate that sits in a gray zone where the decision to start medication is not obvious.
 
 The [American Heart Association explains how cholesterol contributes to plaque](https://www.heart.org/en/health-topics/cholesterol). The [National Heart, Lung, and Blood Institute reviews blood cholesterol testing](https://www.nhlbi.nih.gov/health/blood-cholesterol) and treatment goals in plain language.
 
@@ -71,8 +71,8 @@ The more meaningful caution is about interpretation. Lipid numbers move with ill
 
 ## Related services and conditions
 
-- [Coronary artery disease](/conditions/coronary-artery-disease), the condition these numbers help predict
-- [IHD evaluation](/services/ihd-evaluation) for a broader ischemic workup
-- [Cardiology services](/services/cardiology-services) offered by our practice
-- [About Dr. Vimal Nanavati](/dr-vimal-nanavati), board certified in cardiology and interventional cardiology
+- [Coronary artery disease](/conditions/coronary-artery-disease), the condition these numbers help predict.
+- [IHD evaluation](/services/ihd-evaluation) for a broader ischemic workup.
+- [Cardiology services](/services/cardiology-services) offered by our practice.
+- [About Dr. Vimal Nanavati](/dr-vimal-nanavati), board certified in cardiology and interventional cardiology.
 - [Request an appointment online](/appointments/online)

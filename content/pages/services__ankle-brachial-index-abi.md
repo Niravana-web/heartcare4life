@@ -21,13 +21,13 @@ Peripheral artery disease is common, often silent, and an important marker of ri
 
 Screening for PAD is part of our broader [cardiology services](/services/cardiology-services). Dr. Nanavati may recommend an ABI if you have:
 
-- Cramping, aching, or heaviness in the calf, thigh, or buttock that starts with walking and eases with rest, a symptom called claudication
-- Leg pain at rest, especially at night, or pain that improves when you dangle your leg over the bed
-- A sore, ulcer, or wound on the foot or toes that is slow to heal
-- Cold feet, weak or absent foot pulses, hair loss over the shins, or shiny skin on the legs
-- Diabetes, kidney disease, high blood pressure, or a history of smoking
-- Known [coronary artery disease](/conditions/coronary-artery-disease) or narrowing found on a [carotid ultrasound](/services/carotid-ultrasound-doppler)
-- A need to check how well treatment for PAD is working over time
+- Cramping, aching, or heaviness in the calf, thigh, or buttock that starts with walking and eases with rest, a symptom called claudication.
+- Leg pain at rest, especially at night, or pain that improves when you dangle your leg over the bed.
+- A sore, ulcer, or wound on the foot or toes that is slow to heal.
+- Cold feet, weak or absent foot pulses, hair loss over the shins, or shiny skin on the legs.
+- Diabetes, kidney disease, high blood pressure, or a history of smoking.
+- Known [coronary artery disease](/conditions/coronary-artery-disease) or narrowing found on a [carotid ultrasound](/services/carotid-ultrasound-doppler).
+- A need to check how well treatment for PAD is working over time.
 
 ## How to prepare
 
@@ -73,8 +73,8 @@ The main limitation is accuracy rather than safety. Stiff calcified arteries can
 
 ## Related services and conditions
 
-- [Arterial Doppler ultrasound](/services/arterial-ultrasound) to locate and grade a narrowing
-- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries
-- [Coronary artery disease](/conditions/coronary-artery-disease), which often coexists with PAD
-- [Advanced lipid testing](/services/advanced-lipid-testing) for a fuller risk picture
+- [Arterial Doppler ultrasound](/services/arterial-ultrasound) to locate and grade a narrowing.
+- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries.
+- [Coronary artery disease](/conditions/coronary-artery-disease), which often coexists with PAD.
+- [Advanced lipid testing](/services/advanced-lipid-testing) for a fuller risk picture.
 - [Request an appointment online](/appointments/online)

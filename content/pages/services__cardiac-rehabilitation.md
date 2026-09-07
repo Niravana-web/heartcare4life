@@ -21,13 +21,13 @@ The weeks after a cardiac event are when habits are most changeable. They are al
 
 Dr. Nanavati may recommend cardiac rehabilitation after:
 
-- A heart attack, whether or not a stent was placed
+- A heart attack, whether or not a stent was placed.
 - [Angioplasty](/services/angioplasty) or [coronary stenting](/services/coronary-stenting)
-- Coronary artery bypass surgery, valve repair, or valve replacement
-- A diagnosis of stable angina or [coronary artery disease](/conditions/coronary-artery-disease)
-- A diagnosis of chronic heart failure with reduced pumping strength
-- A heart transplant, or placement of a mechanical support device
-- Treatment for peripheral artery disease that causes leg cramping with walking
+- Coronary artery bypass surgery, valve repair, or valve replacement.
+- A diagnosis of stable angina or [coronary artery disease](/conditions/coronary-artery-disease).
+- A diagnosis of chronic heart failure with reduced pumping strength.
+- A heart transplant, or placement of a mechanical support device.
+- Treatment for peripheral artery disease that causes leg cramping with walking.
 
 It is also worth considering if you have become fearful of exertion. Many people are afraid to raise their heart rate after a cardiac event. Doing it under monitoring, with staff nearby, rebuilds confidence faster than anything you can do alone.
 
@@ -74,8 +74,8 @@ Not everyone can start right away. Unstable angina, uncontrolled heart failure, 
 
 ## Related services and conditions
 
-- [Coronary artery disease](/conditions/coronary-artery-disease), the most common reason for referral
-- [Coronary stenting](/services/coronary-stenting), a common reason rehab is prescribed
-- [Advanced stress testing](/services/advanced-stress-testing) to measure exercise capacity
-- [Frequently asked questions](/faqs) about heart care at our practice
+- [Coronary artery disease](/conditions/coronary-artery-disease), the most common reason for referral.
+- [Coronary stenting](/services/coronary-stenting), a common reason rehab is prescribed.
+- [Advanced stress testing](/services/advanced-stress-testing) to measure exercise capacity.
+- [Frequently asked questions](/faqs) about heart care at our practice.
 - [Request an appointment online](/appointments/online)

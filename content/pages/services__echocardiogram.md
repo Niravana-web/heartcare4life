@@ -22,15 +22,15 @@ An echocardiogram answers structural questions that an [electrocardiogram](/serv
 
 Dr. Nanavati may recommend an echocardiogram if you have:
 
-- Shortness of breath, swelling in the legs, or reduced exercise tolerance
-- A [heart murmur](/conditions/heart-murmur), which is an extra sound made by turbulent blood flow across a valve
-- [Chest pain](/conditions/chest-pain) or pressure that needs a structural explanation
-- Suspected heart failure, or a known weak heart muscle that needs periodic follow-up
-- A previous heart attack, to see how much muscle was affected
+- Shortness of breath, swelling in the legs, or reduced exercise tolerance.
+- A [heart murmur](/conditions/heart-murmur), which is an extra sound made by turbulent blood flow across a valve.
+- [Chest pain](/conditions/chest-pain) or pressure that needs a structural explanation.
+- Suspected heart failure, or a known weak heart muscle that needs periodic follow-up.
+- A previous heart attack, to see how much muscle was affected.
 - Suspected valve disease, including narrowing or leaking. The [American Heart Association explains heart valve problems and disease](https://www.heart.org/en/health-topics/heart-valve-problems-and-disease).
-- [Heart palpitations](/conditions/heart-palpitations) or an arrhythmia that may have a structural cause
-- A congenital heart difference, or a family history of an inherited heart muscle condition
-- Monitoring during chemotherapy that can affect the heart muscle
+- [Heart palpitations](/conditions/heart-palpitations) or an arrhythmia that may have a structural cause.
+- A congenital heart difference, or a family history of an inherited heart muscle condition.
+- Monitoring during chemotherapy that can affect the heart muscle.
 
 There are several forms of the test. A transthoracic echocardiogram is the standard scan through the chest wall. A stress echocardiogram compares images at rest and immediately after exercise. A transesophageal echocardiogram uses a probe passed into the esophagus. It gives a closer view when the standard scan is not detailed enough.
 
@@ -81,7 +81,7 @@ The main limitation is image quality rather than risk. Lung disease, obesity, ch
 
 ## Related services and conditions
 
-- [Electrocardiogram (ECG / EKG)](/services/electrocardiogram-ecg-ekg), the electrical companion test
-- [Heart murmur](/conditions/heart-murmur) and [heart anatomy](/conditions/heart-anatomy)
-- [Advanced stress testing](/services/advanced-stress-testing) when blood flow is the question
+- [Electrocardiogram (ECG / EKG)](/services/electrocardiogram-ecg-ekg), the electrical companion test.
+- [Heart murmur](/conditions/heart-murmur) and [heart anatomy](/conditions/heart-anatomy).
+- [Advanced stress testing](/services/advanced-stress-testing) when blood flow is the question.
 - [Request an appointment online](/appointments/online)

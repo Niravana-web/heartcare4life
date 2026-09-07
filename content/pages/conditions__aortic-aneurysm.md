@@ -21,16 +21,16 @@ Most aortic aneurysms are silent. When symptoms do appear, they are often vague 
 
 Call the office if you notice any of these:
 
-- A deep, steady ache in your belly, side or lower back that does not go away
-- A pulsing or throbbing feeling near your navel
-- Dull pain in the chest or upper back
-- Hoarseness, a new cough or trouble swallowing, which a chest aneurysm can cause by pressing on nearby structures
+- A deep, steady ache in your belly, side or lower back that does not go away.
+- A pulsing or throbbing feeling near your navel.
+- Dull pain in the chest or upper back.
+- Hoarseness, a new cough or trouble swallowing, which a chest aneurysm can cause by pressing on nearby structures.
 
 Call 911 immediately if you have any of the following. These can mean the aneurysm is tearing or has burst:
 
-- Sudden, severe, ripping or tearing pain in the chest, back or abdomen
-- Pain with sweating, clammy skin, fainting or near fainting
-- A racing pulse with sudden weakness, confusion or shortness of breath
+- Sudden, severe, ripping or tearing pain in the chest, back or abdomen.
+- Pain with sweating, clammy skin, fainting or near fainting.
+- A racing pulse with sudden weakness, confusion or shortness of breath.
 
 A ruptured aneurysm is a true emergency. Do not drive yourself. The [American Heart Association](https://www.heart.org/en/health-topics/aortic-aneurysm) stresses that survival depends on how fast treatment begins.
 

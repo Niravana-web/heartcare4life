@@ -25,17 +25,17 @@ Cardiac chest pain is more often described as pressure or heaviness than as shar
 
 Call 911 immediately for:
 
-- Chest pressure, squeezing or fullness lasting more than a few minutes
-- Pain radiating to the arm, shoulder, back, neck or jaw
-- Chest discomfort with cold sweat, nausea, or shortness of breath
-- Sudden severe pain with fainting or a feeling that something is badly wrong
+- Chest pressure, squeezing or fullness lasting more than a few minutes.
+- Pain radiating to the arm, shoulder, back, neck or jaw.
+- Chest discomfort with cold sweat, nausea, or shortness of breath.
+- Sudden severe pain with fainting or a feeling that something is badly wrong.
 
 Call the office to be seen soon for:
 
-- Chest tightness that reliably appears with walking or stairs and stops with rest
-- Discomfort that has been happening for weeks without getting worse
-- Chest pain that comes with [palpitations](/conditions/heart-palpitations) or unusual fatigue
-- Pain that is clearly reproduced by pressing on the chest wall or by certain foods
+- Chest tightness that reliably appears with walking or stairs and stops with rest.
+- Discomfort that has been happening for weeks without getting worse.
+- Chest pain that comes with [palpitations](/conditions/heart-palpitations) or unusual fatigue.
+- Pain that is clearly reproduced by pressing on the chest wall or by certain foods.
 
 Angina that is new, more frequent or now occurring at rest is called unstable. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/angina) treats that as an emergency.
 

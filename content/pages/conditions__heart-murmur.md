@@ -21,19 +21,19 @@ Most murmurs cause no symptoms and are found during a routine exam. Symptoms usu
 
 Call the office if you have a known murmur along with:
 
-- Shortness of breath with activity, or when lying flat
-- Swelling in the ankles, feet or abdomen
-- Fatigue or reduced stamina that is new for you
-- [Palpitations](/conditions/heart-palpitations) or a persistently irregular pulse
+- Shortness of breath with activity, or when lying flat.
+- Swelling in the ankles, feet or abdomen.
+- Fatigue or reduced stamina that is new for you.
+- [Palpitations](/conditions/heart-palpitations) or a persistently irregular pulse.
 - Lightheadedness with exertion
-- Unexplained fevers, which can signal an infection of a valve
+- Unexplained fevers, which can signal an infection of a valve.
 
 Call 911 if you have:
 
 - Fainting, especially during exercise
-- Chest pain or pressure lasting more than a few minutes
-- Severe shortness of breath at rest, or waking gasping for air
-- Coughing up pink, frothy sputum
+- Chest pain or pressure lasting more than a few minutes.
+- Severe shortness of breath at rest, or waking gasping for air.
+- Coughing up pink, frothy sputum.
 
 Fainting during exertion with a known murmur can indicate severe narrowing of the aortic valve. It requires emergency care. The [MedlinePlus](https://medlineplus.gov/heartvalvediseases.html) overview of valve disease describes how these symptoms develop.
 

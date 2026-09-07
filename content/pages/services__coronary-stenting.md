@@ -25,10 +25,10 @@ A stent restores blood flow through a narrowed artery. It also keeps that artery
 Dr. Nanavati may recommend coronary stenting if you have:
 
 - An active heart attack, where reopening the artery quickly limits damage to the heart muscle. The [American Heart Association describes heart attack warning signs](https://www.heart.org/en/health-topics/heart-attack), and calling 911 is always the first step.
-- [Chest pain](/conditions/chest-pain) with exertion that persists despite medication
-- A severe narrowing shown on a coronary angiogram or on [coronary CT angiography](/services/coronary-ct-angiography)
-- A large area of reduced blood flow on stress imaging
-- Symptoms of [coronary artery disease](/conditions/coronary-artery-disease) that limit your daily life
+- [Chest pain](/conditions/chest-pain) with exertion that persists despite medication.
+- A severe narrowing shown on a coronary angiogram or on [coronary CT angiography](/services/coronary-ct-angiography).
+- A large area of reduced blood flow on stress imaging.
+- Symptoms of [coronary artery disease](/conditions/coronary-artery-disease) that limit your daily life.
 
 Not every blockage needs a stent. For stable symptoms, medication and risk factor treatment often work just as well. Bypass surgery is sometimes the better treatment for multi-vessel disease. The [National Heart, Lung, and Blood Institute reviews the treatment options for coronary heart disease](https://www.nhlbi.nih.gov/health/coronary-heart-disease). Dr. Nanavati will explain why a stent is or is not the right choice in your case.
 
@@ -81,8 +81,8 @@ Call 911 for new severe chest pain. Call the office for fever, spreading bruisin
 
 ## Related services and conditions
 
-- [Angioplasty](/services/angioplasty), the balloon step performed with stenting
-- [Coronary artery disease](/conditions/coronary-artery-disease), the underlying condition
-- [Cardiac rehabilitation](/services/cardiac-rehabilitation) after the procedure
-- [About Dr. Vimal Nanavati](/dr-vimal-nanavati), interventional cardiologist
+- [Angioplasty](/services/angioplasty), the balloon step performed with stenting.
+- [Coronary artery disease](/conditions/coronary-artery-disease), the underlying condition.
+- [Cardiac rehabilitation](/services/cardiac-rehabilitation) after the procedure.
+- [About Dr. Vimal Nanavati](/dr-vimal-nanavati), interventional cardiologist.
 - [Our office locations](/locations)

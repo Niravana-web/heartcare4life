@@ -25,17 +25,17 @@ AFib feels different from person to person. Roughly a third of patients have no 
 
 Call the office if you notice:
 
-- A fluttering, quivering or galloping heartbeat
-- A pulse that is irregular when you check it at your wrist
-- Shortness of breath with stairs or light activity
-- Fatigue that is new or out of proportion to what you are doing
-- Lightheadedness, or a feeling of pressure in the chest with an episode
+- A fluttering, quivering or galloping heartbeat.
+- A pulse that is irregular when you check it at your wrist.
+- Shortness of breath with stairs or light activity.
+- Fatigue that is new or out of proportion to what you are doing.
+- Lightheadedness, or a feeling of pressure in the chest with an episode.
 
 Call 911 right away if you have:
 
-- Chest pain or pressure that lasts more than a few minutes
-- Sudden face drooping, arm weakness or trouble speaking, the [stroke](https://www.cdc.gov/stroke/) warning signs
-- Fainting, or severe shortness of breath at rest
+- Chest pain or pressure that lasts more than a few minutes.
+- Sudden face drooping, arm weakness or trouble speaking, the [stroke](https://www.cdc.gov/stroke/) warning signs.
+- Fainting, or severe shortness of breath at rest.
 
 Stroke symptoms are time critical. Treatment works best in the first hours. Call 911 rather than driving to a hospital.
 

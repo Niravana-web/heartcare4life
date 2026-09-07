@@ -24,12 +24,12 @@ The catch is that many arrhythmias come and go. A standard [electrocardiogram](/
 
 Dr. Nanavati may recommend a 7 to 10 day monitor if you have:
 
-- [Heart palpitations](/conditions/heart-palpitations), fluttering, or a racing sensation that comes in episodes
-- Dizziness, lightheadedness, or fainting with no clear cause
-- Suspected [atrial fibrillation](/conditions/atrial-fibrillation), including after a stroke of unknown origin
-- Unexplained shortness of breath or episodes of chest discomfort
-- A need to check whether a rhythm medication is working
-- A known arrhythmia that needs a longer look before treatment decisions are made
+- [Heart palpitations](/conditions/heart-palpitations), fluttering, or a racing sensation that comes in episodes.
+- Dizziness, lightheadedness, or fainting with no clear cause.
+- Suspected [atrial fibrillation](/conditions/atrial-fibrillation), including after a stroke of unknown origin.
+- Unexplained shortness of breath or episodes of chest discomfort.
+- A need to check whether a rhythm medication is working.
+- A known arrhythmia that needs a longer look before treatment decisions are made.
 
 ## How to prepare
 
@@ -76,8 +76,8 @@ The monitor does not alert anyone in real time. Call 911 if you have severe ches
 
 ## Related services and conditions
 
-- [Holter monitoring](/services/holter-monitoring) for shorter 24 to 48 hour recordings
-- [Electrocardiogram (ECG / EKG)](/services/electrocardiogram-ecg-ekg), the quick in-office rhythm snapshot
-- [Arrhythmias](/conditions/arrhythmias), the broader category this test looks for
-- [Defibrillator interrogation](/services/defibrillator-interrogation) for patients with an implanted device
+- [Holter monitoring](/services/holter-monitoring) for shorter 24 to 48 hour recordings.
+- [Electrocardiogram (ECG / EKG)](/services/electrocardiogram-ecg-ekg), the quick in-office rhythm snapshot.
+- [Arrhythmias](/conditions/arrhythmias), the broader category this test looks for.
+- [Defibrillator interrogation](/services/defibrillator-interrogation) for patients with an implanted device.
 - [Request an appointment online](/appointments/online)

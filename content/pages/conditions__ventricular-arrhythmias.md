@@ -21,18 +21,18 @@ Many ventricular arrhythmias are felt as a skipped beat followed by a forceful o
 
 Call the office if you have:
 
-- Frequent skipped beats, thumps or a flip flop feeling in the chest
-- Palpitations that increase with rest, caffeine or stress
-- New shortness of breath or reduced exercise tolerance
-- Mild lightheadedness with an episode
-- Known heart disease and any new [palpitations](/conditions/heart-palpitations)
+- Frequent skipped beats, thumps or a flip flop feeling in the chest.
+- Palpitations that increase with rest, caffeine or stress.
+- New shortness of breath or reduced exercise tolerance.
+- Mild lightheadedness with an episode.
+- Known heart disease and any new [palpitations](/conditions/heart-palpitations).
 
 Call 911 for any of these:
 
-- Fainting, or nearly fainting, with a racing heartbeat
-- Chest pain or pressure with palpitations
-- A sustained racing heartbeat that will not slow down
-- Severe shortness of breath, confusion or gray, clammy skin
+- Fainting, or nearly fainting, with a racing heartbeat.
+- Chest pain or pressure with palpitations.
+- A sustained racing heartbeat that will not slow down.
+- Severe shortness of breath, confusion or gray, clammy skin.
 
 If someone collapses and is unresponsive without normal breathing, call 911. Begin CPR and use an AED if one is nearby. The [American Heart Association](https://www.heart.org/en/health-topics/cardiac-arrest) notes that immediate bystander CPR can double or triple the chance of survival.
 

@@ -21,13 +21,13 @@ Ischemic heart disease is the most common form of heart disease, and it is often
 
 Dr. Nanavati may recommend an evaluation if you have:
 
-- [Chest pain](/conditions/chest-pain), pressure, tightness, or burning, especially when it comes on with exertion and eases with rest
-- Discomfort spreading to the jaw, neck, shoulder, arm, or upper back
-- Shortness of breath with activity, or a clear drop in stamina
-- Nausea, sweating, or unusual fatigue with exertion, which are common presentations in women and in people with diabetes
-- Several risk factors together, such as high blood pressure, high cholesterol, diabetes, smoking, or a strong family history
-- An abnormal electrocardiogram or an incidental finding of coronary calcium on another scan
-- A previous heart attack, stent, or bypass, where recurring symptoms need reassessment
+- [Chest pain](/conditions/chest-pain), pressure, tightness, or burning, especially when it comes on with exertion and eases with rest.
+- Discomfort spreading to the jaw, neck, shoulder, arm, or upper back.
+- Shortness of breath with activity, or a clear drop in stamina.
+- Nausea, sweating, or unusual fatigue with exertion, which are common presentations in women and in people with diabetes.
+- Several risk factors together, such as high blood pressure, high cholesterol, diabetes, smoking, or a strong family history.
+- An abnormal electrocardiogram or an incidental finding of coronary calcium on another scan.
+- A previous heart attack, stent, or bypass, where recurring symptoms need reassessment.
 
 Sudden severe chest pain is an emergency, especially with sweating, nausea, or breathlessness. Call 911 rather than booking an appointment.
 
@@ -82,7 +82,7 @@ The guiding principle is simple. Each test should be ordered only when its resul
 
 ## Related services and conditions
 
-- [Coronary artery disease](/conditions/coronary-artery-disease), the underlying diagnosis
-- [Advanced stress testing](/services/advanced-stress-testing) and [coronary CT angiography](/services/coronary-ct-angiography)
-- [Cardiology services](/services/cardiology-services) at our practice
+- [Coronary artery disease](/conditions/coronary-artery-disease), the underlying diagnosis.
+- [Advanced stress testing](/services/advanced-stress-testing) and [coronary CT angiography](/services/coronary-ct-angiography).
+- [Cardiology services](/services/cardiology-services) at our practice.
 - [Request an appointment online](/appointments/online)

@@ -22,15 +22,15 @@ The ECG is the first test in cardiology for good reason. It is fast, inexpensive
 
 Dr. Nanavati may order an ECG if you have:
 
-- [Chest pain](/conditions/chest-pain), pressure, or tightness, where an ECG helps identify a heart attack quickly
-- [Heart palpitations](/conditions/heart-palpitations), a racing pulse, or a skipped beat
+- [Chest pain](/conditions/chest-pain), pressure, or tightness, where an ECG helps identify a heart attack quickly.
+- [Heart palpitations](/conditions/heart-palpitations), a racing pulse, or a skipped beat.
 - Dizziness, fainting, or near-fainting
-- Shortness of breath or unexplained fatigue
-- High blood pressure, diabetes, high cholesterol, or a smoking history
-- A known [arrhythmia](/conditions/arrhythmias) that needs periodic checking
-- A new medication that can affect heart rhythm
-- An upcoming surgery requiring cardiac clearance
-- A pacemaker or defibrillator, as part of routine follow-up
+- Shortness of breath or unexplained fatigue.
+- High blood pressure, diabetes, high cholesterol, or a smoking history.
+- A known [arrhythmia](/conditions/arrhythmias) that needs periodic checking.
+- A new medication that can affect heart rhythm.
+- An upcoming surgery requiring cardiac clearance.
+- A pacemaker or defibrillator, as part of routine follow-up.
 
 The [American Heart Association explains how arrhythmias are identified and treated](https://www.heart.org/en/health-topics/arrhythmia), and the [National Heart, Lung, and Blood Institute reviews the arrhythmias an ECG can reveal](https://www.nhlbi.nih.gov/health/arrhythmias).
 
@@ -82,7 +82,7 @@ If you have chest pain now, or pain with sweating, nausea, or breathlessness, ca
 
 ## Related services and conditions
 
-- [Holter monitoring](/services/holter-monitoring) for 24 to 48 hours of continuous recording
-- [Echocardiogram](/services/echocardiogram) to look at heart structure and pumping
+- [Holter monitoring](/services/holter-monitoring) for 24 to 48 hours of continuous recording.
+- [Echocardiogram](/services/echocardiogram) to look at heart structure and pumping.
 - [Arrhythmias](/conditions/arrhythmias) and [heart palpitations](/conditions/heart-palpitations)
-- [Cardiology services](/services/cardiology-services) at our practice
+- [Cardiology services](/services/cardiology-services) at our practice.

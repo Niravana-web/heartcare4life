@@ -24,13 +24,13 @@ Advanced stress testing answers a specific question. Is any part of your heart m
 
 Dr. Nanavati may recommend it if you have:
 
-- [Chest pain](/conditions/chest-pain), pressure, or jaw and arm discomfort that could be cardiac
-- Unexplained shortness of breath or a sharp drop in exercise tolerance
-- Known or suspected [coronary artery disease](/conditions/coronary-artery-disease) that needs to be graded before deciding on treatment
-- An abnormal or inconclusive [treadmill stress test](/services/treadmill-stress-test) or [electrocardiogram](/services/electrocardiogram-ecg-ekg)
-- Difficulty walking on a treadmill because of joint disease, lung disease, or general deconditioning
-- A body habitus or breast tissue that degraded the images on a previous nuclear scan
-- A need for cardiac clearance before major noncardiac surgery
+- [Chest pain](/conditions/chest-pain), pressure, or jaw and arm discomfort that could be cardiac.
+- Unexplained shortness of breath or a sharp drop in exercise tolerance.
+- Known or suspected [coronary artery disease](/conditions/coronary-artery-disease) that needs to be graded before deciding on treatment.
+- An abnormal or inconclusive [treadmill stress test](/services/treadmill-stress-test) or [electrocardiogram](/services/electrocardiogram-ecg-ekg).
+- Difficulty walking on a treadmill because of joint disease, lung disease, or general deconditioning.
+- A body habitus or breast tissue that degraded the images on a previous nuclear scan.
+- A need for cardiac clearance before major noncardiac surgery.
 
 The [American Heart Association describes coronary artery disease and its warning signs](https://www.heart.org/en/health-topics/heart-attack). It is also worth reading the [National Heart, Lung, and Blood Institute overview of heart tests](https://www.nhlbi.nih.gov/health/heart-tests).
 
@@ -78,8 +78,8 @@ Call 911 if you develop severe chest pain or fainting after you get home. Do not
 
 ## Related services and conditions
 
-- [Nuclear stress test](/services/nuclear-stress-test), a related imaging alternative
-- [Coronary CT angiography](/services/coronary-ct-angiography) to look directly at the arteries
-- [Coronary artery disease](/conditions/coronary-artery-disease), the condition most often found
-- [IHD evaluation](/services/ihd-evaluation), the broader ischemic heart disease workup
+- [Nuclear stress test](/services/nuclear-stress-test), a related imaging alternative.
+- [Coronary CT angiography](/services/coronary-ct-angiography) to look directly at the arteries.
+- [Coronary artery disease](/conditions/coronary-artery-disease), the condition most often found.
+- [IHD evaluation](/services/ihd-evaluation), the broader ischemic heart disease workup.
 - [Request an appointment online](/appointments/online)

@@ -24,13 +24,13 @@ The most urgent reason is suspected deep vein thrombosis, a clot in a deep vein.
 
 Other reasons include:
 
-- New swelling, pain, warmth, or redness in one leg or arm
-- Leg heaviness, aching, or throbbing that worsens through the day
-- Varicose veins, skin discoloration near the ankle, or a slow-healing ankle ulcer
-- Mapping leaking valves before [venous ablation](/services/venous-ablation) or another vein treatment
-- Follow-up after a previous clot or vein procedure
-- Checking arm veins around an intravenous line or dialysis access
-- Unexplained swelling where the cause is not clear
+- New swelling, pain, warmth, or redness in one leg or arm.
+- Leg heaviness, aching, or throbbing that worsens through the day.
+- Varicose veins, skin discoloration near the ankle, or a slow-healing ankle ulcer.
+- Mapping leaking valves before [venous ablation](/services/venous-ablation) or another vein treatment.
+- Follow-up after a previous clot or vein procedure.
+- Checking arm veins around an intravenous line or dialysis access.
+- Unexplained swelling where the cause is not clear.
 
 A dedicated reflux study is a version of this test done standing or sitting. Gravity is needed to reveal leaking valves. It is often combined with broader [vascular ultrasound](/services/vascular-ultrasound) testing.
 
@@ -83,9 +83,9 @@ The blind spots are worth stating plainly. Veins deep in the pelvis are hard to 
 
 ## Related services and conditions
 
-- [Vascular ultrasound](/services/vascular-ultrasound) covering both arteries and veins
-- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries
-- [Arterial ultrasound](/services/arterial-ultrasound) when leg pain suggests artery disease
-- [Echocardiogram](/services/echocardiogram) when heart function may be causing swelling
-- [Cardiology services](/services/cardiology-services) at each of our offices
+- [Vascular ultrasound](/services/vascular-ultrasound) covering both arteries and veins.
+- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries.
+- [Arterial ultrasound](/services/arterial-ultrasound) when leg pain suggests artery disease.
+- [Echocardiogram](/services/echocardiogram) when heart function may be causing swelling.
+- [Cardiology services](/services/cardiology-services) at each of our offices.
 - [Request an appointment online](/appointments/online)

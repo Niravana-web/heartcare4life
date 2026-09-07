@@ -25,18 +25,18 @@ CAD can be present for years without a single symptom. Symptoms usually start wi
 
 Call the office if you have:
 
-- Chest pressure, tightness or burning when you walk uphill, hurry or carry groceries
-- Shortness of breath with activity you used to handle easily
-- Jaw, neck, shoulder or upper back discomfort that comes on with exertion
-- Unusual fatigue, or a drop in what you can do without stopping
-- Nausea or lightheadedness during exercise
+- Chest pressure, tightness or burning when you walk uphill, hurry or carry groceries.
+- Shortness of breath with activity you used to handle easily.
+- Jaw, neck, shoulder or upper back discomfort that comes on with exertion.
+- Unusual fatigue, or a drop in what you can do without stopping.
+- Nausea or lightheadedness during exercise.
 
 Call 911 immediately for:
 
-- Chest pressure lasting more than a few minutes, or that returns
-- Chest discomfort with sweating, nausea, or shortness of breath
-- Pain radiating into the arm, back, neck or jaw
-- Sudden severe weakness, fainting or a cold sweat
+- Chest pressure lasting more than a few minutes, or that returns.
+- Chest discomfort with sweating, nausea, or shortness of breath.
+- Pain radiating into the arm, back, neck or jaw.
+- Sudden severe weakness, fainting or a cold sweat.
 
 Women often have less typical symptoms, such as breathlessness or extreme fatigue. The [American Heart Association](https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack) advises calling 911 rather than waiting for classic chest pain.
 

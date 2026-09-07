@@ -21,18 +21,18 @@ The company palpitations keep is what matters most. Isolated flutters in an othe
 
 Call the office to be seen if you have:
 
-- Palpitations that happen most days, or last more than a few minutes
-- A pulse that feels irregular when you check it at your wrist
-- Palpitations with mild lightheadedness or breathlessness
-- Episodes that start and stop abruptly, like a switch
-- Palpitations that began after a new medication or supplement
+- Palpitations that happen most days, or last more than a few minutes.
+- A pulse that feels irregular when you check it at your wrist.
+- Palpitations with mild lightheadedness or breathlessness.
+- Episodes that start and stop abruptly, like a switch.
+- Palpitations that began after a new medication or supplement.
 
 Call 911 if palpitations come with:
 
 - Chest pain or pressure
-- Fainting, or nearly passing out
-- Severe shortness of breath at rest
-- Confusion, or sudden weakness on one side of the body
+- Fainting, or nearly passing out.
+- Severe shortness of breath at rest.
+- Confusion, or sudden weakness on one side of the body.
 
 Fainting with palpitations is never something to watch and wait on. The [American Heart Association](https://www.heart.org/en/health-topics/arrhythmia) treats it as a warning sign of a serious rhythm problem.
 

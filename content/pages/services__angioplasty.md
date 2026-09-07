@@ -24,10 +24,10 @@ The goal of angioplasty is to restore blood flow to heart muscle that is not get
 Dr. Nanavati is board certified in interventional cardiology. He may recommend angioplasty if you have:
 
 - An active heart attack, where opening the artery quickly is the priority. The [American Heart Association explains the warning signs of a heart attack](https://www.heart.org/en/health-topics/heart-attack). Calling 911 is always the right first step.
-- [Chest pain](/conditions/chest-pain) or pressure with exertion that has not settled with medication
-- A severe narrowing found on a [coronary CT angiogram](/services/coronary-ct-angiography) or a coronary angiogram
-- A large area of poor blood flow on [advanced stress testing](/services/advanced-stress-testing)
-- Shortness of breath or reduced stamina traced to [coronary artery disease](/conditions/coronary-artery-disease)
+- [Chest pain](/conditions/chest-pain) or pressure with exertion that has not settled with medication.
+- A severe narrowing found on a [coronary CT angiogram](/services/coronary-ct-angiography) or a coronary angiogram.
+- A large area of poor blood flow on [advanced stress testing](/services/advanced-stress-testing).
+- Shortness of breath or reduced stamina traced to [coronary artery disease](/conditions/coronary-artery-disease).
 
 Angioplasty is not right for every blockage. Some patients do better with medication alone, and others are better served by bypass surgery. That decision depends on how many arteries are involved, where the narrowings sit, and your overall health.
 
@@ -78,8 +78,8 @@ Call 911 for new severe chest pain. Call the office for bleeding, swelling, feve
 
 ## Related services and conditions
 
-- [Coronary stenting](/services/coronary-stenting), usually performed together with angioplasty
-- [Coronary artery disease](/conditions/coronary-artery-disease), the underlying cause
-- [Cardiac rehabilitation](/services/cardiac-rehabilitation) after a heart procedure
-- [Advanced stress testing](/services/advanced-stress-testing) to assess blood flow first
-- [Our office locations](/locations) in Bonita, San Diego, and Redding
+- [Coronary stenting](/services/coronary-stenting), usually performed together with angioplasty.
+- [Coronary artery disease](/conditions/coronary-artery-disease), the underlying cause.
+- [Cardiac rehabilitation](/services/cardiac-rehabilitation) after a heart procedure.
+- [Advanced stress testing](/services/advanced-stress-testing) to assess blood flow first.
+- [Our office locations](/locations) in Bonita, San Diego, and Redding.

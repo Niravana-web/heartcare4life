@@ -25,12 +25,12 @@ Arterial Doppler ultrasound answers two practical questions. Is blood flow to a 
 Dr. Nanavati may recommend it if you have:
 
 - Leg cramping or aching that begins with walking and stops with rest, the classic symptom of peripheral artery disease. The [American Heart Association explains peripheral artery disease and why it matters](https://www.heart.org/en/health-topics/peripheral-artery-disease).
-- An abnormal or borderline [ankle-brachial index](/services/ankle-brachial-index-abi) that needs to be mapped in more detail
-- A foot or leg wound that will not heal, or foot pain at rest
-- Coldness, numbness, weakness, or color change in an arm or leg
-- A pulsating mass in the abdomen, or screening for an [aortic aneurysm](/conditions/aortic-aneurysm), which is a bulge in a weakened artery wall
-- Suspected narrowing of a kidney artery in someone with hard to control blood pressure
-- Follow-up of a previous bypass graft, stent, or dialysis access to make sure it is still open
+- An abnormal or borderline [ankle-brachial index](/services/ankle-brachial-index-abi) that needs to be mapped in more detail.
+- A foot or leg wound that will not heal, or foot pain at rest.
+- Coldness, numbness, weakness, or color change in an arm or leg.
+- A pulsating mass in the abdomen, or screening for an [aortic aneurysm](/conditions/aortic-aneurysm), which is a bulge in a weakened artery wall.
+- Suspected narrowing of a kidney artery in someone with hard to control blood pressure.
+- Follow-up of a previous bypass graft, stent, or dialysis access to make sure it is still open.
 
 The [National Heart, Lung, and Blood Institute reviews how reduced circulation is diagnosed and treated](https://www.nhlbi.nih.gov/health/peripheral-artery-disease).
 
@@ -86,10 +86,10 @@ When part of the picture is missing, CT or MR angiography usually fills it in. R
 
 ## Related services and conditions
 
-- [Ankle-brachial index (ABI)](/services/ankle-brachial-index-abi), the usual first screening test
-- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries
-- [Venous ultrasound](/services/venous-ultrasound) for clots and leaking valves in the veins
-- [Vascular ultrasound](/services/vascular-ultrasound), the overview of all of these scans
-- [Aortic aneurysm](/conditions/aortic-aneurysm), often followed with serial ultrasound
-- [Coronary artery disease](/conditions/coronary-artery-disease), which frequently coexists
+- [Ankle-brachial index (ABI)](/services/ankle-brachial-index-abi), the usual first screening test.
+- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries.
+- [Venous ultrasound](/services/venous-ultrasound) for clots and leaking valves in the veins.
+- [Vascular ultrasound](/services/vascular-ultrasound), the overview of all of these scans.
+- [Aortic aneurysm](/conditions/aortic-aneurysm), often followed with serial ultrasound.
+- [Coronary artery disease](/conditions/coronary-artery-disease), which frequently coexists.
 - [Request an appointment online](/appointments/online)

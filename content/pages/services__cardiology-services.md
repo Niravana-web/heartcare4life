@@ -23,15 +23,15 @@ Some people are referred by a primary care physician. Others come on their own, 
 Consider seeing a cardiologist if you have:
 
 - [Chest pain](/conditions/chest-pain), pressure, or tightness, especially with exertion. Sudden or severe chest pain is an emergency, so call 911.
-- Shortness of breath with activity, or breathlessness when lying flat
-- [Heart palpitations](/conditions/heart-palpitations), a racing pulse, or a skipped or irregular beat
-- Fainting, near-fainting, or unexplained dizziness
-- A heart murmur, an extra sound heard on examination
-- High blood pressure or high cholesterol that is difficult to control
-- Diabetes, which raises cardiovascular risk substantially
-- A family history of early heart attack, stroke, or sudden death
-- Swelling in the legs or ankles, or a sharp drop in exercise tolerance
-- A known heart condition that needs ongoing management
+- Shortness of breath with activity, or breathlessness when lying flat.
+- [Heart palpitations](/conditions/heart-palpitations), a racing pulse, or a skipped or irregular beat.
+- Fainting, near-fainting, or unexplained dizziness.
+- A heart murmur, an extra sound heard on examination.
+- High blood pressure or high cholesterol that is difficult to control.
+- Diabetes, which raises cardiovascular risk substantially.
+- A family history of early heart attack, stroke, or sudden death.
+- Swelling in the legs or ankles, or a sharp drop in exercise tolerance.
+- A known heart condition that needs ongoing management.
 
 Heart disease remains the leading cause of death in the United States. That is the finding reported by the [Centers for Disease Control and Prevention](https://www.cdc.gov/heart-disease/). The [American Heart Association outlines the risk factors that can be changed](https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease).
 
@@ -78,8 +78,8 @@ The honest principle is simple: a test should only be done when its result will 
 
 ## Related services and conditions
 
-- [About Dr. Vimal Nanavati](/dr-vimal-nanavati), board certified in cardiology and interventional cardiology
-- [Coronary artery disease](/conditions/coronary-artery-disease), the most common heart diagnosis
-- [Holter monitoring](/services/holter-monitoring) and other in-office rhythm testing
+- [About Dr. Vimal Nanavati](/dr-vimal-nanavati), board certified in cardiology and interventional cardiology.
+- [Coronary artery disease](/conditions/coronary-artery-disease), the most common heart diagnosis.
+- [Holter monitoring](/services/holter-monitoring) and other in-office rhythm testing.
 - [Frequently asked questions](/faqs)
 - [Request an appointment online](/appointments/online)

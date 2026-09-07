@@ -21,18 +21,18 @@ Some arrhythmias produce no symptoms at all and turn up on a routine tracing. Wh
 
 Call the office to be seen if you have:
 
-- Fluttering, pounding, racing or skipping beats that keep coming back
-- A pulse that feels persistently fast or unusually slow
-- Shortness of breath with ordinary activity
-- Unusual fatigue, lightheadedness or a brief woozy spell
-- A racing heartbeat that starts and stops abruptly
+- Fluttering, pounding, racing or skipping beats that keep coming back.
+- A pulse that feels persistently fast or unusually slow.
+- Shortness of breath with ordinary activity.
+- Unusual fatigue, lightheadedness or a brief woozy spell.
+- A racing heartbeat that starts and stops abruptly.
 
 Call 911 if you have:
 
-- Chest pain or pressure along with a racing or irregular heartbeat
-- Fainting, or a near faint where you lost awareness
-- Severe shortness of breath at rest
-- Sudden weakness on one side, trouble speaking or a drooping face, which are [stroke](https://www.cdc.gov/stroke/) warning signs
+- Chest pain or pressure along with a racing or irregular heartbeat.
+- Fainting, or a near faint where you lost awareness.
+- Severe shortness of breath at rest.
+- Sudden weakness on one side, trouble speaking or a drooping face, which are [stroke](https://www.cdc.gov/stroke/) warning signs.
 
 If someone collapses and is not breathing normally, call 911 and start CPR. The [American Heart Association](https://www.heart.org/en/health-topics/cardiac-arrest) notes that immediate CPR can double or triple survival from cardiac arrest.
 

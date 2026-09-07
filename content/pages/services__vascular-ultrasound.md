@@ -22,13 +22,13 @@ The reasons depend on which vessels are involved. Arteries carry blood away from
 
 Common reasons include:
 
-- Leg pain or cramping that comes on with walking and eases with rest
-- Leg swelling, aching, heaviness, skin discoloration, or a wound that will not heal
-- Suspected blood clot in a deep vein, especially with sudden one-sided swelling
-- Screening for narrowing in the neck arteries, evaluated with a [carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler)
-- Reduced or absent pulses found during an exam
-- Follow-up after a bypass, a stent, or another vascular procedure
-- Watching a known [aortic aneurysm](/conditions/aortic-aneurysm) over time
+- Leg pain or cramping that comes on with walking and eases with rest.
+- Leg swelling, aching, heaviness, skin discoloration, or a wound that will not heal.
+- Suspected blood clot in a deep vein, especially with sudden one-sided swelling.
+- Screening for narrowing in the neck arteries, evaluated with a [carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler).
+- Reduced or absent pulses found during an exam.
+- Follow-up after a bypass, a stent, or another vascular procedure.
+- Watching a known [aortic aneurysm](/conditions/aortic-aneurysm) over time.
 
 Peripheral artery disease is common. It is often silent in its early stages. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/peripheral-artery-disease) explains why. Depending on the question, Dr. Nanavati may order an [arterial ultrasound](/services/arterial-ultrasound), a [venous ultrasound](/services/venous-ultrasound), or an [ankle brachial index](/services/ankle-brachial-index-abi) measurement alongside the scan.
 
@@ -78,11 +78,11 @@ Sometimes a scan cannot answer the question. The next step is then a test that d
 
 ## Related services and conditions
 
-- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries and stroke risk
-- [Arterial ultrasound](/services/arterial-ultrasound) for reduced blood flow to the arms and legs
-- [Venous ultrasound](/services/venous-ultrasound) for clots and leaking vein valves
-- [Venous ablation](/services/venous-ablation) for symptomatic varicose veins
-- [Echocardiogram](/services/echocardiogram) when the heart itself needs assessment
-- [Advanced lipid testing](/services/advanced-lipid-testing) to guide cholesterol treatment
-- [Cardiology services](/services/cardiology-services) offered at each of our offices
+- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries and stroke risk.
+- [Arterial ultrasound](/services/arterial-ultrasound) for reduced blood flow to the arms and legs.
+- [Venous ultrasound](/services/venous-ultrasound) for clots and leaking vein valves.
+- [Venous ablation](/services/venous-ablation) for symptomatic varicose veins.
+- [Echocardiogram](/services/echocardiogram) when the heart itself needs assessment.
+- [Advanced lipid testing](/services/advanced-lipid-testing) to guide cholesterol treatment.
+- [Cardiology services](/services/cardiology-services) offered at each of our offices.
 - [Request an appointment online](/appointments/online)

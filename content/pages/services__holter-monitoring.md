@@ -21,14 +21,14 @@ A standard [electrocardiogram](/services/electrocardiogram-ecg-ekg) is a snapsho
 
 Dr. Nanavati may recommend Holter monitoring if you have:
 
-- [Heart palpitations](/conditions/heart-palpitations), fluttering, pounding, or a sense of skipped beats
-- Dizziness, lightheadedness, or unexplained fainting
-- Episodes of unexplained shortness of breath or chest discomfort
-- A suspected slow heart rate, or pauses in the heartbeat
-- Suspected [atrial fibrillation](/conditions/atrial-fibrillation), or known atrial fibrillation where the heart rate needs assessing
-- A pacemaker or defibrillator whose function needs checking against symptoms
-- A new rhythm medication that needs evaluation
-- Follow-up after an ablation or other rhythm procedure
+- [Heart palpitations](/conditions/heart-palpitations), fluttering, pounding, or a sense of skipped beats.
+- Dizziness, lightheadedness, or unexplained fainting.
+- Episodes of unexplained shortness of breath or chest discomfort.
+- A suspected slow heart rate, or pauses in the heartbeat.
+- Suspected [atrial fibrillation](/conditions/atrial-fibrillation), or known atrial fibrillation where the heart rate needs assessing.
+- A pacemaker or defibrillator whose function needs checking against symptoms.
+- A new rhythm medication that needs evaluation.
+- Follow-up after an ablation or other rhythm procedure.
 
 The [American Heart Association explains atrial fibrillation and why the rhythm matters](https://www.heart.org/en/health-topics/atrial-fibrillation). The [National Heart, Lung, and Blood Institute reviews the range of arrhythmias](https://www.nhlbi.nih.gov/health/arrhythmias). If your symptoms occur only weekly or monthly, a longer [7 to 10 day ambulatory rhythm monitor](/services/7-10-day-ambulatory-rhythm-monitor) is usually a better choice.
 
@@ -80,7 +80,7 @@ The monitor does not alert anyone in real time. Call 911 if you have severe ches
 
 ## Related services and conditions
 
-- [7 to 10 day ambulatory rhythm monitor](/services/7-10-day-ambulatory-rhythm-monitor) for less frequent symptoms
-- [Electrocardiogram (ECG / EKG)](/services/electrocardiogram-ecg-ekg), the brief in-office recording
+- [7 to 10 day ambulatory rhythm monitor](/services/7-10-day-ambulatory-rhythm-monitor) for less frequent symptoms.
+- [Electrocardiogram (ECG / EKG)](/services/electrocardiogram-ecg-ekg), the brief in-office recording.
 - [Arrhythmias](/conditions/arrhythmias) and [atrial fibrillation](/conditions/atrial-fibrillation)
 - [Request an appointment online](/appointments/online)

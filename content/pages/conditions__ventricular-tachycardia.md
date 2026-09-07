@@ -23,19 +23,19 @@ VT often announces itself abruptly. How it feels depends on two things. One is h
 
 Call the office if you have:
 
-- Brief flutters or a run of rapid beats that stops on its own
-- Palpitations with mild dizziness that resolve quickly
-- Reduced exercise tolerance or new fatigue
-- Known heart disease and any new rhythm sensation
-- Shocks or beeping from an implanted defibrillator, which need prompt review
+- Brief flutters or a run of rapid beats that stops on its own.
+- Palpitations with mild dizziness that resolve quickly.
+- Reduced exercise tolerance or new fatigue.
+- Known heart disease and any new rhythm sensation.
+- Shocks or beeping from an implanted defibrillator, which need prompt review.
 
 Call 911 immediately for:
 
-- A sustained racing heartbeat that does not slow down
+- A sustained racing heartbeat that does not slow down.
 - Fainting or near fainting
-- Chest pain or pressure with a racing heart
-- Severe shortness of breath, confusion or clammy, gray skin
-- More than one defibrillator shock in 24 hours
+- Chest pain or pressure with a racing heart.
+- Severe shortness of breath, confusion or clammy, gray skin.
+- More than one defibrillator shock in 24 hours.
 
 If someone collapses and is not breathing normally, call 911. Start CPR and use an AED. Survival from [cardiac arrest](https://www.heart.org/en/health-topics/cardiac-arrest) depends on how quickly CPR and defibrillation begin.
 

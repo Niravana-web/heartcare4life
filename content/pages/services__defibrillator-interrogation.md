@@ -22,14 +22,14 @@ An ICD is a safety net, and a safety net needs checking. Interrogation confirms 
 
 Interrogation is recommended:
 
-- On a regular schedule, commonly every three to six months, sometimes alternating with remote transmissions from home
-- Promptly after the device delivers a shock, or after you hear an audible alert or feel a vibration
-- When you have new symptoms such as [heart palpitations](/conditions/heart-palpitations), dizziness, fainting, or unusual fatigue
-- After implantation, generator replacement, or any lead revision
-- When remote monitoring flags an abnormal reading
-- When battery depletion or a lead problem is suspected
-- Before and after surgery, since electrocautery and some equipment can interfere with the device
-- After a change in medication that affects heart rhythm, or after a hospitalization
+- On a regular schedule, commonly every three to six months, sometimes alternating with remote transmissions from home.
+- Promptly after the device delivers a shock, or after you hear an audible alert or feel a vibration.
+- When you have new symptoms such as [heart palpitations](/conditions/heart-palpitations), dizziness, fainting, or unusual fatigue.
+- After implantation, generator replacement, or any lead revision.
+- When remote monitoring flags an abnormal reading.
+- When battery depletion or a lead problem is suspected.
+- Before and after surgery, since electrocautery and some equipment can interfere with the device.
+- After a change in medication that affects heart rhythm, or after a hospitalization.
 
 The [American Heart Association explains arrhythmias and the devices used to treat them](https://www.heart.org/en/health-topics/arrhythmia). [MedlinePlus provides an overview of pacemakers and implantable defibrillators](https://medlineplus.gov/pacemakersandimplantabledefibrillators.html) in plain language.
 
@@ -78,8 +78,8 @@ The important safety points are outside the office. Keep your device identificat
 
 ## Related services and conditions
 
-- [Ventricular arrhythmias](/conditions/ventricular-arrhythmias), the rhythms an ICD is designed to treat
-- [7-10 day ambulatory rhythm monitor](/services/7-10-day-ambulatory-rhythm-monitor) for symptoms between checks
-- [Echocardiogram](/services/echocardiogram) to assess the heart's pumping strength
+- [Ventricular arrhythmias](/conditions/ventricular-arrhythmias), the rhythms an ICD is designed to treat.
+- [7-10 day ambulatory rhythm monitor](/services/7-10-day-ambulatory-rhythm-monitor) for symptoms between checks.
+- [Echocardiogram](/services/echocardiogram) to assess the heart's pumping strength.
 - [Our office locations](/locations)
 - [Request an appointment online](/appointments/online)

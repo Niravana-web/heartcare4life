@@ -24,13 +24,13 @@ Narrowing of a carotid artery is a treatable cause of stroke. Plaque can restric
 
 Dr. Nanavati may recommend a carotid ultrasound if you have:
 
-- A transient ischemic attack, sometimes called a mini-stroke, or a previous stroke
-- Sudden temporary weakness, numbness, slurred speech, or loss of vision in one eye
-- A bruit, which is a whooshing sound heard through a stethoscope over the neck artery
-- Known [coronary artery disease](/conditions/coronary-artery-disease), or plaque found elsewhere on an [arterial ultrasound](/services/arterial-ultrasound)
-- High blood pressure, high cholesterol, diabetes, or a history of smoking
-- A family history of stroke or early heart disease
-- A previous carotid procedure that needs periodic surveillance
+- A transient ischemic attack, sometimes called a mini-stroke, or a previous stroke.
+- Sudden temporary weakness, numbness, slurred speech, or loss of vision in one eye.
+- A bruit, which is a whooshing sound heard through a stethoscope over the neck artery.
+- Known [coronary artery disease](/conditions/coronary-artery-disease), or plaque found elsewhere on an [arterial ultrasound](/services/arterial-ultrasound).
+- High blood pressure, high cholesterol, diabetes, or a history of smoking.
+- A family history of stroke or early heart disease.
+- A previous carotid procedure that needs periodic surveillance.
 
 The [American Heart Association describes stroke warning signs and risk factors](https://www.heart.org/en/health-topics/stroke). [MedlinePlus provides an overview of carotid artery disease](https://medlineplus.gov/carotidarterydisease.html). Stroke symptoms are an emergency. Call 911 rather than waiting for a scheduled test.
 
@@ -87,10 +87,10 @@ A clean carotid study is reassuring, but it answers one question only. Stroke ha
 
 ## Related services and conditions
 
-- [Vascular ultrasound](/services/vascular-ultrasound), the overview of this family of scans
-- [Arterial Doppler ultrasound](/services/arterial-ultrasound) for arteries elsewhere in the body
-- [Venous ultrasound](/services/venous-ultrasound) for clots and leaking valves in the veins
-- [Ankle-brachial index (ABI)](/services/ankle-brachial-index-abi) to screen the leg circulation
-- [Atrial fibrillation](/conditions/atrial-fibrillation), another major cause of stroke
-- [Advanced lipid testing](/services/advanced-lipid-testing) to refine risk
+- [Vascular ultrasound](/services/vascular-ultrasound), the overview of this family of scans.
+- [Arterial Doppler ultrasound](/services/arterial-ultrasound) for arteries elsewhere in the body.
+- [Venous ultrasound](/services/venous-ultrasound) for clots and leaking valves in the veins.
+- [Ankle-brachial index (ABI)](/services/ankle-brachial-index-abi) to screen the leg circulation.
+- [Atrial fibrillation](/conditions/atrial-fibrillation), another major cause of stroke.
+- [Advanced lipid testing](/services/advanced-lipid-testing) to refine risk.
 - [Our office locations](/locations)

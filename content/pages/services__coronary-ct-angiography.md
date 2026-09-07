@@ -22,12 +22,12 @@ CCTA is particularly good at ruling coronary disease out. A normal scan is power
 
 Dr. Nanavati may recommend it if you have:
 
-- [Chest pain](/conditions/chest-pain), pressure, or jaw, neck, or arm discomfort that could be cardiac in origin
-- Unexplained shortness of breath or reduced exercise tolerance
-- An inconclusive or borderline stress test result
-- An intermediate risk of [coronary artery disease](/conditions/coronary-artery-disease) where the decision to treat is not clear cut
-- A need to evaluate the arteries before certain heart or valve procedures
-- A previous bypass graft that needs assessment
+- [Chest pain](/conditions/chest-pain), pressure, or jaw, neck, or arm discomfort that could be cardiac in origin.
+- Unexplained shortness of breath or reduced exercise tolerance.
+- An inconclusive or borderline stress test result.
+- An intermediate risk of [coronary artery disease](/conditions/coronary-artery-disease) where the decision to treat is not clear cut.
+- A need to evaluate the arteries before certain heart or valve procedures.
+- A previous bypass graft that needs assessment.
 
 The [American Heart Association explains how coronary artery disease develops and what raises risk](https://www.heart.org/en/health-topics/heart-attack). The [National Heart, Lung, and Blood Institute reviews coronary heart disease diagnosis](https://www.nhlbi.nih.gov/health/coronary-heart-disease). CCTA is not the right test during an active heart attack. That situation calls for emergency care, and usually a catheter procedure such as [angioplasty](/services/angioplasty).
 
@@ -80,7 +80,7 @@ Call the office for spreading redness, swelling, or pain at the intravenous site
 
 ## Related services and conditions
 
-- [Advanced stress testing](/services/advanced-stress-testing) when blood flow needs measuring
-- [Coronary artery disease](/conditions/coronary-artery-disease) and [chest pain](/conditions/chest-pain)
-- [IHD evaluation](/services/ihd-evaluation), the broader ischemic workup
-- [Coronary stenting](/services/coronary-stenting) if a severe narrowing is confirmed
+- [Advanced stress testing](/services/advanced-stress-testing) when blood flow needs measuring.
+- [Coronary artery disease](/conditions/coronary-artery-disease) and [chest pain](/conditions/chest-pain).
+- [IHD evaluation](/services/ihd-evaluation), the broader ischemic workup.
+- [Coronary stenting](/services/coronary-stenting) if a severe narrowing is confirmed.

@@ -28,11 +28,11 @@ Some people, however, cannot take anticoagulants safely. LAA closure exists for 
 
 Dr. Nanavati may discuss this procedure if you have:
 
-- [Atrial fibrillation](/conditions/atrial-fibrillation) not caused by a heart valve problem, with a stroke risk high enough to warrant treatment
-- A history of serious bleeding on a blood thinner, such as gastrointestinal or brain bleeding
-- A condition or occupation that makes bleeding especially dangerous, such as frequent falls
-- Anemia or a bleeding disorder that makes long-term anticoagulation impractical
-- A stroke or clot that occurred despite taking anticoagulation correctly
+- [Atrial fibrillation](/conditions/atrial-fibrillation) not caused by a heart valve problem, with a stroke risk high enough to warrant treatment.
+- A history of serious bleeding on a blood thinner, such as gastrointestinal or brain bleeding.
+- A condition or occupation that makes bleeding especially dangerous, such as frequent falls.
+- Anemia or a bleeding disorder that makes long-term anticoagulation impractical.
+- A stroke or clot that occurred despite taking anticoagulation correctly.
 
 This is not a treatment for the [arrhythmia](/conditions/arrhythmias) itself. Your heart will still be in atrial fibrillation afterward. You may still need rate or rhythm medication. We perform the procedure at an affiliated hospital rather than in our office. The decision involves a careful weighing of your bleeding risk against your stroke risk.
 
@@ -85,7 +85,7 @@ Tell any dentist or surgeon about the implant before procedures. Preventive anti
 
 ## Related services and conditions
 
-- [Atrial fibrillation](/conditions/atrial-fibrillation), the reason this procedure is considered
-- [Arrhythmias](/conditions/arrhythmias) and how they are evaluated
-- [Holter monitoring](/services/holter-monitoring) to assess rhythm and heart rate
-- [About Dr. Vimal Nanavati](/dr-vimal-nanavati), interventional cardiologist
+- [Atrial fibrillation](/conditions/atrial-fibrillation), the reason this procedure is considered.
+- [Arrhythmias](/conditions/arrhythmias) and how they are evaluated.
+- [Holter monitoring](/services/holter-monitoring) to assess rhythm and heart rate.
+- [About Dr. Vimal Nanavati](/dr-vimal-nanavati), interventional cardiologist.
