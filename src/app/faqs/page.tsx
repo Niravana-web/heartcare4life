@@ -7,7 +7,7 @@ import { getPage, faqPairs, plainText } from "@/lib/content";
 import { buildMetadata, graph, webPageLd, faqLd } from "@/lib/seo";
 
 const page = getPage("/faqs")!;
-export const metadata = buildMetadata({ title: "FAQs | Heart Health, Medication Safety & Visiting HeartCare4life", description: "Answers from Dr. Vimal Nanavati on office hours, scheduling, insurance, what to bring, medication safety and heart health.", route: "/faqs" });
+export const metadata = buildMetadata({ title: "Cardiology FAQs | Your Questions Answered", description: "Answers from Dr. Vimal Nanavati on office hours, scheduling, insurance, what to bring, medication safety and heart health.", route: "/faqs" });
 
 export default function Faqs() {
   const pairs = faqPairs(page.body).map((p) => ({ q: p.q, a: plainText(p.a) }));

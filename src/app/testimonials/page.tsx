@@ -6,7 +6,7 @@ import JsonLd from "@/components/JsonLd";
 import { buildMetadata, graph, webPageLd } from "@/lib/seo";
 import testimonials from "../../../content/testimonials.json";
 
-export const metadata = buildMetadata({ title: "Patient Testimonials | 95 Reviews of Dr. Nanavati", description: "Read 95 patient reviews of Dr. Vimal Nanavati and HeartCare4life from Google, Healthgrades, Zocdoc and our website. Interventional cardiologist in Bonita, San Diego and Redding, CA.", route: "/testimonials" });
+export const metadata = buildMetadata({ title: "Patient Testimonials | 95 Reviews", description: "Read 95 patient reviews of Dr. Vimal Nanavati and HeartCare4life from Google, Healthgrades, Zocdoc and our website. Interventional cardiologist in Bonita, San Diego and Redding, CA.", route: "/testimonials" });
 
 const SOURCES = ["Website", "Google", "Healthgrades", "Zocdoc"] as const;
 

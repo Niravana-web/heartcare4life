@@ -5,7 +5,7 @@ import JsonLd from "@/components/JsonLd";
 import { buildMetadata, graph, webPageLd, ID } from "@/lib/seo";
 import { LOCATIONS, HOURS } from "@/lib/site";
 
-export const metadata = buildMetadata({ title: "Contact Us | Bonita, San Diego & Redding Offices", description: "Call Bonita (619) 585-0476 or Redding (530) 433-5427, or request an appointment online. Addresses, maps and hours for all three HeartCare4life offices.", route: "/contact" });
+export const metadata = buildMetadata({ title: "Contact Us | Three CA Offices", description: "Call Bonita (619) 585-0476 or Redding (530) 433-5427, or request an appointment online. Addresses, maps and hours for all three HeartCare4life offices.", route: "/contact" });
 
 export default function Contact() {
   return (

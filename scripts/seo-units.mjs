@@ -103,7 +103,22 @@ for (const p of pages) {
   if (/your practice online/i.test(p.body)) bad(p.file, "still contains 'Your Practice Online' vendor boilerplate");
 }
 
-// 9. Config invariants
+// 9. Titles must fit Google's snippet before the site name is appended
+{
+  const src = fs.readFileSync(path.join(root, "src", "app", "[...slug]", "page.tsx"), "utf8");
+  if (!/TITLE_BUDGET/.test(src)) bad("[...slug]/page.tsx", "title budget guard removed");
+  const BRAND = " | HeartCare4life";
+  for (const f of fs.readdirSync(path.join(root, "src", "app"), { recursive: true })) {
+    if (typeof f !== "string" || !f.endsWith("page.tsx")) continue;
+    const txt = fs.readFileSync(path.join(root, "src", "app", f), "utf8");
+    for (const [, t] of txt.matchAll(/buildMetadata\(\{\s*title:\s*"([^"]+)"/g)) {
+      const full = t.includes("HeartCare4life") ? t : t + BRAND;
+      if (full.length > 60) bad("src/app/" + f, `title ${full.length} chars: "${full}"`);
+    }
+  }
+}
+
+// 10. Config invariants
 const site = fs.readFileSync(path.join(root, "src", "lib", "site.ts"), "utf8");
 if (!/SATURDAY_SPEC/.test(site)) bad("site.ts", "SATURDAY_SPEC missing");
 const seo = fs.readFileSync(path.join(root, "src", "lib", "seo.ts"), "utf8");

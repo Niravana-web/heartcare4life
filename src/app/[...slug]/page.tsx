@@ -28,9 +28,23 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return buildMetadata({ title: cleanTitle(page.h1, page.section), description: page.description, route: page.route });
 }
 
+/**
+ * buildMetadata appends " | HeartCare4life" (17 chars). Google truncates around 60,
+ * so only add a qualifier that still fits inside that budget. Longest fitting wins.
+ */
+const TITLE_BUDGET = 60 - " | HeartCare4life".length;
+const SUFFIXES: Record<string, string[]> = {
+  services: ["San Diego & Redding", "San Diego"],
+  conditions: ["Symptoms & Treatment", "Symptoms"],
+  compare: ["Which Is Right for You?"],
+};
+
 function cleanTitle(h1: string, section: string) {
-  const suffix: Record<string, string> = { services: "San Diego & Redding", conditions: "Symptoms & Treatment" };
-  return suffix[section] && h1.length < 24 ? `${h1} | ${suffix[section]}` : h1;
+  for (const suffix of SUFFIXES[section] ?? []) {
+    const candidate = `${h1} | ${suffix}`;
+    if (candidate.length <= TITLE_BUDGET) return candidate;
+  }
+  return h1;
 }
 
 export default async function Page({ params }: { params: Promise<{ slug: string[] }> }) {

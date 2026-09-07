@@ -7,7 +7,7 @@ import { getPage } from "@/lib/content";
 import { buildMetadata, graph, webPageLd } from "@/lib/seo";
 
 const page = getPage("/appointments/general")!;
-export const metadata = buildMetadata({ title: "General Appointment | What to Expect at Your Visit", description: page.description, route: "/appointments/general" });
+export const metadata = buildMetadata({ title: "General Appointment | What to Expect", description: page.description, route: "/appointments/general" });
 const LOCS = ["South San Diego (Bonita)", "North San Diego", "Northern California (Redding)", "Telehealth / virtual"];
 
 export default function GeneralAppointment() {
