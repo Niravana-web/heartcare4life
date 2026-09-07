@@ -16,7 +16,7 @@ export default function Media() {
   return (
     <>
       <JsonLd data={graph(webPageLd({ route: "/media", title: "Media", description: metadata.description as string, type: "CollectionPage" }))} />
-      <PageHeader eyebrow="Videos, news and stories" title="Media" crumbs={[{ name: "Home", route: "/" }, { name: "Media", route: "/media" }]} />
+      <PageHeader eyebrow="Videos, news and stories" title="Media" bg="/hero.jpeg" crumbs={[{ name: "Home", route: "/" }, { name: "Media", route: "/media" }]} />
       <div className="container-x grid gap-8 py-14 sm:grid-cols-2 lg:grid-cols-3">
         {ITEMS.map(([t, h, d], i) => (<Reveal key={h} delay={i * 0.06} className="border-t border-rule-strong pt-5"><h2 className="m-0 font-serif text-[1.5rem] font-normal text-navy"><Link href={h} className="no-underline hover:underline underline-offset-4">{t}</Link></h2><p className="mt-2 text-ink-muted">{d}</p><Link href={h} className="link-u text-[.875rem]">Open →</Link></Reveal>))}
       </div>
