@@ -1,60 +1,80 @@
 ---
 {
  "route": "/accessibility",
- "title": "Accessibility | Dr Vimal Nanavati | Chest Pain Chula Vista, Bonita, CA",
- "h1": "Accessibility",
- "description": "Click here for guides and resources to access the website easily. Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA offers treatment for chest pain and aortic aneurysm.",
+ "title": "Using This Site: Accessibility Guide | HeartCare4life",
+ "h1": "Accessibility Help",
+ "description": "A practical guide to navigating heartcare4life.com: keyboard navigation, skip links, text size, contrast, screen readers and browser support.",
  "sourceUrl": "https://www.heartcare4life.com/accessibility/",
  "legacyUrls": [],
  "youtube": []
 }
 ---
 
-## Accessibility - Guides And Resources to access the website
+## How to Use This Website
 
-### Accessibility Features
+This page is a practical how-to guide. If you are looking for our formal conformance statement and how to report a problem, see our [Accessibility Statement](/accessibility-statement).
 
-Several ways to navigate the website
+### Navigating Without a Mouse
 
-- Using keyboard shortcuts.
-- Keyboard-Only Navigation - Using the Tab button, navigate until you have reached the link below. (You can use Shift+Tab to navigate back one step).
-- Using [Sitemap](/sitemap-page)
+You can reach every link, button, and form field on this site using the keyboard alone.
 
-Skip to Content Navigation
+- Press **Tab** to move forward through links and controls.
+- Press **Shift + Tab** to move back one step.
+- Press **Enter** to follow a link or activate a button.
+- Press **Space** to scroll down, and **Shift + Space** to scroll up.
+- Use the **arrow keys** to move within menus and form controls.
 
-A Skip to content link is located at the top left hand corner, along with other accessibility features, to enable those using screen readers or text browsers to skip the navigation features and jump directly to the main content.
+The item you are currently on is marked with a visible focus outline, so you can always see where you are.
 
-Text Size
+### Skip to Content
 
-Besides adjusting the zoom feature of your preferred browser, people can also take advantage of the three-text size (small, medium, and large) links on the accessibility section located on the top right hand corner of the page.
+A "Skip to content" link sits at the very top of every page. It is the first thing you reach when you press Tab on a freshly loaded page. Activating it jumps you past the site navigation and straight into the main content of the page. Screen reader and text browser users do not have to listen through the menu on every page.
 
-Color Contrast Theme
+### Finding a Page
 
-There is an option for people with vision disabilities where one can adjust the color theme. There is the normal color theme and the inverted color theme.
+If you are not sure where something lives, the [Sitemap](/site-map) lists every page on this website in one place. It is often the fastest route to a specific service or condition.
 
-### Access Keys
+Our main sections are [Services](/services), [Conditions](/conditions), [Treatments](/treatments), [Patient Info](/patient-info), [Appointments](/appointments), and [Locations](/locations).
 
-Access Keys which are assigned to some main links are as follows:
+### Text Size
 
-Alt+Shift+access key | Alt+access key | Example: Alt+Shift+H
+You can enlarge the text on any page using your browser's built-in zoom.
 
-### How can you view the slides?
+- **Windows and Linux:** press **Ctrl** and **+** to zoom in, **Ctrl** and **-** to zoom out, **Ctrl** and **0** to reset.
+- **Mac:** press **Command** and **+** to zoom in, **Command** and **-** to zoom out, **Command** and **0** to reset.
 
-- Slides in website can be viewed by using controls, where you can click play button " " and watch slideshow.
-- Click pause button " " whenever you want to stop slideshow.
-- You can view previous slides and next slides by clicking previous button " " and next button " "
-- The above process is same for reading "Patient Testimonials" which is in Home page.
+The layout of this site reflows as you zoom, so text stays readable and you should not need to scroll sideways.
 
-### What browser is this site best viewed in?
+### Color and Contrast
 
-This website is compatible with the Mozilla Firefox, Google Chrome and latest versions of Microsoft Internet Explorer.
+If your operating system or browser is set to a dark theme, high contrast mode, or a custom color scheme, this site respects that setting. You do not need to change anything here.
 
-### Assistive Technology: Screen Readers
+If you find any text hard to read, please tell us. Contrast problems are usually easy for us to fix once we know about them.
 
-- Screen Access For All (SAFA) - Free - [https://safa-reader.software.informer.com/download/](https://safa-reader.software.informer.com/download/)
-- Non Visual Desktop Access (NVDA) - [https://www.nvda-project.org/](https://www.nvda-project.org/)
-- System Access To Go - Free - [https://www.satogo.com/](https://www.satogo.com/)
-- Thunder - Free - [https://www.screenreader.net/](https://www.screenreader.net/)
-- JAWS - Commercial - [https://www.freedomscientific.com/Downloads/JAWS](https://www.freedomscientific.com/Downloads/JAWS)
-- Supernova - Commercial - [https://www.yourdolphin.co.uk/productdetail.asp?id=1](https://www.yourdolphin.co.uk/productdetail.asp?id=1)
-- Window-Eyes - Commercial - [https://www.gwmicro.com/Window-Eyes/](https://www.gwmicro.com/Window-Eyes/)
+### Reduced Motion
+
+If you have asked your device to reduce motion, the animated transitions on this site are minimized automatically.
+
+### Videos
+
+Patient education videos on this site play in a standard player. Use the on-screen controls to play, pause, adjust volume, and enter full screen. The player is reachable by keyboard.
+
+### Browser Support
+
+This website works in current versions of Google Chrome, Mozilla Firefox, Microsoft Edge, and Apple Safari, on desktop and on mobile devices. Keeping your browser up to date gives you the best experience and the best security.
+
+### Screen Readers
+
+If you use a screen reader, this site is built to work with it. Headings are properly nested, images carry alternative text, and forms have real labels.
+
+Widely used screen readers include:
+
+- **NVDA** - free, for Windows - [nvaccess.org](https://www.nvaccess.org/)
+- **JAWS** - commercial, for Windows - [freedomscientific.com](https://www.freedomscientific.com/products/software/jaws/)
+- **VoiceOver** - built into macOS, iOS, and iPadOS. Turn it on in Accessibility settings.
+- **Narrator** - built into Windows. Press **Ctrl + Windows + Enter** to start it.
+- **TalkBack** - built into Android. Turn it on in Accessibility settings.
+
+### If Something Does Not Work
+
+If any part of this site gets in your way, we want to hear about it. Call the Bonita office at **(619) 585-0476** or the Redding office at **(530) 433-5427**, or use our [contact page](/contact). Tell us the page and what happened, and we will help you get the information you need by another route in the meantime.

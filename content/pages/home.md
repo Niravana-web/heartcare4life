@@ -3,7 +3,7 @@
  "route": "/",
  "title": "HeartCare4life | Dr Vimal Nanavati | Interventional Cardiologist Bonita, CA",
  "h1": "Delivering Compassionate Heart Care Across California",
- "description": "Dr Vimal Nanavati is an interventional cardiologist at HeartCare4life in Redding, Bonita and Chula Vista, CA. He offers diagnostic cardiology services and interventional cardiology.",
+ "description": "Diagnostic and interventional cardiology from Dr. Vimal Nanavati, MD, FACC, with 32 years of experience and offices in Bonita, San Diego and Redding, CA.",
  "sourceUrl": "https://www.heartcare4life.com/",
  "legacyUrls": [],
  "youtube": []

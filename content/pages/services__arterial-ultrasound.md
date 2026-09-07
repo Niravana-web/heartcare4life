@@ -1,9 +1,9 @@
 ---
 {
  "route": "/services/arterial-ultrasound",
- "title": "Arterial Doppler Ultrasound Chula Vista, Bonita, CA | Heart Valve Defects Redding, CA",
+ "title": "Arterial Doppler Ultrasound",
  "h1": "Arterial Ultrasound",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA offers treatment for heart valve defects and arterial aneurysms. Arterial Doppler ultrasound is a non-invasive imaging test used to visualize the blood flow in the arteries.",
+ "description": "Arterial Doppler ultrasound uses sound waves to show blood flow through your arteries and find narrowing, clots, or aneurysms. Painless, no radiation or dye.",
  "sourceUrl": "https://www.heartcare4life.com/arterial-ultrasound-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/arterial-ultrasound-interventional-cardiologist-bonita-redding-ca/"
@@ -14,81 +14,68 @@
 
 ## What is an Arterial Doppler Ultrasound?
 
-Arterial Doppler ultrasound is a non-invasive imaging test used to visualize the blood flow in the arteries, by bouncing high frequency sound waves(ultrasound) over the circulating blood cells.
+An arterial Doppler ultrasound is a painless imaging test that uses high frequency sound waves to show the arteries and the blood moving through them. Arteries are the vessels that carry oxygen-rich blood away from the heart. A small handheld device called a transducer is pressed against the skin over the artery being studied. It sends sound waves into the body and listens for the echoes that bounce back, which a computer turns into pictures and into a graph of blood flow speed. Color Doppler adds color to show the direction of flow, which makes narrowed or blocked segments easy to spot. The test uses no radiation, no needles, and usually no dye, so it can be repeated as often as needed. It is performed in the office by a trained sonographer, takes roughly 30 to 60 minutes depending on how much of the body is examined, and requires no recovery time.
 
-## What are the Types of Arterial Doppler Tests?
+## Why Dr. Nanavati may recommend this
 
-- **Color Doppler ultrasound:** This type of study shows the direction and speed of the blood flow by changing the soundwaves into different colors.
-- **Pulse wave Doppler ultrasound:** This type of study uses intermittent bursts of ultrasound waves to measure exact flow velocity and degree of stenosis in the arteries.
-- **Continuous Doppler ultrasound:** This type of study uses continuous ultrasound waves to measure blood flow at high velocity and can identify blocked arteries.
+Arterial Doppler ultrasound answers two practical questions. Is blood flow to a limb or organ reduced, and if so, exactly where is the problem?
 
-## Why is an Arterial Doppler Study Indicated?
+Dr. Nanavati may recommend it if you have:
 
-This test is performed to rule out the following conditions with respective symptoms;
+- Leg cramping or aching that begins with walking and stops with rest, the classic symptom of peripheral artery disease. The [American Heart Association explains peripheral artery disease and why it matters](https://www.heart.org/en/health-topics/peripheral-artery-disease).
+- An abnormal or borderline [ankle-brachial index](/services/ankle-brachial-index-abi) that needs to be mapped in more detail
+- A foot or leg wound that will not heal, or foot pain at rest
+- Coldness, numbness, weakness, or color change in an arm or leg
+- A pulsating mass in the abdomen, or screening for an [aortic aneurysm](/conditions/aortic-aneurysm), which is a bulge in a weakened artery wall
+- Suspected narrowing of a kidney artery in someone with hard to control blood pressure
+- Follow-up of a previous bypass graft, stent, or dialysis access to make sure it is still open
 
-- Arteriosclerosis
-- Blood clots
-- Thromboembolism
-- Heart valve defects
-- Arterial occlusion
-- Arterial aneurysms
-- Arterial stenosis
-- Peripheral artery disease
-- Congenital heart disease
-- Arterial injury or trauma
-- Cerebral arteries and other haemorrhage
-- Ischemic stroke
-- Renal artery stenosis
+The [National Heart, Lung, and Blood Institute reviews how reduced circulation is diagnosed and treated](https://www.nhlbi.nih.gov/health/peripheral-artery-disease).
 
-## Who Requires an Arterial Doppler Ultrasound?
+## How to prepare
 
-This is a diagnostic measure advised by your doctor or specialist, if the following complaints are observed in patients:
+Preparation depends on which arteries are being studied, so follow the instructions the office gives you.
 
-- Patients above 50-60 years of age with or without comorbidities
-- Persistent mild or moderate chest discomfort
-- Breathing difficulty intermittent in nature
-- Fatigue
-- Heaviness and giddiness
-- Severe vomiting and nausea
-- Edema
-- Numbness or weakness in the limbs
-- Intense cramps in the limbs
-- Pain, pulselessness, pallor, paralysis
-- Discoloration and perfusion in the skin
+- For arm and leg studies, no fasting is needed. Eat, drink, and take your medications as usual.
+- For studies of the abdominal aorta or the kidney arteries, you will usually be asked not to eat for about 8 hours beforehand, since gas and food in the bowel obscure the picture. Sips of water with pills are generally fine.
+- Do not smoke or use nicotine for at least two hours before the test. Nicotine narrows blood vessels and can distort the measurements.
+- Wear loose, two piece clothing that is easy to remove. You may be given a gown.
+- Leave necklaces and other jewelry at home when the neck or chest is being scanned.
+- Keep taking blood thinners and blood pressure medications unless specifically instructed otherwise.
+- Allow about an hour for the appointment.
 
-## What are the Benefits of an Arterial Doppler Ultrasound Over other Diagnostic Methods?
+## What happens during the procedure
 
-The benefits of an arterial Doppler ultrasound include:
+You lie on an exam table in a dimly lit room. The lighting is low so the sonographer can see the screen clearly, not because anything is wrong.
 
-- Alternative to more invasive procedures such as angiography etc
-- No prior preparation is required for the test, can be done anytime
-- Cost effective and considered safe
-- Comparatively less radiation exposure
+The area being studied is uncovered, and warm water-based gel is spread over the skin. The gel feels cool or slightly sticky, and it exists to remove the thin layer of air between the probe and your body, which sound waves cannot cross.
 
-## What are the pre-requisites for the test?
+The sonographer moves the transducer slowly along the path of the artery, pausing to capture images and measurements. You will hear a rhythmic whooshing sound from the speakers. That is your own blood flow, and it is a normal part of the study.
 
-There are no specific preparations for the test, however a few general measures to be followed include:
+You may be asked to change position, turn onto your side, take a breath and hold it briefly, or straighten a leg. For abdominal studies, moderate pressure is applied to see past bowel gas, which can feel uncomfortable but should not be painful. Say something if it is.
 
-- Do not smoke at least 2-3 hours prior to the test because nicotine will cause narrowing in the blood vessels and alters the diagnosis.
-- Diagnosis of particular conditions may require fasting for a certain period before the test. Otherwise, the scan can be done without need for fasting.
-- Jewelry and heavy clothing need to be removed before entering the radiology room.
-- Most medicines will not alter the scan results, so patients can take their regular medicines with the exception of anti-coagulants just before the procedure.
+When enough images are recorded, the gel is wiped away and you can dress. Nothing is left behind and nothing is injected.
 
-## How is an Arterial Doppler Ultrasound Test Performed?
+## Recovery and results
 
-The arterial doppler ultrasound is done in the following steps:
+There is no recovery period at all. You can eat, drive, work, and exercise immediately. If you fasted for an abdominal study, bring a snack for afterward.
 
-- You will lie down on the procedure table exposing the area to be scanned.
-- Water-soluble gel will be applied over the prepared area.
-- A transducer is moved over the area sending high frequency sound waves which trace the blood flow, speed and direction.
-- The wave variations are recorded and converted into a graph and images using a computer.
-- The test may require 30-60 minutes depending on the limb and part of the body to be scanned.
-- Once the final images or result is recorded, the gel applied on the patient will be wiped off.
+A physician reviews and interprets the images, and the report generally reaches Dr. Nanavati within a few days. In some situations the sonographer can flag an urgent finding right away. Dr. Nanavati then explains the results at a follow-up appointment or by phone.
 
-## Interpretation of the Arterial Doppler Ultrasound Findings
+A normal study means the arteries are open and blood is flowing at expected speeds. An abnormal study describes where the narrowing sits and how severe it is, graded by how much the flow speeds up as it squeezes through the tight segment. Mild to moderate disease is usually treated with a supervised walking program, smoking cessation, cholesterol and blood pressure control, and sometimes medication, supported by [advanced lipid testing](/services/advanced-lipid-testing) when risk is unclear. Severe disease, a non-healing wound, or rest pain may lead to further imaging and a catheter-based procedure such as [angioplasty](/services/angioplasty).
 
-- If test results are normal, this indicates the blood vessels are fine, clear, patent and intact.
-- If test results are abnormal, then it will report the underlying causes like narrowing, occlusions or bleeding in the vessel.
-- Your doctor will review the findings with you at your next appointment.
+## Risks and safety
 
-[Other Related Treatments](/treatments)
+Diagnostic ultrasound has an excellent safety record and has been used in medicine for decades. There is no ionizing radiation, so there is no cancer risk from the test, and it is safe in pregnancy and safe to repeat.
+
+The realistic discomforts are minor. The gel is cool. The probe pressure can be tender over a bruised area, an inflamed vein, or a fresh surgical site. Abdominal scanning sometimes requires firm pressure that feels uncomfortable for a few seconds at a time. Lying still for 30 to 60 minutes can be hard on a stiff back or hip, and a pillow usually solves it.
+
+The limitations are worth knowing. Bowel gas, obesity, heavy calcification in an artery wall, open wounds, and casts can all block the sound waves and leave part of the study incomplete. In those cases another test such as CT or MR angiography may be needed to finish the picture. Ultrasound also gives a snapshot of one moment, so symptoms that come and go may still need additional evaluation.
+
+## Related services and conditions
+
+- [Ankle-brachial index (ABI)](/services/ankle-brachial-index-abi), the usual first screening test
+- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries
+- [Aortic aneurysm](/conditions/aortic-aneurysm), often followed with serial ultrasound
+- [Coronary artery disease](/conditions/coronary-artery-disease), which frequently coexists
+- [Request an appointment online](/appointments/online)

@@ -1,9 +1,9 @@
 ---
 {
  "route": "/services/coronary-stenting",
- "title": "Coronary Stenting | HeartCare4life, Dr. Vimal Nanavati, Board Certified in Cardiology and Interventional Cardiology, Bonita, Redding, San Diego, CA",
+ "title": "Coronary Stenting for Blocked Arteries",
  "h1": "Coronary Stenting",
- "description": "Coronary Stenting | HeartCare4life, Dr. Vimal Nanavati, Board Certified in Cardiology and Interventional Cardiology, Bonita, Redding, San Diego, CA",
+ "description": "A coronary stent is a small mesh tube that holds a heart artery open after angioplasty. Why it is placed, how to prepare, recovery, and the medications after.",
  "sourceUrl": "https://www.heartcare4life.com/coronary-stenting-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/coronary-stenting-interventional-cardiologist-bonita-redding-ca/"
@@ -12,77 +12,75 @@
 }
 ---
 
-## What is Coronary Angioplasty?
+## What is Coronary Stenting?
 
-Coronary angioplasty is a procedure to open up blocked arteries and restore normal blood flow to your heart muscle.
+Coronary stenting is the placement of a small expandable metal mesh tube inside a heart artery to hold it open after a blockage has been widened. The blockage is first stretched open with a tiny balloon, a step called [angioplasty](/services/angioplasty). The stent is then delivered to the same spot on a balloon catheter and expanded until it presses firmly into the artery wall, where it stays permanently. Within weeks the artery lining grows over the mesh, making it part of the vessel. Most stents used today are drug-eluting, meaning they carry a medication coating that is released slowly to discourage scar tissue from narrowing the artery again. Stenting is done through a catheter inserted at the wrist or groin, so there is no chest incision. It is performed in a hospital catheterization laboratory rather than in the office. Dr. Vimal Nanavati is board certified in interventional cardiology and performs these procedures at affiliated hospitals.
 
-## What is a Stent? What is Stenting?
+## Why Dr. Nanavati may recommend this
 
-A stent is a tiny, metal or plastic mesh tube that is placed permanently inside a blood vessel to relieve an obstruction. The procedure of inserting and placing the stent within your arterial wall through a small tube (catheter) is known as stenting.
+A stent is placed to restore blood flow through a narrowed artery, and to keep that artery from closing back down after the balloon is removed.
 
-## When and Why do You Need Coronary Angioplasty and Stenting?
+Dr. Nanavati may recommend coronary stenting if you have:
 
-You may need angioplasty and stenting when:
+- An active heart attack, where reopening the artery quickly limits damage to the heart muscle. The [American Heart Association describes heart attack warning signs](https://www.heart.org/en/health-topics/heart-attack), and calling 911 is always the first step.
+- [Chest pain](/conditions/chest-pain) with exertion that persists despite medication
+- A severe narrowing shown on a coronary angiogram or on [coronary CT angiography](/services/coronary-ct-angiography)
+- A large area of reduced blood flow on stress imaging
+- Symptoms of [coronary artery disease](/conditions/coronary-artery-disease) that limit your daily life
 
-- Artery blockage is severe and your heart condition is serious
-- Medications or lifestyle changes have not improved your condition
-- You have experienced a heart attack
+Not every blockage needs a stent. For stable symptoms, medication and risk factor treatment often work just as well, and multi-vessel disease is sometimes better treated with bypass surgery. The [National Heart, Lung, and Blood Institute reviews the treatment options for coronary heart disease](https://www.nhlbi.nih.gov/health/coronary-heart-disease). Dr. Nanavati will explain why a stent is or is not the right choice in your case.
 
-Angioplasty is more often combined with stenting. After your blocked arteries are treated with angioplasty, there is a possibility of them getting blocked again (restenosis). Stenting helps keep the arteries open and decrease the chances of narrowing or blocking again.
+## How to prepare
 
-## Preparing You for the Procedure
+- Expect preliminary testing, which usually includes blood work, an electrocardiogram, and imaging of the heart.
+- Do not eat or drink after midnight, or follow the specific instructions you are given. Essential pills may be taken with a sip of water.
+- Ask about blood thinners, diabetes medication, and metformin. Some are held, and some are deliberately continued. Never adjust them on your own.
+- Report allergies to contrast dye, iodine, shellfish, latex, or any medication, and tell the team about kidney disease.
+- Arrange for an adult to drive you home and stay with you for the first night.
+- Pack an overnight bag, your medication list, and your insurance information in case you stay.
+- Leave jewelry at home.
+- Plan to spend most of the day at the hospital.
 
-Prior to the procedure, your doctor will evaluate your medical history and perform a detailed physical examination. A chest X-ray, an electrocardiogram (to record heartbeat) and necessary blood tests may be carried out. Subsequently, an imaging test (coronary angiogram) to locate the blockages is also performed.
+## What happens during the procedure
 
-Your doctor will instruct you to stop taking certain medications such as for diabetes before the procedure.
+You lie on a narrow table beneath a movable X-ray camera. Monitors track your heart rhythm, blood pressure, and oxygen, and an intravenous line is placed for fluids and medication.
 
-## The Procedure
+You stay awake but relaxed. A mild sedative is usual, so many people remember little afterward. The wrist or groin is cleaned, draped, and numbed with local anesthetic. You may feel pressure while the sheath is placed, but not sharp pain.
 
-**Angioplasty**
-Angioplasty is usually done through an artery in your groin (area between the abdomen and the upper thigh) and occasionally in your arm, wrist or leg area. Before the procedure, the insertion area is sterilized with an antiseptic solution.
+A thin catheter is guided through the artery to the heart. This is not painful, because arteries have no internal sensory nerves. Contrast dye is injected so the arteries appear on the screen, and you may feel a brief warm flush.
 
-Once you are ready for the procedure, your doctor will:
+A soft guidewire is passed across the blockage. The balloon is inflated to open the narrowing, which some people feel as several seconds of chest pressure that fades as the balloon deflates. The stent, mounted collapsed on a second balloon, is then advanced to the same spot and expanded into place. The balloon is deflated and removed. The stent stays.
 
-- Take you to a special room called a cardiac catheterization laboratory (cath lab).
-- Place a sterile sheet over your body and position small electrode pads on your chest.
-- Inject local anesthesia to numb the spot where a small tube (catheter) will be inserted.
-- Make a small incision on the numbed skin to make way for the catheter to pass through.
-- Thread the catheter through the arterial system until it reaches the affected artery.
-- Direct a thin guidewire into the artery through the catheter until it reaches the blockage.
-- Pass a thin, expandable balloon on the end of this guidewire to the blockage spot.
-- Inflate the balloon to make the blocked artery stretch, widen and open.
-- Ensure the balloon opens the artery by pushing the plaque against the artery wall.
-- Deflate and remove the balloon to make sure the blood flows easily through the artery.
+Final pictures confirm the artery is open. The catheter is withdrawn and the access site is sealed with a closure device or with firm pressure.
 
-**Stenting**
-Your doctor will choose the type of stent depending on the artery size and blockage. Following the angioplasty, your doctor will:
+## Recovery and results
 
-- Mount a collapsed stent on an inflated balloon at the tip of the catheter.
-- Direct and move the stent over the guidewire through the artery to the blockage.
-- Ensure the balloon opens the stent against the walls of the blocked artery.
-- Make the stent expand at the blockage and lock in position inside the artery.
-- Once the stent is in place, remove the balloon and the catheter from the artery.
+If the wrist was used, a compression band stays on for a few hours and you can sit up soon after. If the groin was used, you lie flat for several hours to prevent bleeding. Stable patients often go home the same day, while a heart attack usually means several days in the hospital.
 
-The whole procedure may take several hours, depending on the number of blockages and other complications. Your doctor may have to repeat the procedure at each blockage if you have several blockages.
+The result is known immediately. Your cardiologist sees the open artery on screen and will explain what was found and done.
 
-## Risks Associated with the Procedure
+At home, keep the access site clean and dry, and avoid heavy lifting, straining, and vigorous exercise for about a week. Many people return to desk work within a few days, and chest pain related to the blockage often improves quickly.
 
-Coronary angioplasty and stenting carry a few risks. The most common of them include:
+The most important part of recovery is medication. You will take aspirin plus a second antiplatelet drug, known together as dual antiplatelet therapy, for a period your cardiologist specifies. Stopping these early is the single biggest cause of sudden stent clotting, so never stop them without checking first, including before dental work or surgery. [Cardiac rehabilitation](/services/cardiac-rehabilitation) is strongly recommended afterward.
 
-- **Blood clots:** These may be formed within the stents, close the artery and cause a heart attack
-- **Bleeding:** You may have bleeding at the spot where the catheter was inserted
-- **Heart attack:** You may suffer from a heart attack during the procedure, though rarely
-- **Coronary artery damage:** Your coronary artery may get torn or ruptured
-- **Kidney problems:** The contrast dye used during the procedure can damage your kidneys
-- **Stroke:** A stroke can occur in rare cases even after blood thinners are used
-- **Abnormal heart rhythms:** Your heart may beat too quickly or too slowly
+Modern coronary stents are safe with MRI scanning.
 
-## After Care and Recovery
+## Risks and safety
 
-Post procedure, you may need medications and additional care as prescribed by your doctor. It may take you a week before you are able to return to your normal routine.
+Coronary stenting is common and generally safe, and the risks deserve a plain description.
 
-## Benefits of Coronary Angioplasty and Stenting
+Bruising, bleeding, or soreness at the access site is the most frequent problem. Contrast dye can temporarily reduce kidney function, especially with existing kidney disease or diabetes, and can cause allergic reactions that are usually mild and treatable.
 
-This procedure clears blocked arteries and significantly increases the blood flow to your heart. Consequently, it reduces the amount of damage to your heart and keeps your heart healthy.
+Less common but more serious risks include an abnormal heart rhythm, tearing or injury of the coronary artery, a heart attack triggered by the procedure, stroke, and rarely the need for emergency bypass surgery. Serious complications are uncommon in stable patients and more likely during emergencies or in people who are already critically ill.
 
-[Other Related Treatments](/treatments)
+Two longer term issues are specific to stents. Restenosis is gradual renarrowing from scar tissue inside the stent, now much less frequent with drug-eluting stents. Stent thrombosis is a sudden clot inside the stent. It is rare but dangerous, and it is why the antiplatelet medications matter so much.
+
+Call 911 for new severe chest pain, and call the office for fever, spreading bruising, swelling, or bleeding at the access site.
+
+## Related services and conditions
+
+- [Angioplasty](/services/angioplasty), the balloon step performed with stenting
+- [Coronary artery disease](/conditions/coronary-artery-disease), the underlying condition
+- [Cardiac rehabilitation](/services/cardiac-rehabilitation) after the procedure
+- [About Dr. Vimal Nanavati](/dr-vimal-nanavati), interventional cardiologist
+- [Our office locations](/locations)

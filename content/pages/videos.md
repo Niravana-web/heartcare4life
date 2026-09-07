@@ -3,7 +3,7 @@
  "route": "/videos",
  "title": "Videos | Dr Vimal Nanavati | Atrial Fibrillation Chula Vista, CA",
  "h1": "Videos",
- "description": "Click here to watch the videos of Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA. He offers treatment for atrial fibrillation and heart disease.",
+ "description": "Short videos on atrial fibrillation, heart attack warning signs, TAVR and cardiac testing, recorded by an interventional cardiologist in San Diego, CA.",
  "sourceUrl": "https://www.heartcare4life.com/videos-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/videos-interventional-cardiologist-bonita-redding-ca/"

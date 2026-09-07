@@ -2,6 +2,7 @@ import PageHeader from "@/components/PageHeader";
 import Prose from "@/components/Prose";
 import Cta from "@/components/Cta";
 import JsonLd from "@/components/JsonLd";
+import AuthorBlock from "@/components/AuthorBlock";
 import { getPage, faqPairs, plainText } from "@/lib/content";
 import { buildMetadata, graph, webPageLd, faqLd } from "@/lib/seo";
 
@@ -14,7 +15,7 @@ export default function Faqs() {
     <>
       <JsonLd data={graph(webPageLd({ route: "/faqs", title: "Frequently Asked Questions", description: metadata.description as string, type: "FAQPage", extra: { mainEntity: faqLd(pairs).mainEntity } }))} />
       <PageHeader eyebrow="Patient questions" title="Frequently Asked Questions" lede={`${pairs.length} answers about visiting HeartCare4life, medication safety and heart health.`} crumbs={[{ name: "Home", route: "/" }, { name: "FAQs", route: "/faqs" }]} />
-      <div className="container-x py-14"><Prose body={page.body} /></div>
+      <div className="container-x py-14"><Prose body={page.body} /><div className="max-w-[76ch]"><AuthorBlock /></div></div>
       <Cta />
     </>
   );

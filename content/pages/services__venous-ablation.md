@@ -1,9 +1,9 @@
 ---
 {
  "route": "/services/venous-ablation",
- "title": "Venous Ablation | HeartCare4life, Dr. Vimal Nanavati, Board Certified in Cardiology and Interventional Cardiology, Bonita, Redding, San Diego, CA",
+ "title": "Venous Ablation for Varicose Veins",
  "h1": "Venous Ablation",
- "description": "Venous Ablation | HeartCare4life, Dr. Vimal Nanavati, Board Certified in Cardiology and Interventional Cardiology, Bonita, Redding, San Diego, CA",
+ "description": "Venous ablation seals a faulty leg vein with heat through a tiny puncture. Learn who benefits, how to prepare, what the day involves, and recovery timelines.",
  "sourceUrl": "https://www.heartcare4life.com/venous-ablation-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/venous-ablation-interventional-cardiologist-bonita-redding-ca/"
@@ -12,93 +12,77 @@
 }
 ---
 
-## What is Endovenous Laser Ablation for Varicose Veins?
+## What is venous ablation?
 
-Endovenous laser ablation is a minimally invasive, image-guided treatment for varicose veins in which laser energy is utilized to cauterize (burn) and close the abnormal veins that result in varicose veins.
+Venous ablation is a minimally invasive treatment that closes a faulty vein in the leg. Healthy leg veins carry blood upward against gravity, and one-way valves stop it from falling back. When those valves leak, blood pools and pressure builds, which produces bulging varicose veins, aching, swelling, and skin changes. Ablation seals the leaking vein so blood reroutes through healthy veins nearby. A thin catheter is placed into the vein through a needle puncture, guided by ultrasound. Heat delivered through the catheter tip, from either laser or radiofrequency energy, makes the vein wall collapse and scar shut. The body gradually absorbs the closed vein. There is no vein stripping and no surgical incision, just a puncture that often needs no stitch. Most procedures take under an hour, use only local numbing medicine, and let you walk out the same day.
 
-Varicose veins are enlarged veins caused due to weak or damaged valves in the veins. They appear twisted, bulged, and blue, red, or flesh-colored. They are swollen and raised above the surface of the skin and are mostly found on the thighs, back of the calves, and inside of the leg. Laser therapy is one of the newest ways of treating varicose veins. This treatment can be performed externally or by an endovenous laser ablation method.
+You may hear it called endovenous laser ablation, radiofrequency ablation, or endovenous thermal ablation.
 
-The endovenous (inside the vein) laser method is a minimally invasive procedure that is performed for larger varicose veins. In this procedure, a laser fiber is guided into the vein till it reaches the affected area. The fiber then emits a laser which produces heat and forms blood clots in the vessel. This blood vessel gradually shrinks and disappears. This is an outpatient procedure and takes about 30 minutes.
+## Why Dr. Nanavati may recommend this
 
-## Indications for Endovenous Laser Ablation for Varicose Veins
+Ablation treats the underlying valve failure, not just the visible veins. Varicose veins are common, and the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/varicose-veins) notes that they often reflect a problem with vein valves rather than a purely cosmetic issue.
 
-Normally, blood travels from the heart to the lower limbs by arteries and back to the heart through veins. Veins have one-way valves that enable blood to return from the lower limbs against gravity. If the blood pools in the veins or the valves leak, the veins can become varicosed or enlarged. Varicose veins result from defective valves in the superficial venous system which causes blood to pool in the leg as it is not effectively returned to the heart. Endovenous laser ablation is indicated to prevent complications and treat symptoms associated with varicose veins, such as:
+It may be recommended when you have:
 
-- Superficial venous thrombosis
-- Skin discoloration
-- Ulceration
-- Fibrosis (formation of excess connective tissue)
-- Itching
-- Restless legs
-- Aching
-- Cramps
-- Heaviness
-- Tired legs
+- Aching, throbbing, heaviness, or fatigue in the legs, especially late in the day
+- Swelling around the ankle that worsens with standing
+- Night cramps or restless, uncomfortable legs
+- Itching, dry patches, or brown skin discoloration near the ankle
+- Bleeding from a varicose vein, or a hardened tender vein from superficial clotting
+- A venous leg ulcer, or skin that looks close to breaking down
+- Symptoms that persist despite compression stockings, elevation, and exercise
 
-## Preparation for Endovenous Laser Ablation for Varicose Veins
+A [venous ultrasound](/services/venous-ultrasound) is required first. It maps which veins leak and confirms that the deep veins are open, which is what makes closing a surface vein safe. This mapping is part of the [vascular ultrasound](/services/vascular-ultrasound) testing done in our offices. If artery disease is also suspected, an [ankle brachial index](/services/ankle-brachial-index-abi) may be checked first, because compression stockings are not appropriate when blood flow into the leg is poor.
 
-Preoperative preparation for endovenous laser ablation surgery for varicose veins may involve the following steps:
+## How to prepare
 
-- A review of your medical history and a physical examination to check for any medical issues that need to be addressed prior to surgery.
-- Depending on your medical history, social history, and age, you may need to undergo tests such as bloodwork and imaging to screen for any abnormalities that could compromise the safety of the procedure.
-- You will be asked if you have allergies to medications, anesthesia, or latex.
-- You should inform your doctor of any medications or supplements you are taking or any medical conditions you have such as heart or lung disease.
-- You may be asked to refrain from certain medications such as blood thinners or aspirin or vitamin/herbal supplements for a week or two prior to the procedure.
-- You should refrain from alcohol or tobacco at least a few days before treatment and several weeks after, as it can hinder the healing process.
-- You should not consume solids or liquids at least 8 hours prior to the procedure.
-- Written consent will be obtained from you after the procedure has been explained in detail.
+- Have your mapping ultrasound completed and bring the report if it was done elsewhere.
+- Most patients are asked to eat lightly rather than fast, since sedation is usually not needed. Confirm the instructions for your case.
+- Ask which medicines to hold, particularly blood thinners and anti-inflammatory drugs.
+- Report allergies to local anesthetic, latex, or adhesives.
+- Buy or bring your compression stockings ahead of time, since you will need them immediately afterward.
+- Shave the leg if instructed, and skip lotion or oil on the leg that day.
+- Wear loose trousers or shorts you can pull on comfortably over a dressing.
+- Arrange a ride if you expect to receive any sedation, and plan a walk afterward rather than a long drive.
 
-## Procedure for Endovenous Laser Ablation for Varicose Veins
+## What happens during the procedure
 
-Endovenous laser ablation procedure usually takes less than an hour and you may go home the same day. Generally, endovenous laser ablation for varicose veins will involve the following process:
+You lie on the procedure table with the leg exposed. Ultrasound is used to trace the vein and mark the skin. The area is cleaned and draped.
 
-- You will lie down on the procedure table in a face-down or face-up position depending upon which veins are being treated.
-- An imaging technique, such as ultrasound, is utilized to guide the procedure.
-- The leg to be treated is administered with numbing medicine to reduce any discomfort and keep you comfortable.
-- Once the skin is numb, a needle is used to make a small puncture hole on the vein to be treated.
-- A catheter (thin tube) consisting of the laser heat source/laser fiber is placed into the affected vein.
-- Additional numbing medicine may be administered around the vein prior to ablating (destroying) the varicose veins.
-- Once the catheter is confirmed to be in the correct position, the laser fiber at the end of the catheter is fired up to heat up the entire length of the vein and seal it closed. This results in the stopping of blood flow through the vein.
-- The problem vein eventually shrinks and fades away, eliminating vein bulging at its source and resumption of efficient blood circulation through other healthy veins.
-- The catheter and laser are removed and the puncture hole is covered with a small dressing.
+Local anesthetic numbs a small spot, usually near the knee or calf. A needle enters the vein, and a catheter is threaded up inside it under ultrasound guidance. You should feel nothing as it advances, since the inside of a vein has no pain nerves. The catheter tip is positioned a set distance below the groin crease and checked carefully.
 
-## Postoperative Care and Recovery
+Next, dilute numbing fluid is injected along the length of the vein through several small needle sticks. This step, called tumescent anesthesia, does two jobs. It numbs the vein and it pushes surrounding tissue and skin away from the heat. These injections are the part most patients notice, and they feel like brief stings and cold pressure.
 
-In general, postoperative care instructions and recovery after endovenous laser ablation for varicose veins will involve the following steps:
+The energy is then delivered as the catheter is withdrawn slowly. You may feel warmth or a pulling sensation. The catheter is removed, pressure is applied, and a small adhesive dressing goes on. A compression stocking is fitted before you stand up, and you walk immediately.
 
-- You may experience pain, inflammation, and discomfort in the treated area. Medications are prescribed as needed to manage these.
-- Instructions on bathing and incision site care will be given to keep the incision site clean and dry.
-- Application of ice packs over the treated area is also recommended for 10 minutes at a time for few days to control bruising, swelling, or pain.
-- You are advised to wear compression stockings for a few days to weeks as it can help prevent blood pooling or clotting, as well as leg swelling.
-- You are encouraged to walk 10 to 20 minutes about 3 times a day for a couple of weeks, but refrain from strenuous activities, lifting heavyweights, jumping, or running during this period.
-- Do not stand, sit, or lie down for long periods of time. Keep your legs elevated while sitting.
-- You should be able to resume most of your normal activities and return to work in a day or two.
-- You need to call your healthcare provider if you have fever or notice swelling, pain, or infection at the catheter site despite taking your prescribed medications.
-- A periodic follow-up appointment will be scheduled to monitor your progress.
+## Recovery and results
 
-## Risks and Complications
+Walking is part of the treatment. Aim for ten to twenty minutes several times a day for the first two weeks, and avoid long periods of sitting or standing still. Keep the leg elevated when resting.
 
-Endovenous laser ablation for varicose veins is a relatively safe procedure; however, as with any procedure, some risks and complications may occur, such as the following:
+Wear the compression stocking exactly as directed, commonly for one to two weeks. Expect some bruising, tightness, and a pulling or cord-like feeling along the treated vein for two to three weeks. Over-the-counter pain relief is usually enough, and ice for ten minutes at a time helps.
 
-- Blood clots or deep vein thrombosis (DVT)
-- Bleeding
-- Infection
-- Pain
-- Bruises/swelling
-- Damage to adjacent nerves or vessels
-- Skin burning or irritation over the treatment area
-- Skin discoloration
+Most people return to desk work within a day or two. Avoid heavy lifting, running, and strenuous exercise for one to two weeks. A follow-up ultrasound is typically done within a week to confirm the vein has closed and to check the deep veins.
 
-## Benefits of Endovenous Laser Ablation for Varicose Veins
+Symptom relief such as reduced aching and swelling often begins within a few weeks. Cosmetic improvement takes longer, and some visible surface veins may still need additional treatment. Dr. Nanavati will review your results and any further steps at follow-up. You can [request an appointment online](/appointments/online).
 
-Some of the benefits of endovenous laser ablation over traditional vein stripping procedure for the treatment of varicose veins include:
+## Risks and safety
 
-- Virtually leaves no scar in the treated leg
-- Minimally invasive rather than standard varicose vein surgery
-- Quicker return to normal activities and work
-- Minimal pain and fewer complications
-- No surgical cut is needed, just a small nick on the skin that does not require stitches
-- Generally safe and improved cosmetic outcome
-- Majority of the treated veins are invisible even on an ultrasound after a year
+Venous ablation is a well established outpatient procedure with a good safety record, but no procedure is risk free. Possible complications include:
 
-[Other Related Treatments](/treatments)
+- Bruising, tenderness, or a firm cord along the treated vein
+- Temporary numbness or tingling from irritation of a nearby skin nerve
+- Skin burn or discoloration over the treatment area, which is uncommon
+- Superficial clotting in a nearby vein, causing a tender red streak
+- Infection at the puncture site
+- Deep vein thrombosis, a clot in a deeper vein, which is uncommon but important
+- Recurrence of varicose veins over time, since the underlying tendency remains
+
+Call the office for calf pain and swelling, worsening redness, fever, or sudden breathlessness. [MedlinePlus](https://medlineplus.gov/varicoseveins.html) offers a general overview of varicose veins and their treatment options.
+
+## Related services and conditions
+
+- [Venous ultrasound](/services/venous-ultrasound), the mapping study done before treatment
+- [Arterial ultrasound](/services/arterial-ultrasound) when circulation into the leg is in question
+- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries
+- [About Dr. Vimal Nanavati](/dr-vimal-nanavati), board certified in cardiology and interventional cardiology
+- [Our office locations](/locations) in Bonita, San Diego, and Redding

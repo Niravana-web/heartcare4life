@@ -1,9 +1,9 @@
 ---
 {
  "route": "/conditions/aortic-aneurysm",
- "title": "Aortic Aneurysm Chula Vista, CA | Abdominal Aortic Aneurysm Redding, Bonita",
+ "title": "Aortic Aneurysm Care | San Diego & Redding",
  "h1": "Aortic Aneurysm",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA treats aortic aneurysms including abdominal aortic aneurysms and thoracic aortic aneurysms.",
+ "description": "Aortic aneurysm screening, ultrasound monitoring and treatment with Dr. Vimal Nanavati, MD, FACC at HeartCare4life in Bonita, San Diego and Redding, CA.",
  "sourceUrl": "https://www.heartcare4life.com/aortic-aneurysm-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/aortic-aneurysm-interventional-cardiologist-bonita-redding-ca/"
@@ -12,64 +12,63 @@
 }
 ---
 
-## What is Aortic Aneurysm?
+## What is an aortic aneurysm?
 
-Aortic aneurysm is a condition characterized by an abnormal bulging of a section of the large blood vessel called the aorta. The aorta is the major blood vessel that carries oxygenated blood from the heart to the different parts of the body. Aortic aneurysm may be classified by location as:
+An aortic aneurysm is a bulge in the wall of the aorta, the large artery that carries blood from your heart to the rest of your body. One section of the artery wall weakens and stretches outward, a little like a worn spot on a garden hose. Aneurysms are named for where they sit. A thoracic aortic aneurysm forms in the chest. An abdominal aortic aneurysm, often shortened to AAA, forms in the belly. Most grow slowly and cause no symptoms, so many are found by accident on a scan ordered for something else. The concern is that a large aneurysm can tear or burst, which is a life threatening emergency. Because size predicts that risk, cardiologists measure a known aneurysm on a schedule and control the blood pressure and cholesterol that drive it. Smoking, older age, high blood pressure and a family history raise risk the most, according to the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/aortic-aneurysm).
 
-- **Abdominal aortic aneurysm:** The aneurysm occurs in the section of the aorta that passes through the abdomen.
-- **Thoracic aortic aneurysm:** This type is a bulging in the aorta that passes through the chest cavity.
+## Symptoms to watch for
 
-## Causes of Aortic Aneurysm
+Most aortic aneurysms are silent. When symptoms do appear, they are often vague and easy to dismiss.
 
-The most important cause of an aortic aneurysm is due to the weakening of the arterial wall. Some of the factors that can lead to this weakening include:
+Call the office if you notice any of these:
 
-- Smoking
-- Hypertension
-- Atherosclerosis
-- Family history
-- Physical trauma to the abdomen or chest
-- Marfan syndrome
-- Inflammatory disease
-- High cholesterol
-- Age
-- Coronary artery disease
+- A deep, steady ache in your belly, side or lower back that does not go away
+- A pulsing or throbbing feeling near your navel
+- Dull pain in the chest or upper back
+- Hoarseness, a new cough or trouble swallowing, which a chest aneurysm can cause by pressing on nearby structures
 
-## Symptoms of Aortic Aneurysm
+Call 911 immediately if you have any of the following. These can mean the aneurysm is tearing or has burst:
 
-Most patients with an aortic aneurysm do not have any symptoms in the early stages. Some of the common symptoms include:
+- Sudden, severe, ripping or tearing pain in the chest, back or abdomen
+- Pain with sweating, clammy skin, fainting or near fainting
+- A racing pulse with sudden weakness, confusion or shortness of breath
 
-- Backpain
-- Palpitations
-- Fatigue
-- Groin pain
-- Dizziness
-- Pale skin
-- Nausea and vomiting
-- Shortness of breath
+A ruptured aneurysm is a true emergency. Do not drive yourself. The [American Heart Association](https://www.heart.org/en/health-topics/aortic-aneurysm) stresses that survival depends on how fast treatment begins.
 
-## Diagnosis of Aortic Aneurysm
+## How Dr. Nanavati diagnoses it
 
-Your doctor will review your medical history and symptoms and based on this a physical examination of the chest and abdomen will be performed. Your doctor may also recommend the following diagnostic test:
+Diagnosis starts with a history and a careful exam, then moves to imaging that measures the aorta in millimeters. Measurement is what drives every decision that follows.
 
-- **MRI Scan**: This is an imaging study that uses a large magnetic field and radio waves to detect any damage to the soft tissues.
-- **CT Scan:** This scan uses multipleX-rays to produce detailed cross-sectional images of the chest.
-- **Ultrasound:** This study uses high-frequency sound waves to produce images of the tissues.
-- **Chest X-rays:** This study uses electromagnetic beams to produce images of the bones and organs of the chest.
-- **Echocardiogram:** This test helps to view the heart’s size, structure, and motion using sound waves.
+- **[Vascular ultrasound](/services/vascular-ultrasound)** is the usual first test for an abdominal aortic aneurysm. It uses sound waves, takes minutes and involves no radiation or dye.
+- **[Arterial ultrasound](/services/arterial-ultrasound)** looks at the arteries beyond the aorta, since aneurysm disease and blockage often travel together.
+- **[Transthoracic echocardiography](/services/transthoracic-echocardiography)** images the heart and the first portion of the aorta as it leaves the chest.
+- **[Transesophageal echocardiography](/services/transesophageal-echocardiography)** gives a more detailed look at the thoracic aorta when the standard [echocardiogram](/services/echocardiogram) view is limited.
+- **[Coronary CT angiography](/services/coronary-ct-angiography)** provides precise cross sectional measurements of the chest and abdominal aorta.
+- **[Ankle brachial index](/services/ankle-brachial-index-abi)** testing screens for peripheral artery disease, which is common in the same patients.
+- **[Advanced lipid testing](/services/advanced-lipid-testing)** clarifies cholesterol risk beyond a standard panel.
 
-## Treatment for Aortic Aneurysm
+Echocardiography, vascular ultrasound and ABI testing are all performed in the office. See the full list of [cardiology services](/services/cardiology-services) available at each location.
 
-The main goal of treatment is preventing the rupture of the aneurysm. The most common treatment methods include:
+## Treatment options
 
-**Medications**
+Small aneurysms are usually watched, not operated on. The plan has three layers.
 
-- **Beta-blockers:** These enhance heart function by reducing blood pressure.
-- **Angiotensin II receptor blockers (ARBs):** These supply the benefits of ACE for patients who cannot take ACE inhibitors.
-- **Statins:** This helps to reduce the blockages in arteries by lowering the blood cholesterol.
+**Surveillance.** Once an aneurysm is measured, Dr. Nanavati sets an imaging interval based on its size and how fast it has changed. Keeping those appointments is the single most important thing you can do.
 
-If conservative methods failed to improve the symptoms, surgery will be recommended this includes:
+**Risk factor control.** Quitting smoking matters more here than in almost any other heart condition. Blood pressure control lowers stress on the weakened wall, and the [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure) recommends treating elevated readings with both lifestyle and medication. Statin therapy and diet changes follow the same logic used for [coronary artery disease](/conditions/coronary-artery-disease). [Cardiac rehabilitation](/services/cardiac-rehabilitation) can help you exercise safely if you also have heart disease.
 
-- **Endovascular stent placement**: A small incision will be made in your groin area and a stent is advanced through the vessel and placed in the bulging area of the aorta to reinforce it and prevent rupture.
-- **Open surgical repair:** An incision will be made in the area where the aneurysm is present; your doctor will remove the aneurysm in the aorta and replace it with a synthetic tube (graft).
+**Medication.** Blood pressure medicines such as beta blockers and ACE inhibitors are common. Cholesterol medicines are added when lipid testing supports it.
+
+**Repair.** When an aneurysm reaches a threshold size, grows quickly or causes symptoms, repair is recommended. That happens at an affiliated hospital, either as open surgery or as an endovascular repair through a small groin artery puncture. Dr. Nanavati coordinates the referral, the pre procedure workup and your follow up care.
+
+## What to expect at your visit
+
+Bring a full list of your medications and doses, any prior imaging reports or discs, and the name of your primary care physician. Your visit includes a discussion of symptoms and family history, a physical exam, blood pressure in both arms and an [electrocardiogram](/services/electrocardiogram-ecg-ekg) when indicated. If an ultrasound is ordered, it is usually done in the office. For an abdominal study you may be asked not to eat beforehand, and the office will tell you when you schedule. You will leave knowing the measurement, what it means, when the next scan is due and which numbers you are working to change. Questions are welcome, and the [FAQs page](/faqs) covers what most patients ask before a first appointment.
+
+## When to see a cardiologist
+
+Ask for an evaluation if an aneurysm was mentioned on any scan, if a parent or sibling had an aortic aneurysm, or if you are a current or former smoker over 65. Anyone with known [coronary artery disease](/conditions/coronary-artery-disease) or unexplained [chest pain](/conditions/chest-pain) should also be assessed. You can [request an appointment online](/appointments/online) or call the Bonita office at (619) 585-0476.
+
+[Dr. Vimal Nanavati, MD, FACC](/dr-vimal-nanavati) is board certified in cardiology and interventional cardiology with 32 years of experience. He founded Advanced Heart Care, Inc. in 1997 and sees patients at three [locations](/locations): Bonita in South San Diego, serving Chula Vista, Eastlake, Otay Ranch, National City, Spring Valley, Imperial Beach, San Ysidro and Coronado; North San Diego at 5190 Governor Dr, serving University City, La Jolla, Clairemont and Mira Mesa; and Redding, serving Shasta County, Anderson, Red Bluff, Palo Cedro and Cottonwood.
 
 [Other Related Diseases](/conditions)

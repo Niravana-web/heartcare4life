@@ -11,11 +11,11 @@ export default function Header() {
       <div className="bg-navy text-[.78rem] tracking-[.06em] text-[#f4eee0b8]">
         <div className="container-x flex min-h-8 flex-wrap items-center justify-center gap-x-5 gap-y-1 py-1 sm:justify-end">
           {UTILITY_NAV.map((u) => (
-            <Link key={u.href} href={u.href} className="uppercase hover:text-white hover:underline underline-offset-4">{u.label}</Link>
+            <Link key={u.href} href={u.href} className="flex min-h-[44px] items-center py-2 uppercase hover:text-white hover:underline underline-offset-4">{u.label}</Link>
           ))}
           <span className="hidden sm:inline opacity-40">|</span>
           {LOCATIONS.slice(0, 2).map((l) => (
-            <a key={l.id} href={l.phoneHref} className="whitespace-nowrap hover:text-white"><span className="opacity-70">{l.shortName}</span> <strong className="font-semibold text-[#f4eee0]">{l.phone}</strong></a>
+            <a key={l.id} href={l.phoneHref} className="flex min-h-[44px] items-center whitespace-nowrap py-2 hover:text-white"><span className="opacity-70">{l.shortName}</span> <strong className="font-semibold text-[#f4eee0]">{l.phone}</strong></a>
           ))}
         </div>
       </div>
@@ -38,7 +38,7 @@ export default function Header() {
       <div className="navbar-blur sticky top-0 z-50 border-y border-rule">
         <div className="container-x relative flex min-h-[50px] items-center justify-center">
           <button
-            className="block cursor-pointer p-2 text-navy lg:hidden"
+            className="-ml-2 flex h-11 w-11 cursor-pointer items-center justify-center text-navy lg:hidden"
             aria-label="Toggle menu"
             aria-expanded={open}
             onClick={() => setOpen((o) => !o)}
@@ -67,10 +67,10 @@ export default function Header() {
                 className="absolute left-0 right-0 top-full flex flex-col gap-1 border-b border-rule bg-cream p-6 lg:hidden"
               >
                 {NAV.flatMap((n) => [n, ...(n.children ?? []).filter((c) => c.href !== n.href)]).map((n, i) => (
-                  <Link key={n.href + i} href={n.href} onClick={() => setOpen(false)} className={`py-1.5 text-[.75rem] font-semibold uppercase tracking-[.16em] ${"children" in n ? "text-navy" : "pl-4 text-ink-muted"}`}>{n.label}</Link>
+                  <Link key={n.href + i} href={n.href} onClick={() => setOpen(false)} className={`flex min-h-[44px] items-center text-[.8rem] font-semibold uppercase tracking-[.16em] ${"children" in n ? "text-navy" : "pl-4 text-ink-muted"}`}>{n.label}</Link>
                 ))}
                 {UTILITY_NAV.map((u) => (
-                  <Link key={u.href} href={u.href} onClick={() => setOpen(false)} className="py-1.5 text-[.75rem] font-semibold uppercase tracking-[.16em] text-navy">{u.label}</Link>
+                  <Link key={u.href} href={u.href} onClick={() => setOpen(false)} className="flex min-h-[44px] items-center text-[.8rem] font-semibold uppercase tracking-[.16em] text-navy">{u.label}</Link>
                 ))}
               </motion.nav>
             )}

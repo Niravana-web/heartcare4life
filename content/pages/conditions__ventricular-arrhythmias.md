@@ -1,9 +1,9 @@
 ---
 {
  "route": "/conditions/ventricular-arrhythmias",
- "title": "Ventricular Arrhythmias Chula Vista, CA | Premature Ventricular Contractions Bonita, CA",
+ "title": "Ventricular Arrhythmia Care | San Diego",
  "h1": "Ventricular Arrhythmias",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA offers treatment for ventricular arrhythmias and premature ventricular contractions. Ventricular arrhythmias are abnormal heart rhythms that originate in the ventricles, the lower chambers of the heart.",
+ "description": "PVCs and ventricular arrhythmia evaluation with in-office ECG, monitoring and stress testing from Dr. Vimal Nanavati, MD, FACC in San Diego and Redding, CA.",
  "sourceUrl": "https://www.heartcare4life.com/ventricular-arrhythmias-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/ventricular-arrhythmias-interventional-cardiologist-bonita-redding-ca/"
@@ -12,65 +12,67 @@
 }
 ---
 
-## What are Ventricular Arrhythmias?
+## What are ventricular arrhythmias?
 
-Ventricular arrhythmias are abnormal heart rhythms that originate in the ventricles, the lower chambers of the heart. These arrhythmias can disrupt the heart’s ability to pump blood effectively, potentially leading to serious complications, including cardiac arrest. An arrhythmia happens when there is an issue with the electrical system of the heart that is supposed to maintain a stable heartbeat. With an impaired electrical system, your heart may beat too slow, too fast, or irregularly.
+Ventricular arrhythmias are abnormal heart rhythms that start in the ventricles, the two lower pumping chambers. Normally the electrical signal begins in the upper chambers and travels down. When it instead fires from the ventricles, the beat arrives early or the rhythm runs away at high speed. There are three main types. Premature ventricular contractions, or PVCs, are single early beats that feel like a skip or a thump, and they are common even in healthy hearts. Ventricular tachycardia is a run of fast beats from the ventricles that can drop blood pressure. Ventricular fibrillation is chaotic electrical activity in which the heart cannot pump at all, causing cardiac arrest within seconds. Risk depends heavily on the underlying heart. Occasional PVCs in a structurally normal heart are usually benign, while the same beats in a weakened heart matter far more, as the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/arrhythmias) explains.
 
-## Types of Ventricular Arrhythmias
+## Symptoms to watch for
 
-Common types of ventricular arrhythmias include:
+Many ventricular arrhythmias are felt as a skipped beat followed by a forceful one. Others cause no sensation and appear only on a tracing.
 
-- **Premature Ventricular Contractions (PVCs):**
-- Extra, abnormal heartbeats that begin in the ventricles.
-- Usually harmless but may indicate an underlying heart condition if frequent.
-- **Ventricular Tachycardia (VT):**
-- A rapid heart rate (100+ beats per minute) arising from abnormal electrical activity in the ventricles.
-- Can be sustained (lasting more than 30 seconds) or non-sustained.
-- If prolonged, it can lead to ventricular fibrillation and cardiac arrest.
-- **Ventricular Fibrillation (VF):**
-- A life-threatening, chaotic electrical activity in the ventricles.
-- Prevents the heart from pumping blood effectively, leading to sudden cardiac arrest.
-- Requires immediate defibrillation to restore normal rhythm.
-- **Torsades de Pointes (TdP):**
-- A specific type of polymorphic ventricular tachycardia.
-- Often associated with prolonged QT intervals.
-- Can degenerate into ventricular fibrillation if untreated.
+Call the office if you have:
 
-## Causes of Ventricular Arrhythmias
+- Frequent skipped beats, thumps or a flip flop feeling in the chest
+- Palpitations that increase with rest, caffeine or stress
+- New shortness of breath or reduced exercise tolerance
+- Mild lightheadedness with an episode
+- Known heart disease and any new [palpitations](/conditions/heart-palpitations)
 
-Causes of ventricular arrhythmias include:
+Call 911 for any of these:
 
-- Coronary artery disease (CAD) or heart attack (myocardial infarction)
-- Heart failure or cardiomyopathy
-- Electrolyte imbalances (potassium, magnesium)
-- Congenital heart conditions (e.g., Long QT Syndrome)
-- Drug toxicity (e.g., antiarrhythmics, certain antibiotics)
-- Excessive caffeine, alcohol, or stimulants
+- Fainting, or nearly fainting, with a racing heartbeat
+- Chest pain or pressure with palpitations
+- A sustained racing heartbeat that will not slow down
+- Severe shortness of breath, confusion or gray, clammy skin
 
-## Symptoms of Ventricular Arrhythmias
+If someone collapses and is unresponsive without normal breathing, call 911, begin CPR and use an AED if one is nearby. The [American Heart Association](https://www.heart.org/en/health-topics/cardiac-arrest) notes that immediate bystander CPR can double or triple the chance of survival.
 
-Symptoms of ventricular arrhythmias include:
+## How Dr. Nanavati diagnoses it
 
-- Palpitations (feeling of a fast or irregular heartbeat)
-- Dizziness or lightheadedness
-- Shortness of breath
-- Chest pain or discomfort
-- Syncope (fainting)
-- Sudden cardiac arrest (in severe cases like VF)
+Two questions guide the workup. What is the rhythm, and is the heart muscle underneath it normal? Both must be answered.
 
-## Diagnosis of Ventricular Arrhythmias
+- **[Electrocardiogram (ECG or EKG)](/services/electrocardiogram-ecg-ekg)** identifies the shape of the extra beats and screens for prior heart muscle injury.
+- **[Holter monitoring](/services/holter-monitoring)** counts how many PVCs occur in 24 to 48 hours, since the burden as a percentage of total beats guides treatment.
+- **[7 to 10 day ambulatory rhythm monitoring](/services/7-10-day-ambulatory-rhythm-monitor)** captures episodes that are less frequent.
+- **[Loop recorder implantation and interrogation](/services/loop-recorder-implantation-and-interrogation)** is used for unexplained fainting or very rare events.
+- **[Echocardiogram](/services/echocardiogram)** measures the ejection fraction and looks for scar, weakness or a thickened muscle.
+- **[Treadmill stress testing](/services/treadmill-stress-test)** shows whether the beats increase or suppress with exercise, which is an important clue.
+- **[Nuclear stress testing](/services/nuclear-stress-test)** and **[advanced stress testing](/services/advanced-stress-testing)** look for reduced blood flow as the trigger.
+- **[Ischemic heart disease evaluation](/services/ihd-evaluation)** is used when [coronary artery disease](/conditions/coronary-artery-disease) is the suspected cause.
+- **[Defibrillator interrogation](/services/defibrillator-interrogation)** downloads stored episodes if you already have a device.
 
-Ventricular arrhythmias are typically diagnosed using the following methods:
+Blood work including electrolytes, magnesium, thyroid function and [advanced lipid testing](/services/advanced-lipid-testing) rounds out the evaluation.
 
-- **Electrocardiogram (ECG)** – Primary tool for identifying abnormal ventricular arrhythmia.
-- **Holter Monitor** – Continuous ECG recording over 24-48 hours to detect intermittent arrhythmias.
-- **Electrophysiology Study (EPS)** – Assesses the electrical pathways of the heart.
-- **Echocardiogram** – Evaluates heart structure and function.
-- **Cardiac MRI or CT Scan** – Checks for structural abnormalities.
-- **Blood tests** – Check for electrolyte imbalances or other triggers.
+## Treatment options
 
-## Treatment for Ventricular Arrhythmias
+Treatment depends on the burden of extra beats, your symptoms and the strength of your heart muscle.
 
-Treatment for ventricular arrhythmias depends on the severity and underlying cause of the condition. In mild cases, **lifestyle modifications**, such as following a heart-healthy diet, regular exercise, managing stress, avoiding stimulants like caffeine and alcohol, along with treating underlying conditions like electrolyte imbalances or heart disease, may be sufficient. **Medications**, including beta-blockers and antiarrhythmic drugs, help regulate heart rhythm and prevent arrhythmia episodes. For patients at high risk of sudden cardiac arrest, an **implantable cardioverter defibrillator (ICD)** may be recommended; this device monitors heart rhythm and delivers shocks to restore a normal heartbeat if a dangerous arrhythmia occurs. **Catheter ablation** is another option, where a catheter delivers heat or cold energy to destroy abnormal electrical pathways in the heart, effectively preventing arrhythmias from recurring. In emergency situations, such as ventricular fibrillation, immediate **defibrillation** using an external defibrillator is critical to restore a normal heart rhythm. Advanced cases may require surgical interventions, including **coronary artery bypass graft (CABG)** if arrhythmias are linked to coronary artery disease and **left cardiac sympathetic denervation (LCSD)** for patients with genetic arrhythmia syndromes. The choice of treatment is personalized based on the type of arrhythmia, overall heart health, and individual risk factors.
+**Correct the triggers.** Low potassium or magnesium, caffeine, alcohol, nicotine, stimulants, decongestants, poor sleep and untreated sleep apnea all provoke ventricular beats. Correcting them often reduces the burden substantially, and the [heart healthy living](https://www.nhlbi.nih.gov/health/heart-healthy-living) steps from NHLBI support the rest.
+
+**Observation.** Infrequent PVCs with a normal echocardiogram usually need no drug at all. Periodic monitoring confirms the burden stays low.
+
+**Medication.** Beta blockers are the usual first choice for symptomatic PVCs. Antiarrhythmic drugs are reserved for higher burden or sustained rhythms. Treating the underlying disease, whether that is coronary artery disease, high blood pressure or a weak heart muscle, matters as much as the antiarrhythmic itself, in keeping with [American College of Cardiology guidelines](https://www.acc.org/Guidelines).
+
+**Procedures.** Catheter ablation can eliminate the focus producing frequent PVCs or [ventricular tachycardia](/conditions/ventricular-tachycardia). An implantable defibrillator is recommended when the risk of sudden cardiac arrest is high, typically with a significantly weakened pumping function. Both are done at affiliated hospitals, with [cardiac rehabilitation](/services/cardiac-rehabilitation) afterward to rebuild exercise capacity safely.
+
+## What to expect at your visit
+
+Bring your medication list, recent blood work and any prior ECGs or monitor reports, which allow direct comparison. Describe when the beats occur, whether rest or exercise makes them worse, and whether you have ever fainted. The visit includes an exam, blood pressure and an ECG. Monitors are fitted in the office and echocardiography is performed on site. You leave knowing your PVC burden if it has been measured, whether your heart muscle is normal, and what your risk actually is. Vague reassurance is not the goal, and the [FAQs page](/faqs) covers preparation.
+
+## When to see a cardiologist
+
+See a cardiologist for frequent skipped beats, palpitations with any [chest pain](/conditions/chest-pain) or breathlessness, fainting of unknown cause, or PVCs found on an ECG when you have known heart disease. A family history of sudden death before age 50 warrants prompt evaluation. [Request an appointment online](/appointments/online) or call the Bonita office at (619) 585-0476.
+
+[Dr. Vimal Nanavati, MD, FACC](/dr-vimal-nanavati) is board certified in cardiology and interventional cardiology with 32 years of experience. He founded Advanced Heart Care, Inc. in 1997 and sees patients at three [locations](/locations): Bonita in South San Diego, serving Chula Vista, Eastlake, Otay Ranch, National City, Spring Valley, Imperial Beach, San Ysidro and Coronado; North San Diego at 5190 Governor Dr, serving University City, La Jolla, Clairemont and Mira Mesa; and Redding, serving Shasta County, Anderson, Red Bluff, Palo Cedro and Cottonwood.
 
 [Other Related Diseases](/conditions)

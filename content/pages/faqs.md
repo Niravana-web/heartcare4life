@@ -3,7 +3,7 @@
  "route": "/faqs",
  "title": "FAQ's | Dr Vimal Nanavati | Interventional Invasive Cardiologist Chula Vista, CA",
  "h1": "FAQ's",
- "description": "Dr Vimal Nanavati is an interventional invasive cardiologist at HeartCare4life in Redding, Bonita and Chula Vista, CA. Click here for answers to general and medical FAQs.",
+ "description": "Answers on office hours, booking, telehealth, insurance, referrals and what happens at a first cardiology visit at our Bonita, San Diego and Redding offices.",
  "sourceUrl": "https://www.heartcare4life.com/faqs-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/faqs-interventional-cardiologist-bonita-redding-ca/"

@@ -3,7 +3,7 @@
  "route": "/appointments/telehealth",
  "title": "Telehealth Chula Vista, CA | HeartCare4life | Telemedicine Services Redding, Bonita, CA",
  "h1": "Telehealth",
- "description": "Dr Vimal Nanavati offers telemedicine services at HeartCare4life in Redding, Bonita and Chula Vista, CA. Telemedicine is the remote delivery of real-time healthcare services to patients using information and.phpor telecommunications technology.",
+ "description": "Get a virtual cardiology second opinion before you agree to a stent or heart procedure. See what the review covers, who it suits and how to send records.",
  "sourceUrl": "https://www.heartcare4life.com/telehealth-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/telehealth-interventional-cardiologist-bonita-redding-ca/"

@@ -3,7 +3,7 @@
  "route": "/locations",
  "title": "Practice Locations | HeartCare4life | Interventional Cardiologist Chula Vista, CA",
  "h1": "Practice Locations",
- "description": "Dr Vimal Nanavati is an interventional cardiologist at HeartCare4life in Redding, Bonita and Chula Vista, CA. For an appointment, please call Southern California (619) 585-0476 .php Northern California (530) 433-5427.",
+ "description": "Addresses, maps and driving directions for our three cardiology offices: Bonita in South San Diego, Governor Drive in North San Diego, and Redding, CA.",
  "sourceUrl": "https://www.heartcare4life.com/practice-locations-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/practice-locations-interventional-cardiologist-bonita-redding-ca/"

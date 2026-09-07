@@ -3,7 +3,7 @@
  "route": "/appointments/general",
  "title": "General Appointment | HeartCare4life | Coronary Stenting Chula Vista, CA",
  "h1": "General Appointment",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA offers coronary stenting and venous ablation. For an appointment, please call Southern California (619) 585-0476 .php Northern California (530) 433-5427.",
+ "description": "Request a standard cardiology appointment at our Bonita, San Diego or Redding office. Addresses, driving directions and phone numbers for each location.",
  "sourceUrl": "https://www.heartcare4life.com/general-appointment-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/general-appointment-interventional-cardiologist-bonita-redding-ca/"

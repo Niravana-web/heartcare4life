@@ -3,7 +3,7 @@
  "route": "/treatments",
  "title": "Echocardiogram Chula Vista, CA | Electrocardiogram | Holter Monitoring Redding, CA",
  "h1": "Treatments",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA offers echocardiogram, electrocardiogram, holter monitoring, advanced stress testing, advanced lipid testing, left atrial appendage closure and venous ultrasound.",
+ "description": "What an echocardiogram, ECG, Holter monitor, stress test and venous ultrasound involve, explained before your test at our Bonita or Redding cardiology office.",
  "sourceUrl": "https://www.heartcare4life.com/treatments-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/treatments-interventional-cardiologist-bonita-redding-ca/"

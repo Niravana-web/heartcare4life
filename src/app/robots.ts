@@ -9,6 +9,5 @@ export default function robots(): MetadataRoute.Robots {
       ...["GPTBot", "ChatGPT-User", "OAI-SearchBot", "ClaudeBot", "Claude-Web", "anthropic-ai", "PerplexityBot", "Google-Extended", "Applebot-Extended", "CCBot", "Bytespider", "Amazonbot", "meta-externalagent"].map((ua) => ({ userAgent: ua, allow: "/" })),
     ],
     sitemap: SITE.url + "/sitemap.xml",
-    host: SITE.url,
   };
 }

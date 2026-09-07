@@ -3,7 +3,7 @@ import Link from "next/link";
 import PageHeader from "@/components/PageHeader";
 import Cta from "@/components/Cta";
 import JsonLd from "@/components/JsonLd";
-import { buildMetadata, graph, webPageLd, locationLd, ID } from "@/lib/seo";
+import { buildMetadata, graph, webPageLd, locationLd, faqLd, ID } from "@/lib/seo";
 import { LOCATIONS, HOURS } from "@/lib/site";
 import { childrenOf } from "@/lib/content";
 
@@ -34,6 +34,43 @@ const COPY: Record<string, { title: string; description: string; intro: string; 
   },
 };
 
+/**
+ * Location FAQs. Every answer is derived from COPY/LOCATIONS above, so nothing here
+ * asserts a fact the rest of the site does not already state.
+ */
+function faqsFor(id: string, l: (typeof LOCATIONS)[number], c: (typeof COPY)[string]) {
+  const nearby = c.areas.slice(1, 5).join(", ");
+  const out = [
+    {
+      q: `Where is the ${l.name} cardiology office located?`,
+      a: `HeartCare4life ${l.name} is at ${l.street}${l.suite ? `, ${l.suite}` : ""}, ${l.city}, ${l.state} ${l.zip}. Call ${l.phone} to schedule. Dr. Vimal Nanavati, MD, FACC, is board certified in cardiology and interventional cardiology.`,
+    },
+    {
+      q: `Do you see patients from ${nearby}?`,
+      a: `Yes. This office regularly cares for patients from ${c.areas.join(", ")}. Call ${l.phone} or request a visit online to book an appointment.`,
+    },
+    {
+      q: `What are the office hours?`,
+      a: HOURS.map((h) => `${h.days}: ${h.hours}`).join(". ") + ".",
+    },
+    {
+      q: `Which cardiology tests can be done at this office?`,
+      a: c.note,
+    },
+    {
+      q: `Do I need a referral to see a cardiologist here?`,
+      a: `It depends on your insurance plan rather than on our office. Many PPO plans allow you to book directly, while most HMO and some Medicare Advantage plans require a referral from your primary care physician. Call ${l.phone} and we can help you check before your visit.`,
+    },
+  ];
+  if (id === "northern-california") {
+    out.push({
+      q: `Are Saturday appointments available in Redding?`,
+      a: `Yes. Redding is the only office with Saturday hours, offered on selected Saturdays by appointment for patients who travel from across the North State. Call ${l.phone} to ask which Saturdays are open.`,
+    });
+  }
+  return out;
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params; const c = COPY[id]; if (!c) return {};
   return buildMetadata({ title: c.title, description: c.description, route: `/locations/${id}` });
@@ -46,9 +83,10 @@ export default async function LocationPage({ params }: { params: Promise<{ id: s
   const route = `/locations/${id}`;
   const services = childrenOf("/services").slice(0, 12);
   const clinic = { ...locationLd(l), "@id": ID.loc(l.id), url: undefined, mainEntityOfPage: { "@id": (process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.heartcare4life.com") + route + "#webpage" } };
+  const faqs = faqsFor(id, l, c);
   return (
     <>
-      <JsonLd data={graph(webPageLd({ route, title: c.title, description: c.description, about: { "@id": ID.loc(l.id) } }), clinic)} />
+      <JsonLd data={graph(webPageLd({ route, title: c.title, description: c.description, about: { "@id": ID.loc(l.id) } }), clinic, faqLd(faqs))} />
       <PageHeader eyebrow={`${l.city}, California`} title={l.name} lede={c.intro} crumbs={[{ name: "Home", route: "/" }, { name: "Practice Locations", route: "/locations" }, { name: l.name, route }]} />
       <div className="container-x grid gap-12 py-14 lg:grid-cols-[1fr_1.2fr]">
         <div>
@@ -70,6 +108,22 @@ export default async function LocationPage({ params }: { params: Promise<{ id: s
           <p className="mt-8 text-[.95rem] text-ink-muted">Your cardiologist at every location is <Link href="/dr-vimal-nanavati">Dr. Vimal Nanavati, MD, FACC</Link>, board certified in cardiology and interventional cardiology. Other offices: {LOCATIONS.filter((x) => x.id !== id).map((x, i) => (<span key={x.id}>{i > 0 && " · "}<Link href={`/locations/${x.id}`}>{x.name}</Link></span>))}.</p>
         </div>
       </div>
+
+      <section className="border-t border-rule" aria-labelledby="location-faq">
+        <div className="container-x py-14">
+          <p className="eyebrow mb-4">Common questions</p>
+          <h2 id="location-faq" className="display text-[clamp(1.8rem,3.2vw,2.6rem)]">Visiting our {l.city} office</h2>
+          <dl className="mt-8 grid gap-x-12 gap-y-8 md:grid-cols-2">
+            {faqs.map((f) => (
+              <div key={f.q} className="border-t border-rule-strong pt-5">
+                <dt className="m-0 font-serif text-[1.25rem] leading-snug text-navy">{f.q}</dt>
+                <dd className="m-0 mt-2 text-[.95rem] leading-relaxed text-ink-muted">{f.a}</dd>
+              </div>
+            ))}
+          </dl>
+        </div>
+      </section>
+
       <Cta />
     </>
   );

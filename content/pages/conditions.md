@@ -3,7 +3,7 @@
  "route": "/conditions",
  "title": "Arrhythmias Chula Vista, CA | Atrial Fibrillation Redding | Coronary Artery Disease Bonita, CA",
  "h1": "Diseases",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA offers treatment for heart conditions such as arrhythmias, atrial fibrillation, coronary artery disease, aortic aneurysm, chest pain and ventricular arrhythmias.",
+ "description": "Plain-language guides to arrhythmias, atrial fibrillation, coronary artery disease, aortic aneurysm and chest pain, from a cardiology practice in Bonita, CA.",
  "sourceUrl": "https://www.heartcare4life.com/diseases-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/diseases-interventional-cardiologist-bonita-redding-ca/"

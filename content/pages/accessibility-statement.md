@@ -1,9 +1,9 @@
 ---
 {
  "route": "/accessibility-statement",
- "title": "Accessibility Statement",
+ "title": "Accessibility Statement | HeartCare4life",
  "h1": "Accessibility Statement",
- "description": "Your Practice Online is committed to providing solutions to make our website and the websites of our clients available to as many people as possible, ensuring we meet the requirements of the Americans with Disabilities Act (ADA).",
+ "description": "Our WCAG 2.1 Level AA conformance target, the steps we take to meet it, the limitations we know about, and how to report a barrier on heartcare4life.com.",
  "sourceUrl": "https://www.heartcare4life.com/accessibility-statement/",
  "legacyUrls": [],
  "youtube": []
@@ -12,17 +12,59 @@
 
 # Accessibility Statement
 
-Your Practice Online is committed to providing solutions to make our clients’ websites available to as many people as possible. We make every effort to ensure website-based communications are accessible to those with visual, hearing, cognitive, and motor impairments by meeting the requirements of the Americans with Disabilities Act (ADA).
+HeartCare4life is committed to making this website usable by everyone, including people with visual, hearing, cognitive, and motor disabilities.
 
-Your Practice Online acknowledges that internet users with disabilities can find websites difficult to use. We recognize this important issue and are taking necessary steps to ensure that websites developed by Your Practice Online are in accordance with known guidelines framed by industry-standard techniques and practices, to provide an acceptable level of accessibility for website users. These include, but are not limited to, the characteristics of usability for most screen reader users, keyboard-only users, and users with impaired hearing and vision.
+Heart care is not optional information. A patient who cannot read our site cannot learn about their condition, find our offices, or request an appointment. We treat accessibility as part of patient care, not as a legal checkbox.
 
-**What Are We Doing?**
-Your Practice Online recognizes that there may be various interpretations of ADA compliance due to the lack of clear and concise published requirements.
+This is our formal conformance statement. For practical instructions on navigating the site, see our [Accessibility Help](/accessibility) page.
 
-We have developed an internal audit ADA checklist based on industry consortiums and current published criteria, with the goal of improving internet user accessibility that meets the needs of individuals, organizations, and governments worldwide; and to communicate how to make web content more accessible for people with disabilities.
+## Conformance Target
 
-Furthermore, we have communicated to our client base the need to update their websites in accordance with the ADA requirements, by offering clients an affordable solution to upgrade aging, non-compliant websites.
+We aim to conform to the **Web Content Accessibility Guidelines (WCAG) 2.1 at Level AA**, published by the World Wide Web Consortium. WCAG 2.1 AA is the standard commonly referenced in connection with the Americans with Disabilities Act and Section 508 of the Rehabilitation Act.
 
-Your Practice Online continues to dedicate additional resources to improve this process, benchmark new technology and requirements as they become available, and develop additional web-based solutions for Americans with Disabilities. We continue to enhance our audit and benchmark process of redesigning and developing new websites to be compliant with the current W3C Level One guidelines available to us at this time.
+We describe our status as partially conformant. That means most of the site meets the standard, and we continue to work on the parts that do not.
 
-It is our goal to develop websites that are accessible to everyone. We welcome your feedback. Please email your questions, comments, or suggestions to [javascript protected email address].
+## Measures We Take
+
+Accessibility is built into how this site is made, not added afterward. Specifically:
+
+- **Semantic HTML.** Pages use real headings, lists, landmarks, and buttons, in a correct and logical order, so assistive technology can convey the structure of a page.
+- **Keyboard navigation.** Every interactive element can be reached and operated with a keyboard alone. Focus order follows the visual reading order, and the focused element is always visibly outlined.
+- **Skip link.** A "Skip to content" link is the first focusable item on every page, letting keyboard and screen reader users bypass the navigation.
+- **Text alternatives.** Meaningful images carry descriptive alternative text. Decorative images are marked so screen readers pass over them.
+- **Color contrast.** Text and interface colors are chosen to meet the WCAG 2.1 AA contrast ratios of 4.5 to 1 for normal text and 3 to 1 for large text.
+- **Color is never the only cue.** Links, errors, and states are distinguished by more than color alone.
+- **Responsive, reflowing layout.** Content reflows to a single column and remains readable at 200 percent zoom without horizontal scrolling.
+- **Labeled forms.** Every form field has a programmatically associated label, and error messages are described in text.
+- **Reduced motion support.** Animation is suppressed for visitors whose devices request reduced motion.
+- **Descriptive page titles and link text.** Links make sense when read out of context.
+
+## Known Limitations
+
+We are candid about where we fall short.
+
+Some third-party content embedded in this site, including video players and mapping widgets, is not fully under our control. We choose accessible providers where we can and work around the gaps where we cannot.
+
+Some older documents and patient forms available for download may not be fully tagged for screen readers. If you need any form or document in an accessible format, call us and we will provide it another way at no cost to you.
+
+## How We Review
+
+Accessibility is checked as part of building and updating the site. We use automated testing, manual keyboard testing, and review with screen readers. We re-check pages when they change rather than auditing once and moving on.
+
+## Report an Accessibility Problem
+
+If you encounter a barrier on this website, please tell us. Your report helps us fix it for everyone.
+
+Tell us the page address, what you were trying to do, and what happened. If you can, mention the browser and any assistive technology you were using. That detail helps us reproduce the problem quickly.
+
+- **Bonita and South San Diego:** (619) 585-0476
+- **Redding and Northern California:** (530) 433-5427
+- **Online:** use our [contact page](/contact)
+
+We aim to respond to accessibility reports within five business days. If we cannot fix a problem right away, we will tell you and give you another way to get the information or service you need in the meantime.
+
+Office hours are Monday through Thursday, 9:00 am to 5:00 pm, and Friday, 9:00 am to 12:00 pm.
+
+## Feedback
+
+We welcome comments on how to make this site work better for you. Accessibility work is never finished, and reports from the people who use the site are the most useful input we get.

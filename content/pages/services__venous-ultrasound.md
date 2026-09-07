@@ -1,9 +1,9 @@
 ---
 {
  "route": "/services/venous-ultrasound",
- "title": "Venous Ultrasound Imaging Chula Vista, CA | Venous Duplex Redding, Bonita",
+ "title": "Venous Ultrasound and Duplex Imaging",
  "h1": "Venous Ultrasound",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA offers venous ultrasound imaging, also known as venous duplex or Doppler ultrasound.",
+ "description": "Venous ultrasound checks leg and arm veins for clots and leaking valves without needles or radiation. Learn how to prepare and how the findings guide care.",
  "sourceUrl": "https://www.heartcare4life.com/venous-ultrasound-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/venous-ultrasound-interventional-cardiologist-bonita-redding-ca/"
@@ -12,52 +12,69 @@
 }
 ---
 
-## What is Venous Ultrasound Imaging?
+## What is venous ultrasound?
 
-Venous ultrasound imaging, also known as venous duplex or Doppler ultrasound, is a medical imaging technique that uses high-frequency sound waves to create images of the veins in the body, primarily the extremities (legs and arms). This non-invasive procedure helps healthcare professionals assess the blood flow in veins and detect abnormalities such as blood clots, venous insufficiency, or other vascular conditions.
+Venous ultrasound is a painless scan of the veins, most often in the legs or arms. A handheld probe called a transducer is moved over the skin with gel. It sends high-frequency sound waves into the tissue and records the echoes that return from vein walls and moving blood. The images show whether a vein is open or blocked, and Doppler recordings show which direction blood is flowing and how fast. Because it combines a picture with a flow measurement, the study is often called a venous duplex scan. Doctors use it mainly for two questions. First, is there a blood clot in a deep vein. Second, are the one-way valves inside the veins leaking and letting blood fall backward. There are no needles, no dye, and no radiation. Most studies take thirty to sixty minutes, and you can return to normal activity immediately afterward.
 
-## Indications for Venous Ultrasound Imaging
+Veins carry blood back toward the heart, so problems here cause swelling, aching, and skin changes rather than the pain of artery disease.
 
-Venous ultrasound is commonly used for various purposes, including:
+## Why Dr. Nanavati may recommend this
 
-- **Diagnosis of Deep Vein Thrombosis (DVT):** Patients with symptoms such as leg pain, swelling, and redness may undergo venous ultrasound to detect the presence of blood clots in the deep veins.
-- **Venous Insufficiency Assessment:** This test helps evaluate the valves in the veins to determine if they are functioning properly. Venous insufficiency can lead to conditions like varicose veins.
-- **Leg Swelling or Edema Evaluation:** Unexplained swelling in the legs may prompt a venous ultrasound to identify the cause, which could include venous obstruction or insufficiency.
-- **Assessment of Blood Flow Abnormalities:** To identify conditions that affect blood flow, such as vascular malformations or compression of veins by adjacent structures.
-- **Preoperative Planning:** Prior to certain surgical procedures, especially those involving the veins (e.g., vein bypass surgery), venous ultrasound can provide detailed information about the anatomy and help in planning the surgery.
-- **Postoperative Monitoring:** After vascular surgery or interventions, venous ultrasound may be used to monitor blood flow and assess the success of the procedure.
+The most urgent reason is suspected deep vein thrombosis, a clot in a deep vein. A clot can break loose and travel to the lungs, which is why testing is done quickly. [MedlinePlus](https://medlineplus.gov/deepveinthrombosis.html) explains the warning signs and why prompt diagnosis matters.
 
-## Preparation for Venous Ultrasound Imaging
+Other reasons include:
 
-In general, preparation for venous ultrasound imaging may involve the following steps:
+- New swelling, pain, warmth, or redness in one leg or arm
+- Leg heaviness, aching, or throbbing that worsens through the day
+- Varicose veins, skin discoloration near the ankle, or a slow-healing ankle ulcer
+- Mapping leaking valves before [venous ablation](/services/venous-ablation) or another vein treatment
+- Follow-up after a previous clot or vein procedure
+- Checking arm veins around an intravenous line or dialysis access
+- Unexplained swelling where the cause is not clear
 
-- Wear comfortable, loose-fitting clothing that allows easy access to the area being examined.
-- You are advised to remove any jewelry or accessories around the area to be examined as these may obstruct access for the ultrasound transducer.
-- You may continue taking your prescribed medications unless otherwise instructed by your healthcare provider.
-- Avoid using lotions, oils, or powders on the area to be examined. These substances can interfere with ultrasound imaging.
-- Inform the ultrasound technologist about any relevant medical history, ongoing conditions, or recent surgeries.
-- Generally, no fasting or dietary restrictions are necessary for venous ultrasound. You can eat and drink as usual before the procedure.
+A dedicated reflux study is a version of this test done standing or sitting, because gravity is needed to reveal leaking valves. It is often combined with broader [vascular ultrasound](/services/vascular-ultrasound) testing.
 
-## Procedure for Venous Ultrasound Imaging
+## How to prepare
 
-In general, venous ultrasound imaging procedure may involve the following steps:
+Almost no preparation is needed, which is one reason this test can be arranged quickly.
 
-- On arrival to the exam, you may be asked to change into a gown or wear clothing that allows easy access to the area to be examined.
-- Depending on the reason for the venous ultrasound, you may be asked to lie down on an examination table. The technologist will position you to expose the area of interest, such as the legs or arms.
-- A clear gel is applied to the skin over the area being examined. This gel helps ensure good contact between the skin and the ultrasound transducer, allowing sound waves to pass through and create clear images.
-- The ultrasound technologist will use a handheld device called a transducer, which emits and receives ultrasound waves. They will move the transducer over the skin in the area of interest, capturing images of the veins and blood flow.
-- In many cases, a Doppler ultrasound is performed simultaneously. The Doppler function assesses the direction and speed of blood flow within the veins, providing additional information.
-- The ultrasound machine generates real-time images on a monitor. The technologist may capture still images or record video clips during specific points in the examination.
-- Once the necessary images have been obtained, the gel is wiped off, and you can typically resume your normal activities immediately. There is no downtime or recovery needed after a venous ultrasound.
+- Eat and drink normally. Fasting is not required for leg or arm studies.
+- Take your usual medicines, including blood thinners, unless told otherwise.
+- Wear loose, two-piece clothing. You will likely change into shorts or a gown so the whole leg can be reached.
+- Remove jewelry and watches near the area being scanned.
+- Skip lotion, oil, and powder on the skin that day, since they interfere with the gel.
+- Remove compression stockings before the scan, and bring them to put back on afterward.
+- Tell the office about recent surgery, casts, wounds, or dressings on the limb.
+- Allow up to an hour, and longer if both legs are being examined.
 
-The entire procedure is usually painless, and it typically takes about 30 to 60 minutes, depending on the complexity of the examination.
+## What happens during the procedure
 
-## Interpretation
+You lie on an exam table. For leg vein studies, the head of the table is often raised so blood fills the veins normally. Some parts of a reflux study are done standing.
 
-Interpretation of venous ultrasound imaging is typically performed by a qualified healthcare professional, often a radiologist or a vascular specialist. The results of the ultrasound help in assessing the structure and function of the veins, as well as identifying any abnormalities. Doppler ultrasound is commonly used to assess blood flow within the veins. The direction and speed of blood flow are crucial indicators. The results are compared with normal blood flow patterns to detect abnormalities such as obstruction or reflux.
+Warm gel is applied. The sonographer follows the vein from the groin down through the thigh, behind the knee, and into the calf, taking images along the way. At regular intervals the probe presses down firmly. This is deliberate and important. A normal vein flattens completely under pressure, while a vein containing a clot stays open. The squeeze may feel tender in a swollen leg but should not be sharply painful, so speak up if it is.
 
-In cases of chronic venous insufficiency or varicose veins, the ultrasound helps assess the functionality of the valves within the veins. Incompetent valves can lead to blood pooling and venous reflux, which may necessitate a specific study called venous reflux study.
+Doppler recordings follow. You will hear a rhythmic whooshing sound as blood moves. The sonographer may squeeze your calf, or ask you to bear down or take a deep breath, and then watch what the blood does. Blood that flows briefly backward after these maneuvers indicates a leaking valve. Both legs are often compared even when only one is symptomatic.
 
-**Venous Reflux Studies** are a type of diagnostic evaluation used to assess the functionality of the venous valves in the legs. These valves play a crucial role in maintaining proper blood flow from the extremities back to the heart. Venous reflux occurs when these valves fail to close properly, leading to the backward flow or reflux of blood in the veins. The focus of the venous reflux study is on specific veins, such as the great saphenous vein or small saphenous vein, where reflux is commonly observed. Venous reflux studies are particularly useful in evaluating conditions such as chronic venous insufficiency (CVI), varicose veins, and other venous disorders. The information obtained from these studies helps guide treatment decisions, such as recommending compression therapy, lifestyle modifications, or more invasive interventions like vein ablation or sclerotherapy.
+## Recovery and results
 
-[Other Related Treatments](/treatments)
+There is no recovery time. The gel is wiped off, you dress, and you leave. Driving, working, eating, and exercising are all fine right away.
+
+Results are read by a physician. When a clot is suspected, results are prioritized and reported the same day, because treatment with anticoagulation may need to start immediately. Routine reflux and follow-up studies are usually reported within a few business days.
+
+Dr. Nanavati will explain the findings clearly. A confirmed deep vein clot leads to blood thinning treatment and a discussion of how long it should continue. Leaking valves without a clot point toward chronic venous insufficiency, and management starts with compression stockings, leg elevation, walking, and weight control. When symptoms persist despite those measures, [venous ablation](/services/venous-ablation) may be considered. If the picture suggests arterial rather than venous disease, an [arterial ultrasound](/services/arterial-ultrasound) or an [ankle brachial index](/services/ankle-brachial-index-abi) may be added.
+
+## Risks and safety
+
+Venous ultrasound is among the safest diagnostic tests available. Diagnostic ultrasound has no known harmful effects on tissue, there is no radiation, and nothing is injected. It is safe in pregnancy and can be repeated as often as clinically needed.
+
+The discomforts are minor. Gel feels cool, though it is usually warmed. The compression maneuvers can be tender over a swollen or inflamed leg. Holding a position for the length of the scan may be awkward if you have back or hip pain, and the table can be adjusted.
+
+The limitation worth knowing is that image quality depends on conditions. Heavy swelling, casts, bandages, open wounds, or a large body habitus can make some vein segments hard to see, especially deep in the pelvis or calf. When part of the study is inconclusive, a repeat scan in a few days or a CT or MR venogram may be recommended. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/venous-thromboembolism) describes how venous clots are diagnosed and treated.
+
+## Related services and conditions
+
+- [Vascular ultrasound](/services/vascular-ultrasound) covering both arteries and veins
+- [Carotid ultrasound and Doppler](/services/carotid-ultrasound-doppler) for the neck arteries
+- [Echocardiogram](/services/echocardiogram) when heart function may be causing swelling
+- [Cardiology services](/services/cardiology-services) at each of our offices
+- [Request an appointment online](/appointments/online)

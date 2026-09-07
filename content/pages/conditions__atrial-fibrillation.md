@@ -1,9 +1,9 @@
 ---
 {
  "route": "/conditions/atrial-fibrillation",
- "title": "Atrial Fibrillation Chula Vista, Bonita, CA | Cardioversion Procedure Redding, CA",
+ "title": "AFib Treatment | San Diego & Redding, CA",
  "h1": "Atrial Fibrillation",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA offers a cardioversion procedure to treat atrial fibrillation. Atrial fibrillation (AF) is a heart condition characterized by an irregular and rapid heartbeat that hampers blood supply to the body.",
+ "description": "Atrial fibrillation diagnosis, stroke risk assessment and treatment from Dr. Vimal Nanavati, MD, FACC at HeartCare4life in Bonita, San Diego and Redding, CA.",
  "sourceUrl": "https://www.heartcare4life.com/atrial-fibrillation-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/atrial-fibrillation-interventional-cardiologist-bonita-redding-ca/"
@@ -12,46 +12,65 @@
 }
 ---
 
-## What is Atrial Fibrillation?
+## What is atrial fibrillation?
 
-Atrial fibrillation (AF) is a heart condition characterized by an irregular and rapid heartbeat that hampers blood supply to the body. In atrial fibrillation, the upper chambers (atria) and the lower chambers (ventricles) of the heart lack coordination, causing a rapid and irregular heart rhythm. People with atrial fibrillation may experience palpitations, shortness of breath, and fatigue or lack of energy. Atrial fibrillation can be intermittent (occasional) or chronic. Atrial fibrillation is a serious medical condition that requires immediate treatment. If left untreated, it can lead to serious health consequences.
+Atrial fibrillation, usually called AFib or AF, is an irregular and often rapid heart rhythm that begins in the two upper chambers of the heart. Instead of squeezing in a steady, coordinated way, the upper chambers quiver. Blood is still pumped, but less efficiently, and the lower chambers respond at an uneven pace. That is why the pulse feels chaotic. AFib may come in short bursts that stop on their own, or it may become the heart's everyday rhythm. Some people feel every episode. Others feel nothing and learn about it during a routine exam. The most important consequence is stroke. When the upper chambers quiver, blood can pool and form a clot that travels to the brain, and the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/atrial-fibrillation) identifies AFib as a major stroke risk factor. AFib is also treatable, and treatment lowers that risk substantially.
 
-## Risks for Atrial Fibrillation
+## Symptoms to watch for
 
-Some of the risk factors for atrial fibrillation include the following:
+AFib feels different from person to person. Roughly a third of patients have no symptoms at all.
 
-- **Aging:** Overage 60 although it may occur at any age
-- Affects more whites than blacks
-- Affects more men than women
-- Uncontrolled hypertension (high blood pressure)
-- Chronic lung disease
-- Pulmonary embolism: a blood clot in the lungs
-- Diabetes
-- Nerve conditions
-- Excessive alcohol, caffeine or tobacco intake
-- Heart disease caused by high cholesterol
+Call the office if you notice:
 
-## Diagnosis of Atrial Fibrillation
+- A fluttering, quivering or galloping heartbeat
+- A pulse that is irregular when you check it at your wrist
+- Shortness of breath with stairs or light activity
+- Fatigue that is new or out of proportion to what you are doing
+- Lightheadedness, or a feeling of pressure in the chest with an episode
 
-A cardiologist should evaluate all heart conditions for proper diagnosis and treatment. Your cardiologist will review your medical history and perform a thorough physical examination. Diagnostic studies may include routine blood tests, electrocardiogram (measures the electrical activity of the heart), chest X-ray, echocardiogram (ultrasound images) and Holter monitor (an ambulatory device that measures the electrical activity of the heart).
+Call 911 right away if you have:
 
-## Treatment of Atrial Fibrillation
+- Chest pain or pressure that lasts more than a few minutes
+- Sudden face drooping, arm weakness or trouble speaking, the [stroke](https://www.cdc.gov/stroke/) warning signs
+- Fainting, or severe shortness of breath at rest
 
-Treatment options may include medications, specific medical procedures and surgery.
+Stroke symptoms are time critical. Treatment works best in the first hours, so call 911 rather than driving to a hospital.
 
-Your doctor may recommend medications such as beta-blockers, calcium channel blockers, antiarrhythmic medication, and blood thinners to help control heart rate and rhythm and to avoid clot formation which can cause damage to organs.
+## How Dr. Nanavati diagnoses it
 
-Cardioversion, a procedure to reset the heart rhythm may be recommended for acute symptoms or if this is your first episode of atrial fibrillation and the symptoms are significant. Cardioversion can be achieved by electrical energy or special medications.
+AFib has to be captured on a tracing to be confirmed. Because episodes come and go, the choice of monitor matters as much as the test itself.
 
-Surgery may be necessary for patients with chronic AF who do not respond to medication or procedures and in people with other co-morbid conditions requiring heart surgery. Surgical procedures for atrial fibrillation are open-heart procedures, performed under general anesthesia.
+- **[Electrocardiogram (ECG or EKG)](/services/electrocardiogram-ecg-ekg)** confirms AFib in seconds when you are in the rhythm during your visit.
+- **[Holter monitoring](/services/holter-monitoring)** records 24 to 48 hours of beats for symptoms that occur most days.
+- **[7 to 10 day ambulatory rhythm monitoring](/services/7-10-day-ambulatory-rhythm-monitor)** catches episodes that appear only occasionally, and also measures how much of the time you are in AFib.
+- **[Loop recorder implantation and interrogation](/services/loop-recorder-implantation-and-interrogation)** provides long term monitoring after a stroke of unknown cause or for very infrequent episodes.
+- **[Transthoracic echocardiography](/services/transthoracic-echocardiography)** measures the size of the upper chambers, checks the valves and reports pumping strength.
+- **[Transesophageal echocardiography](/services/transesophageal-echocardiography)** looks directly for clot in the left atrial appendage before cardioversion or ablation.
+- **[Advanced lipid testing](/services/advanced-lipid-testing)** plus thyroid and metabolic blood work identifies reversible drivers.
+- **[Treadmill stress testing](/services/treadmill-stress-test)** shows how well your rate is controlled with exertion.
 
-- **Maze procedure:** In this procedure, several precise incisions are made in the upper chambers of your heart (atria) to confine the transmission of electrical impulses to a controlled path.
-- **Surgical pulmonary vein isolation:** It is a modified maze procedure during which alternative energy sources such as radiofrequency, cryothermy, microwave or laser are used to create the lesions for scar tissue formation. This scar tissue blocks the abnormal electrical impulses and promotes the conduction of impulses through a controlled path. These approaches can be performed through minimally invasive surgical techniques.
-- **Radiofrequency ablation:** This technique uses radiofrequency energy to heat the heart tissue and create lesions similar to the lesions of the Maze procedure to block the abnormal electrical signals.
-- **Cryothermy:** Cryothermy, also called cryoablation, is a technique that uses extremely cold temperature through an instrument called a cryoprobe, to produce lesions over the heart.
-- **Microwave Technology:** In this technique, microwave energy through a special wand-like catheter is used to produce several lesions over the heart to block the abnormal electrical impulses and to restore a normal heartbeat.
-- **Laser technology:** Lasers are also used to produce lesions over the heart. This approach offers great promise for the development of less invasive procedures.
+Monitoring and [echocardiogram](/services/echocardiogram) studies are performed in the office at all three sites.
 
-In AF patients with other heart problems such as valve disease or coronary artery disease, which also require surgery, a combination of the surgeries may be used to treat AF and the co-morbid condition simultaneously.
+## Treatment options
+
+AFib care has two separate jobs: prevent stroke, and manage the rhythm itself. Both are addressed at every visit.
+
+**Stroke prevention.** Your risk is scored using age, blood pressure, diabetes, heart failure, vascular disease and prior stroke. When the score warrants it, an anticoagulant is prescribed, in line with [American College of Cardiology guidelines](https://www.acc.org/Guidelines). For patients who cannot take long term blood thinners, [left atrial appendage closure](/services/left-atrial-appendage-closure) seals the pouch where most AFib clots form.
+
+**Lifestyle.** Weight loss, treating sleep apnea, limiting alcohol, cutting stimulants and controlling [blood pressure](https://www.heart.org/en/health-topics/high-blood-pressure) all reduce how often AFib returns. These steps are part of the [American Heart Association](https://www.heart.org/en/health-topics/atrial-fibrillation) approach and are as effective as some medications.
+
+**Rate and rhythm medication.** Beta blockers and calcium channel blockers slow the heart rate. Antiarrhythmic drugs work to hold normal rhythm.
+
+**Procedures.** Electrical cardioversion resets the rhythm with a brief, sedated shock. Catheter ablation isolates the tissue triggering AFib. A pacemaker is added when the rate runs too slow, and [pacemaker interrogation](/services/pacemaker-interrogation) checks it at follow up. These procedures take place at affiliated hospitals. [Cardiac rehabilitation](/services/cardiac-rehabilitation) helps you rebuild activity safely afterward.
+
+## What to expect at your visit
+
+Bring every medication bottle or an accurate list, plus any tracings from a smart watch or home device. Be ready to describe when episodes start, how long they last and what triggers them. Your appointment includes an exam, a blood pressure and pulse check and an ECG. Echocardiography and monitor placement are typically arranged the same day. You will leave with a clear answer on three points: whether you need a blood thinner, how your rate will be controlled and what the plan is if AFib returns. The [FAQs page](/faqs) answers common questions about preparing for a first visit.
+
+## When to see a cardiologist
+
+Make an appointment if your pulse is irregular, if a watch or blood pressure cuff has flagged an irregular rhythm, or if you have unexplained [palpitations](/conditions/heart-palpitations), breathlessness or fatigue. AFib often accompanies [coronary artery disease](/conditions/coronary-artery-disease) and high blood pressure, so a full cardiac assessment is worthwhile. [Request an appointment online](/appointments/online) or call the Bonita office at (619) 585-0476.
+
+[Dr. Vimal Nanavati, MD, FACC](/dr-vimal-nanavati) is board certified in cardiology and interventional cardiology with 32 years of experience. He founded Advanced Heart Care, Inc. in 1997 and sees patients at three [locations](/locations): Bonita in South San Diego, serving Chula Vista, Eastlake, Otay Ranch, National City, Spring Valley, Imperial Beach, San Ysidro and Coronado; North San Diego at 5190 Governor Dr, serving University City, La Jolla, Clairemont and Mira Mesa; and Redding, serving Shasta County, Anderson, Red Bluff, Palo Cedro and Cottonwood.
 
 [Other Related Diseases](/conditions)

@@ -11,7 +11,21 @@ export const SECTION_META: Record<string, { name: string; eyebrow: string; schem
   appointments: { name: "Appointments", eyebrow: "Visit options" },
   "patient-info": { name: "Patient Info", eyebrow: "Education & resources" },
   media: { name: "Media", eyebrow: "Videos, news and stories" },
+  compare: { name: "Compare", eyebrow: "Weighing your options" },
 };
+
+/**
+ * Non-invasive diagnostic services. Everything else under /services is treated as
+ * an interventional (percutaneous) procedure for schema.org procedureType.
+ */
+export const DIAGNOSTIC_SLUGS = new Set([
+  "7-10-day-ambulatory-rhythm-monitor", "advanced-lipid-testing", "advanced-stress-testing",
+  "ankle-brachial-index-abi", "arterial-ultrasound", "cardiac-rehabilitation",
+  "carotid-ultrasound-doppler", "coronary-ct-angiography", "defibrillator-interrogation",
+  "echocardiogram", "electrocardiogram-ecg-ekg", "holter-monitoring", "ihd-evaluation",
+  "nuclear-stress-test", "pacemaker-interrogation", "transthoracic-echocardiography",
+  "treadmill-stress-test", "vascular-ultrasound", "venous-ultrasound",
+]);
 
 export function crumbsFor(route: string, h1: string) {
   const parts = route.split("/").filter(Boolean);

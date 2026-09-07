@@ -1,9 +1,9 @@
 ---
 {
  "route": "/services/ptca",
- "title": "PTCA | HeartCare4life, Dr. Vimal Nanavati, Board Certified in Cardiology and Interventional Cardiology, Bonita, Redding, San Diego, CA",
+ "title": "PTCA: Coronary Balloon Angioplasty",
  "h1": "PTCA",
- "description": "PTCA | HeartCare4life, Dr. Vimal Nanavati, Board Certified in Cardiology and Interventional Cardiology, Bonita, Redding, San Diego, CA",
+ "description": "PTCA uses a tiny balloon to reopen a narrowed heart artery. Learn who needs it, how to prepare, what the procedure feels like, and what recovery involves.",
  "sourceUrl": "https://www.heartcare4life.com/ptca-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/ptca-interventional-cardiologist-bonita-redding-ca/"
@@ -12,30 +12,72 @@
 }
 ---
 
-## What is Percutaneous Transluminal Coronary Angioplasty (PTCA)?
+## What is percutaneous transluminal coronary angioplasty?
 
-**Percutaneous transluminal coronary angioplasty** (PTCA) is a minimally invasive heart procedure used to open narrowed or blocked coronary arteries.
+Percutaneous transluminal coronary angioplasty, or PTCA, is a catheter procedure that reopens a narrowed artery supplying the heart muscle. A thin flexible tube is passed into an artery at the wrist or groin and guided to the heart using X-ray pictures. A very small balloon at the tip is positioned inside the narrowing, then inflated for a few seconds. The balloon presses the fatty plaque outward and widens the channel so blood can flow again. In most cases a stent, a tiny mesh tube, is placed in the same spot to hold the artery open. No chest incision is made, and you stay awake with numbing medicine and light sedation. PTCA is often called balloon angioplasty, and together with stenting it forms percutaneous coronary intervention, or PCI. It relieves angina and, during a heart attack, restores flow quickly to limit damage.
 
-**Coronary arteries** are the blood vessels that supply oxygen-rich blood to the heart muscle. These arteries run along the surface of the heart and are essential for keeping the heart healthy and functioning properly. Any blockage in these arteries can cause chest pain (angina), shortness of breath, and fatigue. Severe or complete blockage may lead to a heart attack (myocardial infarction), causing permanent damage to the heart muscle. PTCA helps relieve chest pain (angina), improves blood flow, and reduces the risk of a heart attack.
+Dr. Nanavati performs these interventional procedures at affiliated hospitals rather than in the office.
 
-## What are the Indications for Percutaneous Transluminal Coronary Angioplasty (PTCA)?
+## Why Dr. Nanavati may recommend this
 
-Indications for PTCA include significant narrowing or blockage of coronary arteries causing angina, reduced blood flow to the heart, or a heart attack. It is recommended when symptoms persist despite medication or when urgent restoration of blood flow is needed.
+PTCA treats [coronary artery disease](/conditions/coronary-artery-disease), the narrowing of heart arteries by plaque. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/coronary-heart-disease) explains how this narrowing reduces oxygen delivery to heart muscle.
 
-## How Should I Prepare for Percutaneous Transluminal Coronary Angioplasty (PTCA)?
+It may be recommended when:
 
-To prepare for PTCA, you may be asked to fast for several hours, undergo blood tests, ECG, and imaging, and adjust certain medications. Inform your doctor about allergies, kidney problems, or bleeding disorders, and arrange for post-procedure care for rest and recovery.
+- [Chest pain](/conditions/chest-pain) or breathlessness continues despite medication
+- Testing shows a significant blockage that is limiting blood flow
+- You are having a heart attack, where opening the artery quickly is the priority
+- Angina is limiting the activities you want to do
+- A previously treated artery has narrowed again
 
-## What Should I Expect During Percutaneous Transluminal Coronary Angioplasty (PTCA)?
+Not every blockage needs a balloon. For stable symptoms, medicines and risk factor treatment are often tried first. Findings from a [nuclear stress test](/services/nuclear-stress-test) or coronary CT angiography help decide whether an intervention will genuinely help. Some patients are better served by bypass surgery, particularly when several arteries are involved.
 
-During PTCA, you remain awake with local anesthesia and mild sedation. A thin catheter with a small balloon is inserted through the wrist or groin and guided to the narrowed coronary artery using real-time imaging and contrast dye. The small balloon is inflated to widen the artery and improve blood flow. In most cases, a stent is placed to keep the artery open. You may feel brief pressure or discomfort. The procedure typically lasts 30 to 90 minutes.
+## How to prepare
 
-## What Does Postoperative Care and Recovery for Percutaneous Transluminal Coronary Angioplasty (PTCA) Involve?
+- Expect to fast from midnight, or for at least six to eight hours, before a planned procedure.
+- Ask which medicines to hold and which to take with a sip of water. Blood thinners, diabetes drugs, and diuretics all need specific instructions.
+- Report allergies, especially to contrast dye, shellfish, or latex, and any prior reaction to imaging dye.
+- Tell your team about kidney problems. Contrast dye is filtered by the kidneys, so extra fluids may be given.
+- Bring a complete list of medicines and doses, including supplements.
+- Arrange a driver and someone to stay with you the first night at home.
+- Bring loose clothing and plan for an overnight stay in case one is needed.
 
-Postoperative care and recovery after PTCA involve monitoring heart rhythm and blood pressure, caring for the catheter insertion site, and taking prescribed blood-thinning medications. Patients are advised to rest initially, gradually resume activities, follow a heart-healthy lifestyle, and attend follow-up appointments to ensure proper healing and artery patency.
+Blood tests, an electrocardiogram, and sometimes a chest X-ray are done beforehand.
 
-## What are the Risks and Benefits of Percutaneous Transluminal Coronary Angioplasty (PTCA)?
+## What happens during the procedure
 
-Benefits of PTCA include improved blood flow to the heart, relief from chest pain, quicker recovery, and reduced risk of heart damage. Risks may include bleeding at the catheter site, artery re-narrowing, blood clots, allergic reaction to contrast dye, and rarely heart attack or stroke.
+You lie on a padded table in the cardiac catheterization laboratory. Monitoring pads and a blood pressure cuff go on, and an intravenous line delivers mild sedation. You stay awake but relaxed, and many patients remember little of it.
 
-[Other Related Treatments](/treatments)
+The access site, either the wrist for a [transradial angiogram](/services/transradial-angiogram) or the groin for a [transfemoral angiogram](/services/transfemoral-angiogram), is numbed. A small sheath is placed in the artery. Catheters pass through the sheath without pain, because arteries have no sensory nerves inside. Contrast dye is injected so the arteries show up on the X-ray screen. The dye may bring a brief warm flush.
+
+Once the narrowing is identified, a fine guidewire is passed across it and the balloon is advanced over the wire. Inflation lasts only seconds. You may feel pressure or a short episode of chest discomfort while flow is briefly interrupted. Tell the team, because this is expected and manageable. A stent is usually deployed next. Final pictures confirm improved flow. Most procedures take thirty to ninety minutes.
+
+## Recovery and results
+
+The sheath is removed and the site is sealed with pressure, a band, or a closure device. Wrist access allows sitting up and walking sooner. Groin access requires lying flat for several hours to prevent bleeding.
+
+Many stable patients go home the next day. After a heart attack the stay is longer. Bruising at the access site is common and fades over one to two weeks. Avoid heavy lifting and strenuous activity for about a week, and follow specific instructions on driving and returning to work.
+
+Dr. Nanavati can usually describe the result immediately after the procedure, often with images. Antiplatelet medication, typically aspirin plus a second drug, is essential after a stent. Do not stop these without speaking to your cardiologist, because stopping early raises the risk of a clot forming in the stent. [Cardiac rehabilitation](/services/cardiac-rehabilitation) is strongly encouraged and improves both fitness and long-term outcomes.
+
+## Risks and safety
+
+PTCA is a well established procedure with a strong safety record, but it is still a heart procedure. Possible complications include:
+
+- Bleeding, bruising, or a lump at the access site
+- Allergic reaction to contrast dye
+- Kidney strain from the dye, more likely with existing kidney disease
+- Clot formation or re-narrowing inside the treated artery over time
+- Damage to the artery wall
+- Irregular heart rhythms
+- Rarely, heart attack, stroke, or the need for emergency bypass surgery
+
+Risk depends on your age, kidney function, how many arteries are involved, and whether the procedure is urgent. The [American Heart Association](https://www.heart.org/en/health-topics/heart-attack) describes why rapid treatment matters most during a heart attack.
+
+## Related services and conditions
+
+- [Angioplasty](/services/angioplasty), the broader term for balloon treatment of arteries
+- [Coronary stenting](/services/coronary-stenting), usually performed at the same time
+- [Ischemic heart disease evaluation](/services/ihd-evaluation) before deciding on treatment
+- [Advanced lipid testing](/services/advanced-lipid-testing) to lower the risk of new blockages
+- [Coronary CT angiography](/services/coronary-ct-angiography), a non-invasive look at the arteries

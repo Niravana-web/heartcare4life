@@ -3,7 +3,7 @@
  "route": "/appointments/international",
  "title": "Consultations for International Patients | HeartCare4life, Dr. Vimal Nanavati, Board Certified in Cardiology and Interventional Cardiology, Bonita, Redding, San Diego, CA",
  "h1": "Consultations for International Patients",
- "description": "Consultations for International Patients | HeartCare4life, Dr. Vimal Nanavati, Board Certified in Cardiology and Interventional Cardiology, Bonita, Redding, San Diego, CA",
+ "description": "Second opinions by video for patients outside the US. A board-certified interventional cardiologist reviews your imaging, diagnosis and proposed treatment.",
  "sourceUrl": "https://www.heartcare4life.com/consultations-for-international-patients-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [],
  "youtube": []

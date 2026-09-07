@@ -1,9 +1,9 @@
 ---
 {
  "route": "/services/holter-monitoring",
- "title": "Holter Monitoring Chula Vista, CA | 24-Hour Ambulatory ECG Redding, Bonita, CA",
+ "title": "Holter Monitoring (24-Hour ECG)",
  "h1": "Holter Monitoring",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA offers holter monitoring study, also called 24-hour ambulatory ECG, a painless, portable diagnostic test that measures the activity of your heart for 24 to 48 hours.",
+ "description": "A Holter monitor is a small recorder worn for 24 to 48 hours that captures every heartbeat during normal daily life. Preparation, wearing it, and results.",
  "sourceUrl": "https://www.heartcare4life.com/holter-monitoring-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/holter-monitoring-interventional-cardiologist-bonita-redding-ca/"
@@ -14,49 +14,74 @@
 
 ## What is Holter Monitoring?
 
-A Holter monitoring study, also known as 24-hour ambulatory ECG, is a painless, portable diagnostic test that measures your heart’s activity for 24 to 48 hours while you perform your daily normal routine.
+A Holter monitor is a small portable recorder that captures every heartbeat for 24 to 48 hours while you go about your ordinary day. It is essentially a continuous electrocardiogram. Several sticky electrodes are placed on your chest and connected by thin wires to a recorder about the size of a deck of cards, which clips to your belt or hangs from a strap. Some newer versions are a single adhesive patch with no wires at all. Because the recording runs without interruption, it captures rhythm changes that occur while you are working, climbing stairs, arguing, eating, or asleep. Those are moments a ten second office tracing will never see. You also keep a diary of symptoms and activities, which lets your cardiologist match what you felt to what your heart was doing at that exact minute. The test is painless, involves no radiation, and does not restrict most daily activity.
 
-## Indications for a Holter Monitor
+## Why Dr. Nanavati may recommend this
 
-Indications for a Holter monitoring include
+A standard [electrocardiogram](/services/electrocardiogram-ecg-ekg) is a snapshot. A Holter monitor is a full day of film. If your symptoms happen most days, a day or two of recording is usually enough to catch them.
 
-- Irregular heartbeat
-- To test the function of a pacemaker
-- Unstable angina
-- Hypertrophic cardiomyopathy
-- Cardiac arrhythmia
-- Other heart conditions
-- Bradycardia (abnormally slow heart rate)
+Dr. Nanavati may recommend Holter monitoring if you have:
 
-## Preparation for Holter Monitoring
+- [Heart palpitations](/conditions/heart-palpitations), fluttering, pounding, or a sense of skipped beats
+- Dizziness, lightheadedness, or unexplained fainting
+- Episodes of unexplained shortness of breath or chest discomfort
+- A suspected slow heart rate, or pauses in the heartbeat
+- Suspected [atrial fibrillation](/conditions/atrial-fibrillation), or known atrial fibrillation where the heart rate needs assessing
+- A pacemaker or defibrillator whose function needs checking against symptoms
+- A new rhythm medication that needs evaluation
+- Follow-up after an ablation or other rhythm procedure
 
-Preparation for Holter monitoring includes:
+The [American Heart Association explains atrial fibrillation and why the rhythm matters](https://www.heart.org/en/health-topics/atrial-fibrillation), and the [National Heart, Lung, and Blood Institute reviews the range of arrhythmias](https://www.nhlbi.nih.gov/health/arrhythmias). If your symptoms occur only weekly or monthly, a longer [7 to 10 day ambulatory rhythm monitor](/services/7-10-day-ambulatory-rhythm-monitor) is usually a better choice.
 
-- Your doctor will instruct you regarding the procedure.
-- Inform your doctor if you are allergic to any adhesives.
-- Consume food and water as usual.
-- Avoid applying any cream or body lotion.
-- Wear comfortable loose-fitting clothes.
-- Excess hair on your chest will be removed so that the electrodes can stick firmly to your chest.
-- Take a bath or shower before coming for the procedure to remove body oils.
-- Avoid strong magnets, microwaves, electric blankets, electric toothbrushes, electric razors, and metal detectors while wearing the monitor.
+## How to prepare
 
-## Procedure for Holter Monitor
+- Shower or bathe before your appointment. Once the monitor is on, most traditional recorders cannot get wet, so this may be your last shower for a day or two.
+- Do not apply lotion, oil, powder, or body spray to your chest that morning. Adhesive will not hold on treated skin.
+- Wear a loose top that buttons or zips in front. Layers make the recorder easier to hide.
+- Men may need small patches of chest hair shaved for firm electrode contact.
+- Continue all of your medications unless told otherwise, and bring your list. The point is to record your heart as it usually behaves.
+- Tell the office about any adhesive allergy or sensitive skin.
+- Plan a normal day or two. Do not take time off and rest, because unusual quiet can hide the very problem being looked for.
+- Bring a pen and paper, or plan to use your phone, for the symptom diary.
+- Allow about 20 to 30 minutes for the fitting appointment.
 
-The ambulatory ECG is a non-invasive procedure that involves the following steps:
+## What happens during the procedure
 
-- Your doctor will instruct you to lie on a table on your back.
-- Small electrodes on flexible leads will be attached to sticky pads on your chest and abdomen.
-- These leads are plugged into the monitor.
-- Your doctor will instruct you to keep the Holter monitor near your body throughout the testing period, usually worn near your waist.
-- The electrodes will record any changes in the electrical activity of your heart.
-- Your doctor will instruct you to follow your usual routine during the 24-hour test, however, you should avoid bathing or swimming; instead, you may use wet wipes or washcloths to clean your body.
-- You will need to keep a diary and record your activities with the date and time.
-- Also, record any symptoms that you may experience like chest pain or shortness of breath during the testing period.
-- Your doctor will compare your notes to the activity recorded on the ECG.
+There is no procedure in the surgical sense. Fitting the monitor is quick and painless.
 
-## After the Procedure
+A member of the clinical team cleans and gently buffs several small areas of skin on your chest to remove surface oil. Electrodes are pressed firmly into place, the lead wires are connected, and the recorder is switched on and secured at your waist or on a shoulder strap.
 
-Your doctor will instruct you to resume your normal diet and regular activities.
+You are shown how to press the event button when you feel a symptom, and how to write the time and the symptom in your diary. That diary is the most valuable part of the test, so please complete it carefully. Note when you sleep, exercise, and feel anything unusual.
 
-[Other Related Treatments](/treatments)
+Then you go home and live normally. Walk, work, cook, drive, and sleep as usual. Avoid soaking in a bath, swimming, or showering with a wired recorder. If an electrode peels up, press it back down rather than removing it.
+
+After 24 or 48 hours, you return the monitor to the office or follow the mailing instructions you were given.
+
+## Recovery and results
+
+There is nothing to recover from. Once the electrodes are removed, your skin may look pink for a day, and you can shower normally right away.
+
+The recording is processed by specialized software and then reviewed by a technician and a physician, who compare the rhythm to the times in your diary. That takes several days to about two weeks. Dr. Nanavati then discusses the findings with you at a follow-up visit or by phone.
+
+A normal report is genuinely useful. It shows your heart rate range through the day and night and confirms that no dangerous rhythm occurred while you were symptomatic. If you felt palpitations during the recording and the rhythm was normal at that moment, that is strong reassurance.
+
+Other results guide the next step. Frequent extra beats may need only observation or a small medication change. Atrial fibrillation raises the question of stroke prevention and may prompt an [echocardiogram](/services/echocardiogram). A slow rate with pauses may lead to a pacemaker discussion. If the recording is normal but symptoms continue, longer monitoring is the usual next move.
+
+## Risks and safety
+
+Holter monitoring carries essentially no medical risk. The device only listens. It sends no current into your body, uses no radiation, and involves no dye, needles, or medication.
+
+The most common problem is skin irritation beneath the electrodes. Redness, itching, or a mild rash can occur and usually settles within a few days of removal. Tell the office if you have reacted to adhesives before, since hypoallergenic electrodes can be used.
+
+Practical annoyances are more likely than harm. The recorder is bulky under fitted clothing, sleeping with wires takes getting used to, and not showering for a day or two is inconvenient. Electrodes can loosen with sweat, which is the usual reason a study has to be repeated.
+
+The main limitation is timing. If your symptoms do not occur during the recording window, the study may be normal even though a real problem exists. That is a limitation of the test, not a clean bill of health.
+
+The monitor does not alert anyone in real time. If you have severe chest pain, fainting, or serious trouble breathing while wearing it, call 911.
+
+## Related services and conditions
+
+- [7 to 10 day ambulatory rhythm monitor](/services/7-10-day-ambulatory-rhythm-monitor) for less frequent symptoms
+- [Electrocardiogram (ECG / EKG)](/services/electrocardiogram-ecg-ekg), the brief in-office recording
+- [Arrhythmias](/conditions/arrhythmias) and [atrial fibrillation](/conditions/atrial-fibrillation)
+- [Request an appointment online](/appointments/online)

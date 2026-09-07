@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { allPages, getPage, childrenOf, excerpt } from "@/lib/content";
-import { CUSTOM_ROUTES, SECTION_META, crumbsFor } from "@/lib/routes";
+import { CUSTOM_ROUTES, SECTION_META, crumbsFor, DIAGNOSTIC_SLUGS } from "@/lib/routes";
 import { buildMetadata, graph, webPageLd, videoLd, abs } from "@/lib/seo";
 import PageHeader from "@/components/PageHeader";
 import Prose from "@/components/Prose";
@@ -44,18 +44,40 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
   const siblings = isHub ? [] : childrenOf("/" + page.section).filter((p) => p.route !== route);
   const vids = page.youtube.map((id) => videos.find((v) => v.id === id)).filter(Boolean) as typeof videos;
 
+  const slugTail = slug[slug.length - 1];
+  const isDiagnostic = DIAGNOSTIC_SLUGS.has(slugTail);
+  const crumbs = crumbsFor(route, page.h1);
+
   const entityId = abs(route) + "#entity";
   const about = meta?.schemaType && !isHub ? { "@type": meta.schemaType, "@id": entityId, name: page.h1, description: page.description, url: abs(route) } : undefined;
+
+  /** Conditions link to the services that treat them, mirroring the editorial cross-links. */
+  const treatmentIds = meta?.schemaType === "MedicalCondition"
+    ? [...page.body.matchAll(/\]\((\/services\/[a-z0-9-]+)\)/g)].map((m) => abs(m[1]) + "#entity")
+    : [];
+
   const ld = graph(
     webPageLd({ route, title: page.h1, description: page.description, about: about ? { "@id": entityId } : undefined, type: isHub ? "CollectionPage" : "MedicalWebPage" }),
-    ...(about ? [{ ...about, ...(meta?.schemaType === "MedicalProcedure" ? { howPerformed: "Performed by Dr. Vimal Nanavati, board-certified interventional cardiologist, at HeartCare4life offices in Bonita, San Diego and Redding, CA", procedureType: "https://schema.org/PercutaneousProcedure" } : {}), ...(meta?.schemaType === "MedicalCondition" ? { associatedAnatomy: { "@type": "AnatomicalStructure", name: "Heart" } } : {}) }] : []),
+    ...(about ? [{
+      ...about,
+      ...(meta?.schemaType === "MedicalProcedure" ? {
+        howPerformed: isDiagnostic
+          ? "Performed by Dr. Vimal Nanavati, board-certified interventional cardiologist, at HeartCare4life offices in Bonita, San Diego and Redding, CA"
+          : "Performed by Dr. Vimal Nanavati, board-certified interventional cardiologist, at affiliated hospitals serving San Diego and Redding, CA",
+        procedureType: isDiagnostic ? "https://schema.org/NoninvasiveProcedure" : "https://schema.org/PercutaneousProcedure",
+      } : {}),
+      ...(meta?.schemaType === "MedicalCondition" ? {
+        associatedAnatomy: { "@type": "AnatomicalStructure", name: "Heart" },
+        ...(treatmentIds.length ? { possibleTreatment: [...new Set(treatmentIds)].map((id) => ({ "@id": id })) } : {}),
+      } : {}),
+    }] : []),
     ...vids.map(videoLd),
   );
 
   return (
     <>
       <JsonLd data={ld} />
-      <PageHeader eyebrow={meta?.eyebrow} title={page.h1} lede={isHub ? page.description : undefined} crumbs={crumbsFor(route, page.h1)} />
+      <PageHeader eyebrow={meta?.eyebrow} title={page.h1} lede={isHub ? page.description : undefined} crumbs={crumbs} />
       <div className="container-x py-14">
         <div className={isHub ? "" : "grid gap-14 lg:grid-cols-[minmax(0,1fr)_300px]"}>
           <Reveal>
@@ -65,7 +87,9 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
                 {vids.map((v) => (<figure key={v.id} className="m-0"><YouTube id={v.id} title={v.title} /><figcaption className="mt-3 font-serif text-lg text-navy">{v.title}</figcaption></figure>))}
               </div>
             )}
-            {!isHub && !["accessibility", "accessibility-statement", "disclaimer", "privacy", "open-payments-database", "gallery"].includes(page.section) && <AuthorBlock />}
+            {!["accessibility", "accessibility-statement", "disclaimer", "privacy", "open-payments-database", "gallery"].includes(page.section)
+              && (!isHub || ["services", "conditions", "treatments", "compare"].includes(page.section))
+              && <AuthorBlock />}
           </Reveal>
           {!isHub && (
             <aside className="lg:sticky lg:top-20 lg:self-start">

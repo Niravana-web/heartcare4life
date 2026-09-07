@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { SITE, DOCTOR, LOCATIONS, OPENING_SPEC, REVIEWED } from "./site";
+import { SITE, DOCTOR, LOCATIONS, OPENING_SPEC, SATURDAY_SPEC, REVIEWED } from "./site";
 
 export function trimDesc(d: string, max = 158): string {
   d = d.replace(/\s+/g, " ").replace(/\s*\.php\s*/g, " / ").trim();
@@ -66,7 +66,10 @@ export function locationLd(l: (typeof LOCATIONS)[number]) {
     ...(l.geo ? { geo: { "@type": "GeoCoordinates", latitude: l.geo.lat, longitude: l.geo.lng } } : {}),
     priceRange: "$$",
     hasMap: l.maps,
-    openingHoursSpecification: OPENING_SPEC.map((s) => ({ "@type": "OpeningHoursSpecification", ...s })),
+    openingHoursSpecification: [
+      ...OPENING_SPEC.map((s) => ({ "@type": "OpeningHoursSpecification", ...s })),
+      ...(l.saturdays ? [{ "@type": "OpeningHoursSpecification", ...SATURDAY_SPEC }] : []),
+    ],
     medicalSpecialty: ["Cardiovascular", "Cardiology", "Interventional Cardiology"],
     parentOrganization: { "@id": ID.org },
     physician: { "@id": ID.doctor },
@@ -85,6 +88,14 @@ export function organizationLd() {
     description: SITE.description,
     foundingDate: String(SITE.founded),
     telephone: LOCATIONS[0].phone,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: LOCATIONS[0].suite ? `${LOCATIONS[0].street}, ${LOCATIONS[0].suite}` : LOCATIONS[0].street,
+      addressLocality: LOCATIONS[0].city,
+      addressRegion: LOCATIONS[0].state,
+      postalCode: LOCATIONS[0].zip,
+      addressCountry: "US",
+    },
     medicalSpecialty: ["Cardiovascular", "Cardiology", "Interventional Cardiology"],
     areaServed: ["San Diego County, CA", "Chula Vista, CA", "Bonita, CA", "Redding, CA", "Shasta County, CA", "Northern California", "International patients"],
     sameAs: Object.values(SITE.social),
@@ -113,7 +124,18 @@ export function physicianLd() {
     knowsAbout: ["Coronary artery disease", "Coronary stenting", "Angioplasty", "Left atrial appendage closure", "Atrial fibrillation", "Venous ablation", "Advanced lipid testing", "Echocardiography", "Stress testing", "Preventive cardiology", "Telehealth cardiology second opinions"],
     worksFor: { "@id": ID.org },
     affiliation: { "@id": ID.org },
-    hospitalAffiliation: LOCATIONS.map((l) => ({ "@id": ID.loc(l.id) })),
+    // Own clinics belong in workLocation. The schema.org property for external
+    // hospitals is intentionally not used here, since no external affiliation is verified.
+    workLocation: LOCATIONS.map((l) => ({ "@id": ID.loc(l.id) })),
+    hasCredential: DOCTOR.credentials.map((c) => ({
+      "@type": "EducationalOccupationalCredential",
+      credentialCategory: c.category,
+      name: c.name,
+      recognizedBy: { "@type": "Organization", name: c.by },
+    })),
+    ...(DOCTOR.npi
+      ? { identifier: { "@type": "PropertyValue", propertyID: "NPI", value: DOCTOR.npi, url: `https://npiregistry.cms.hhs.gov/provider-view/${DOCTOR.npi}` } }
+      : {}),
     sameAs: [SITE.social.linkedin, SITE.social.youtube, SITE.social.x, SITE.social.instagram, SITE.social.facebook],
   };
 }

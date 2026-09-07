@@ -3,7 +3,7 @@
  "route": "/gallery",
  "title": "Gallery | Dr Vimal Nanavati | Cardiologist Chula Vista, Bonita, CA",
  "h1": "Gallery",
- "description": "Click here to view the picture gallery. Dr Vimal Nanavati, cardiologist at HeartCare4life in Redding, Bonita and Chula Vista, CA offers treatment for heart conditions.",
+ "description": "Photographs from our cardiology practice: the offices, the team, and the community events and teaching behind the care we give in Bonita and Redding, CA.",
  "sourceUrl": "https://www.heartcare4life.com/gallery-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/gallery-interventional-cardiologist-bonita-redding-ca/"

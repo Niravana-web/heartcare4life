@@ -1,8 +1,9 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Cormorant_Garamond, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import CallBar from "@/components/CallBar";
 import SmoothScroll from "@/components/SmoothScroll";
 import JsonLd from "@/components/JsonLd";
 import { SITE, LOCATIONS } from "@/lib/site";
@@ -21,18 +22,27 @@ export const metadata: Metadata = {
   publisher: SITE.name,
   formatDetection: { telephone: true },
   icons: { icon: "/favicon.svg" },
+  manifest: "/manifest.webmanifest",
+};
+
+export const viewport: Viewport = {
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#f4eee0" },
+    { media: "(prefers-color-scheme: dark)", color: "#152030" },
+  ],
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${cormorant.variable} ${sourceSans.variable}`}>
-      <body className="flex min-h-screen flex-col">
+      <body className="flex min-h-screen flex-col pb-[52px] lg:pb-0">
         <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-[100] focus:bg-ink focus:px-4 focus:py-2 focus:text-white">Skip to content</a>
         <SmoothScroll />
         <JsonLd data={graph(organizationLd(), physicianLd(), websiteLd(), ...LOCATIONS.map(locationLd))} />
         <Header />
         <main id="main" className="flex-1">{children}</main>
         <Footer />
+        <CallBar />
       </body>
     </html>
   );

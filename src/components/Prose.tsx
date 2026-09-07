@@ -34,6 +34,8 @@ export default function Prose({ body, className = "" }: { body: string; classNam
             return <p {...(rest as ComponentProps<"p">)}>{children}</p>;
           },
           h1: ({ children }) => <h2>{children}</h2>,
+          // Comparison tables are wide; give each its own horizontal scroll container.
+          table: ({ children }) => <div className="table-scroll"><table>{children}</table></div>,
           a: ({ href = "", children }) => {
             if (href.startsWith("/")) return <Link href={href}>{children}</Link>;
             const ext = href.startsWith("http");

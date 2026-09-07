@@ -29,7 +29,15 @@ export const DOCTOR = {
   yearsExperience: 32,
   image: "/images/dr-vimal-nanavati-prfle.jpg",
   route: "/dr-vimal-nanavati",
+  // TODO: practice to supply the 10-digit NPI. Once set, it is emitted as a schema
+  // identifier and linked to the CMS NPI Registry. Left undefined so nothing is invented.
   npi: undefined as string | undefined,
+  /** Only credentials already asserted in site copy. Do not add unverified ones. */
+  credentials: [
+    { name: "Board Certified in Cardiovascular Disease", by: "American Board of Internal Medicine", category: "certification" },
+    { name: "Board Certified in Interventional Cardiology", by: "American Board of Internal Medicine", category: "certification" },
+    { name: "Fellow of the American College of Cardiology (FACC)", by: "American College of Cardiology", category: "membership" },
+  ],
 };
 
 export type Location = {
@@ -110,6 +118,9 @@ export const OPENING_SPEC = [
   { dayOfWeek: ["Friday"], opens: "09:00", closes: "12:00" },
 ];
 
+/** Redding only: selected Saturdays by appointment. Mirrors the Saturday row in HOURS. */
+export const SATURDAY_SPEC = { dayOfWeek: ["Saturday"], opens: "09:00", closes: "12:00" };
+
 export const NAV = [
   { label: "About", href: "/about", children: [
     { label: "About Us", href: "/about" },
@@ -120,6 +131,7 @@ export const NAV = [
   { label: "Services", href: "/services" },
   { label: "Conditions", href: "/conditions" },
   { label: "Treatments", href: "/treatments" },
+  { label: "Compare", href: "/compare" },
   { label: "Testimonials", href: "/testimonials" },
   { label: "FAQs", href: "/faqs" },
   { label: "Media", href: "/media", children: [

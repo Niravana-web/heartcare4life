@@ -1,9 +1,9 @@
 ---
 {
  "route": "/conditions/chest-pain",
- "title": "Chest Pain Chula Vista, CA | Heart Attack Bonita | Angina Redding, CA",
+ "title": "Chest Pain Evaluation | San Diego & Redding",
  "h1": "Chest Pain",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA offers treatment for chest pain, heart attack, angina and pericarditis.",
+ "description": "Chest pain and angina evaluation with in-office ECG, stress testing and echocardiography from Dr. Vimal Nanavati, MD, FACC in Bonita, San Diego and Redding.",
  "sourceUrl": "https://www.heartcare4life.com/chest-pain-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/chest-pain-interventional-cardiologist-bonita-redding-ca/"
@@ -12,72 +12,65 @@
 }
 ---
 
-## What is Chest Pain?
+> **Call 911 now if you have chest pain with shortness of breath, sweating, nausea or vomiting, or pain spreading to your arm, back, neck or jaw. Call 911 for chest pressure that lasts more than a few minutes, or that goes away and comes back. Do not drive yourself and do not wait to see if it passes. These are [heart attack warning signs](https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack), and treatment works best in the first minutes. Women, older adults and people with diabetes often have milder or unusual symptoms, so call anyway if something feels wrong.**
 
-Chest pain can present as a sharp, stabbing pain or a dull ache accompanied by discomfort in your chest. It is not a disease, but a symptom of an underlying heart problem like coronary heart disease. The degree of chest pain depends on the intensity, duration and person.
+## What is chest pain?
 
-## Types of Chest Pain
+Chest pain is any discomfort felt between the neck and the upper abdomen. It is a symptom, not a diagnosis, and it has many possible causes. The one that must be ruled out first is reduced blood flow to the heart muscle. When a coronary artery is narrowed, the heart does not get enough oxygen during exertion, and the result is angina: pressure, squeezing, tightness or burning that comes on with activity and eases with rest. A heart attack happens when that flow stops completely, and the discomfort is usually more intense and does not ease. Not all chest pain is cardiac. Acid reflux, muscle strain, rib inflammation, anxiety, pneumonia, and inflammation of the sac around the heart all cause it. The difficulty is that these can feel alike, which is why the [American Heart Association](https://www.heart.org/en/health-topics/heart-attack) advises treating unexplained chest pain as an emergency until a clinician says otherwise.
 
-- **Stable chest pain:** It is caused by coronary heart disease. Squeezing or pain in the center of your chest is the main symptom.
-- **Unstable chest pain:** Acute coronary syndrome leads to unstable chest pain. It occurs without warning and while resting.
-- **Variant chest pain (rare):** It is caused by a spasm in the coronary arteries and typically occurs between midnight and early morning when you are at rest.
-- **Microvascular chest pain:** Spasms within the walls of small arterial blood vessels results in this condition. Symptoms include breath shortness, sleep problems or fatigue.
+## Symptoms to watch for
 
-## Causes of Chest Pain
+Cardiac chest pain is more often described as pressure or heaviness than as sharp pain. Pay attention to the pattern.
 
-There are several factors that can cause your chest pain. Apart from heart-related problems (the main contributor), the condition may be caused by disorders associated with:
+Call 911 immediately for:
 
-- Your lungs
-- Digestive system
-- Muscles or bones
+- Chest pressure, squeezing or fullness lasting more than a few minutes
+- Pain radiating to the arm, shoulder, back, neck or jaw
+- Chest discomfort with cold sweat, nausea, or shortness of breath
+- Sudden severe pain with fainting or a feeling that something is badly wrong
 
-Shingles (a viral infection that causes painful rashes) and panic attacks may also result in chest pain.
+Call the office to be seen soon for:
 
-The chest pain caused by heart-related issues can be life-threatening. It occurs when your heart muscle does not receive enough oxygen-rich blood due to blocked arteries. Some of the heart-related conditions causing your chest pain include:
+- Chest tightness that reliably appears with walking or stairs and stops with rest
+- Discomfort that has been happening for weeks without getting worse
+- Chest pain that comes with [palpitations](/conditions/heart-palpitations) or unusual fatigue
+- Pain that is clearly reproduced by pressing on the chest wall or by certain foods
 
-- **Heart attack:** Blockage of blood flow to your heart or blood clot
-- **Angina:** Poor blood flow to your heart due to blockages in blood vessels
-- **Pericarditis:** An inflammation of the sac that surrounds your heart
+Angina that is new, more frequent or now occurring at rest is called unstable, and the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/angina) treats that as an emergency.
 
-## Symptoms
+## How Dr. Nanavati diagnoses it
 
-Symptoms of your chest pain may vary and depend on the cause of the condition. The major symptoms of chest pain caused by heart disorders include:
+The goal is to answer one question first: is your heart muscle getting enough blood? Testing is chosen for your symptoms and risk profile.
 
-- A feeling of pressure in your chest
-- Squeezing or tightness in the chest
-- Burning sensation in the chest
-- Breath shortness and cold sweats
-- Dizziness or weakness and nausea
+- **[Electrocardiogram (ECG or EKG)](/services/electrocardiogram-ecg-ekg)** is performed in the office at the first visit and shows evidence of strain or prior injury.
+- **[Treadmill stress testing](/services/treadmill-stress-test)** records the heart while you walk, reproducing the conditions that bring on your symptoms.
+- **[Nuclear stress testing](/services/nuclear-stress-test)** adds imaging that shows which region of muscle is short of blood.
+- **[Advanced stress testing](/services/advanced-stress-testing)** is used when you cannot walk a treadmill or when a standard study is inconclusive.
+- **[Echocardiogram](/services/echocardiogram)** and [transthoracic echocardiography](/services/transthoracic-echocardiography) assess pumping strength, valves and the sac around the heart.
+- **[Coronary CT angiography](/services/coronary-ct-angiography)** images the coronary arteries themselves without a catheter.
+- **[Ischemic heart disease evaluation](/services/ihd-evaluation)** brings these findings together into one assessment.
+- **[Advanced lipid testing](/services/advanced-lipid-testing)** measures the cholesterol particles driving plaque.
 
-Often, the pain may radiate to your back, neck, shoulders and arms, and can get worse with activity.
+If the non invasive results point to a significant blockage, a [transradial angiogram](/services/transradial-angiogram) through the wrist, or a [transfemoral angiogram](/services/transfemoral-angiogram), is performed at an affiliated hospital.
 
-## Diagnosis
+## Treatment options
 
-You need to see your doctor immediately if you experience chest pain that lasts more than a few moments. The doctor will ask you some questions and your answers are critical for identifying the cause of your chest pain.
+Treatment follows the cause. When the cause is [coronary artery disease](/conditions/coronary-artery-disease), care moves through three levels.
 
-Additionally, any of the following tests may be ordered to confirm your heart is a cause for the chest pain.
+**Lifestyle and risk factors.** Stopping smoking, controlling blood pressure and blood sugar, moving daily and eating for heart health lower the frequency of angina. The [heart healthy living](https://www.nhlbi.nih.gov/health/heart-healthy-living) guidance from NHLBI is the practical starting point, and the [seven risk factors for heart attack](/seven-risk-factors-for-heart-attack) are reviewed with every patient.
 
-- **Chest X-ray:** To examine your heart, blood vessels and lungs
-- **Electrocardiogram (ECG):** To record your heart’s electrical activity
-- **Echocardiogram:** To record moving images of the heart
-- **MRI:** To look for damage to your heart or aorta (the main artery)
-- **Stress test:** To measure the function of your heart with exertion
-- **Angiogram:** To spot blockages in specific arteries
-- **Computerized tomography (CT scan):** To spot blood clots or blockages
-- **Blood tests:** To measure levels of the enzyme in your heart muscle
+**Medication.** Nitrates relieve angina. Beta blockers and calcium channel blockers reduce the heart's oxygen demand. Statins stabilize plaque, and aspirin or other antiplatelet drugs reduce clotting risk.
 
-## Treatment for Chest Pain
+**Procedures.** When a narrowing is severe, [angioplasty](/services/angioplasty), also called [PTCA](/services/ptca), opens the artery with a balloon, and [coronary stenting](/services/coronary-stenting) holds it open. Some patients are better served by bypass surgery. These are hospital based procedures, arranged and followed up through the office. [Cardiac rehabilitation](/services/cardiac-rehabilitation) afterward improves stamina and lowers the chance of another event.
 
-Treatment for chest pain varies and depends on the outcome of the diagnosis (cause, severity, etc.)
+## What to expect at your visit
 
-Your doctor has several options to treat your chest pain caused by heart-related disorders. The treatment can be anyone or a combination of the below.
+Bring a medication list and any records from an emergency room or urgent care visit for the same pain. Be ready to describe what brings the pain on, how long it lasts, what relieves it and whether it has changed. Your visit includes an exam, blood pressure and an ECG. Stress testing and echocardiography are done in the office, and staff explain how to prepare, including whether to hold caffeine or a particular medication. You leave with an explanation of the likely cause, the tests being ordered and clear instructions on when to call 911 in the meantime. More preparation details are on the [FAQs page](/faqs).
 
-- Use of medications, clot-busting drugs or blood thinners
-- Cardiac catheterization involving the use of stents to open blocked arteries
-- Surgical repair of arteries (coronary artery bypass grafting or bypass surgery)
-- Angioplasty and stent placement involving the use of balloons and stents
-- Dissection repair to correct an aortic dissection
+## When to see a cardiologist
 
-Chest pain is a medical emergency and you should call emergency medical services for prompt intervention and treatment.
+Schedule an evaluation for chest discomfort with activity, for pain that has been dismissed but keeps returning, or after an emergency room visit that did not find an answer. Anyone with a family history of early heart disease, diabetes, high cholesterol or [aortic aneurysm](/conditions/aortic-aneurysm) should be assessed. [Request an appointment online](/appointments/online) or call the Bonita office at (619) 585-0476.
+
+[Dr. Vimal Nanavati, MD, FACC](/dr-vimal-nanavati) is board certified in cardiology and interventional cardiology with 32 years of experience. He founded Advanced Heart Care, Inc. in 1997 and sees patients at three [locations](/locations): Bonita in South San Diego, serving Chula Vista, Eastlake, Otay Ranch, National City, Spring Valley, Imperial Beach, San Ysidro and Coronado; North San Diego at 5190 Governor Dr, serving University City, La Jolla, Clairemont and Mira Mesa; and Redding, serving Shasta County, Anderson, Red Bluff, Palo Cedro and Cottonwood.
 
 [Other Related Diseases](/conditions)

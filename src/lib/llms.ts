@@ -30,11 +30,16 @@ ${HOURS.map((h) => `- ${h.days}: ${h.hours}`).join("\n")}
 ## Reputation
 - ${testimonials.length} patient reviews (Google ${testimonials.filter((t) => t.source === "Google").length}, Healthgrades ${testimonials.filter((t) => t.source === "Healthgrades").length}, Zocdoc ${testimonials.filter((t) => t.source === "Zocdoc").length}, website ${testimonials.filter((t) => t.source === "Website").length}), all 5 stars: ${SITE.url}/testimonials
 - YouTube channel "Heart Matters": ${SITE.social.youtube}
+
+_Last generated: ${new Date().toISOString().slice(0, 10)}_
 `;
 
 export function llmsTxt(): string {
   const pages = allPages();
-  const sections = ["services", "conditions", "treatments", "appointments", "patient-info"];
+  // Derived from content, not hardcoded, so a new section is never silently omitted.
+  const ORDER = ["services", "conditions", "treatments", "compare", "appointments", "patient-info"];
+  const found = [...new Set(pages.map((p) => p.section))].filter((s) => s && s !== "home" && SECTION_META[s]);
+  const sections = [...ORDER.filter((s) => found.includes(s)), ...found.filter((s) => !ORDER.includes(s))];
   let out = HEAD();
   for (const s of sections) {
     const items = pages.filter((p) => p.section === s && p.route !== "/" + s);

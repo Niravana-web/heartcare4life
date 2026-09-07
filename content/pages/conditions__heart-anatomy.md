@@ -1,9 +1,9 @@
 ---
 {
  "route": "/conditions/heart-anatomy",
- "title": "Heart Anatomy Chula Vista, CA | Heart Problems Bonita | Heart Attack Redding, CA",
+ "title": "Heart Anatomy: How Your Heart Works",
  "h1": "Heart Anatomy",
- "description": "Dr Vimal Nanavati at HeartCare4life in Redding, Bonita and Chula Vista, CA provides treatment for heart problems and heart attacks. Click here to read about heart anatomy.",
+ "description": "A plain-language guide to heart anatomy and how each part can fail, with in-office testing from Dr. Vimal Nanavati, MD, FACC in San Diego and Redding, CA.",
  "sourceUrl": "https://www.heartcare4life.com/heart-anatomy-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/heart-anatomy-interventional-cardiologist-bonita-redding-ca/"
@@ -14,68 +14,54 @@
 
 **[EMBED]** https://www.ypo.education/c-MjUxNzU2OA==/heart/heart-anatomy-t43/video/?embed=1
 
-The heart is the most important muscular organ in the body. It works around the clock pumping blood to various parts of the body through the network of blood vessels. The normal adult heart weighs between 200- 425 grams (7 to 15 ounces) and is about the size of your fist. Learning about your heart and its functions can help you understand the various conditions that may affect your heart as well to take precautions to prevent them.
+## How the heart works
 
-The heart is located between the right and left lungs in the middle of your chest. The heart’s function is to supply oxygen and blood to all parts of the body. Oxygenated blood pumped from the heart reaches the body’s organs through the systemic arteries, while veins carry impure or deoxygenated blood back to the heart.
+The heart is a muscular pump about the size of your fist, sitting between the lungs in the middle of the chest. It has four chambers. The two upper chambers, the atria, receive blood. The two lower chambers, the ventricles, pump it out. The right side sends oxygen poor blood to the lungs. The left side pumps oxygen rich blood to the whole body. Four valves keep blood moving in one direction and snap shut to stop it flowing backward. The heart muscle feeds itself through the coronary arteries, which wrap around the outside. An electrical system sets the pace, starting at the sinus node and spreading through the muscle so the chambers squeeze in order. A healthy adult heart beats roughly 60 to 100 times a minute at rest, as described by the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/how-heart-works).
 
-The heart has four muscular chambers, the upper two chambers are called the right and left atria, and the lower two chambers are called the right and left ventricles.
+## The four chambers and four valves
 
-For better understanding, the structures of the heart are discussed under two sections external anatomy and internal anatomy.
+Blood returning from the body enters the right atrium, passes through the tricuspid valve into the right ventricle, then leaves through the pulmonary valve to the lungs. Oxygenated blood returns to the left atrium, crosses the mitral valve into the left ventricle, and exits through the aortic valve into the aorta. The left ventricle is the thickest chamber because it does the hardest work.
 
-The external view of the heart shows many structures. Every structure is associated with a certain function which is important for the normal functioning of the heart. Let us learn more about these structures.
+Valves fail in two ways. They can stiffen and fail to open fully, called stenosis. They can leak and let blood wash backward, called regurgitation. Either creates turbulence that a stethoscope picks up as a [heart murmur](/conditions/heart-murmur). The [American Heart Association](https://www.heart.org/en/health-topics/heart-valve-problems-and-disease) notes that valve problems are often silent for years before symptoms appear.
 
-**Pericardium:** The pericardium is a fluid-filled sac that encloses the heart and the ends of its major blood vessels including the aorta, vena cava and pulmonary artery. The pericardium is made of three layers:
+## The coronary arteries and the electrical system
 
-1. Outer fibrous sac–fibrous pericardium,
-2. Middle layer–parietal pericardium
-3. Inner layer–visceral pericardium
+Two main coronary arteries branch off the aorta and divide across the heart's surface. When plaque narrows them, the muscle runs short of oxygen during exertion, which is [coronary artery disease](/conditions/coronary-artery-disease) and the reason for exertional [chest pain](/conditions/chest-pain).
 
-The space between the parietal and visceral layer is called the pericardial cavity and is filled with pericardial fluid. The pericardial fluid acts as a lubricant to allow normal heart movements within the chest and also acts as a shock absorber to protect the heart from trauma
+The electrical system is separate. The signal starts in the sinus node, pauses at the AV node, then spreads to the ventricles. Interruptions anywhere along that path produce [arrhythmias](/conditions/arrhythmias), including [atrial fibrillation](/conditions/atrial-fibrillation) from the upper chambers and [ventricular arrhythmias](/conditions/ventricular-arrhythmias) from the lower ones.
 
-## Arteries and Veins
+## Symptoms to watch for
 
-**Aorta:** The aorta, the largest blood vessel in the body, carries oxygen-rich blood from the left ventricle to the various parts of the body.
+Knowing the anatomy makes symptoms easier to interpret. Call the office if you notice chest tightness with exertion, breathlessness climbing stairs, ankle swelling, [palpitations](/conditions/heart-palpitations), or fatigue that is new for you.
 
-**Vena Cava:** The superior vena cava and inferior vena cava are the two largest veins in the body. The superior vena cava returns deoxygenated blood to the right atrium from the upper part of the body. The inferior vena cava brings deoxygenated blood from the lower part of the body to the right atrium of the heart.
+Call 911 for chest pressure lasting more than a few minutes, chest discomfort with sweating or nausea, pain radiating to the arm or jaw, fainting, or sudden severe shortness of breath. Face drooping, arm weakness or slurred speech are [stroke](https://www.cdc.gov/stroke/) signs and also require 911.
 
-**Pulmonary artery and pulmonary veins:** The pulmonary artery transports the de-oxygenated blood from the right ventricle to the lungs for oxygenation. The oxygenated blood is then carried to the left atrium through the pulmonary veins.
+## How Dr. Nanavati diagnoses heart problems
 
-**Coronary arteries and coronary veins:** Coronary arteries originate from the ascending aorta and deliver oxygen-rich blood to the heart muscles. Coronary veins remove deoxygenated blood from the muscular tissue of the heart and drain it into the right atrium.
+Each structure has a test that examines it directly.
 
-## Internal Heart Anatomy
+- **[Echocardiogram](/services/echocardiogram)** and **[transthoracic echocardiography](/services/transthoracic-echocardiography)** use ultrasound to show the chambers, the valves and the ejection fraction, the percentage of blood the left ventricle pushes out with each beat.
+- **[Transesophageal echocardiography](/services/transesophageal-echocardiography)** provides a closer view of the valves and upper chambers when a standard study is limited.
+- **[Electrocardiogram (ECG or EKG)](/services/electrocardiogram-ecg-ekg)** maps the electrical system in about ten seconds.
+- **[Holter monitoring](/services/holter-monitoring)** records the rhythm continuously for a day or two.
+- **[Treadmill stress testing](/services/treadmill-stress-test)** and **[nuclear stress testing](/services/nuclear-stress-test)** show whether the coronary arteries deliver enough blood under load.
+- **[Coronary CT angiography](/services/coronary-ct-angiography)** images the coronary arteries themselves.
+- **[Vascular ultrasound](/services/vascular-ultrasound)** and **[carotid ultrasound Doppler](/services/carotid-ultrasound-doppler)** examine the arteries beyond the heart.
 
-**Muscular chambers:** The heart has four muscular chambers, the upper two chambers are called the right and left atria, and the lower two chambers are called the right and left ventricles.
+Echocardiography, ECG, stress testing and vascular ultrasound are all performed in the office. The complete list of [cardiology services](/services/cardiology-services) shows what is available.
 
-The right atrium collects the deoxygenated blood from the vena cava and delivers it to the right ventricle. This delivery is regulated by the tricuspid valve. The right ventricle delivers the blood to the lungs for purification (oxygenation). This delivery is regulated by the pulmonary valve.
+## Treatment options
 
-The left atrium collects the oxygenated blood from the lungs via the pulmonary veins and delivers it to the left ventricle. This delivery is regulated by the mitral valve. The left ventricle then delivers the oxygenated blood to the aorta (main artery) from where it is pumped to the rest of the body. This delivery is regulated by the aortic valve.
+Treatment is matched to the part of the heart that is affected. Narrowed coronary arteries are treated with cholesterol and blood pressure medication, and when needed with [angioplasty](/services/angioplasty) and [coronary stenting](/services/coronary-stenting) at an affiliated hospital. Electrical problems are treated with rate control medication, ablation, or a pacemaker checked by [pacemaker interrogation](/services/pacemaker-interrogation). Valve disease is monitored with serial echocardiograms and referred for repair or replacement when it becomes severe. Weak pumping is treated with medications that protect and unload the heart muscle. Underlying all of it is prevention, and [heart healthy living](https://www.nhlbi.nih.gov/health/heart-healthy-living) plus [advanced lipid testing](/services/advanced-lipid-testing) guide that work. [Cardiac rehabilitation](/services/cardiac-rehabilitation) helps after an event.
 
-**Heart Valves:** Heart valves are flap-like structures that allow blood to flow in one direction preventing backward flow of the blood.
+## What to expect at your visit
 
-## The heart has four valves:
+Bring your medication list, recent labs and any prior heart test reports. Your appointment includes a history, an exam with the stethoscope on several spots to hear each valve, blood pressure and an ECG. If an echocardiogram is ordered, expect to lie on your side while a technologist takes images for about half an hour. Dr. Nanavati will show you what the pictures mean using your own anatomy. You can review other [patient education videos](/patient-info/patient-education-videos) or read the [FAQs page](/faqs) beforehand.
 
-- **Tricuspid Valve:** It is located between the right atrium and the right ventricle.
-- **Mitral Valve:** It is located between the left atrium and the left ventricle.
-- **Pulmonary Valve:** It is located between the right ventricle and the pulmonary artery.
-- **Aortic Valve:** It is located between the left ventricle and the aorta.
+## When to see a cardiologist
 
-## Circulatory System of the Heart
+See a cardiologist if you have a murmur, an abnormal ECG, exertional breathlessness, palpitations, or a family history of early heart disease. Screening also makes sense if you have high blood pressure, high cholesterol or diabetes. [Request an appointment online](/appointments/online) or call the Bonita office at (619) 585-0476.
 
-The heart works as a pump to deliver blood to every organ, tissue, and cell of your body through a complex network of arteries, arterioles, and capillaries. Blood returns back to the heart through venules (small veins) and veins.
-
-## The circulatory system has two parts:
-
-- **Pulmonary circulation:** During pulmonary circulation, the pulmonary artery carries deoxygenated blood from the heart to the lungs for oxygenation and returns oxygenated blood back to the heart through the pulmonary veins.
-- **Systemic circulation:** In systemic circulation, the aorta carries oxygenated blood from the heart to all the organs of the body through the systemic arteries, and returns deoxygenated blood back to the heart via the systemic veins.
-
-## Conduction System
-
-The heart muscle consists of an electrical conduction system that triggers the heart walls to contract. The system is made of two nodes (special conduction cells) and a series of conduction pathways.
-
-- **Sinoatrial or SA node:** Also called the pacemaker of the heart, the SA node is located in the upper wall of the right atrium. The SA node is responsible for setting the rate and rhythm of the heartbeat causing the atria to contract when the electrical impulse is released. The signal then passes to the atrioventricular (AV) node.
-- **Atrioventricular (AV) node:** Located between the atria and ventricles, the AV node checks the signal and sends it to the conduction pathways (bundle of His) to provide electrical stimulus to the ventricles.
-- **Bundle of His:** This is a group of fibers located within the septum of the heart that carries electrical impulses from the AV node to the ventricles. It is divided into right and left bundle branches. These bundle branches are further divided into tiny filaments, known as Purkinje fibers. These fibers connect directly to the cells in the walls of your heart's left and right ventricles to maintain regular contraction.
-
-A healthy heart is important for overall wellbeing. Certain disease conditions and lifestyle habits such as smoking, being overweight, and leading a sedentary life can put your heart at risk affecting how it functions and leading to complications. Heart disease is preventable and the actions you take to reduce your risk of heart disease by making lifestyle changes will increase your chances for a long and healthy life.
+[Dr. Vimal Nanavati, MD, FACC](/dr-vimal-nanavati) is board certified in cardiology and interventional cardiology with 32 years of experience. He founded Advanced Heart Care, Inc. in 1997 and sees patients at three [locations](/locations): Bonita in South San Diego, serving Chula Vista, Eastlake, Otay Ranch, National City, Spring Valley, Imperial Beach, San Ysidro and Coronado; North San Diego at 5190 Governor Dr, serving University City, La Jolla, Clairemont and Mira Mesa; and Redding, serving Shasta County, Anderson, Red Bluff, Palo Cedro and Cottonwood.
 
 [Other Related Diseases](/conditions)
