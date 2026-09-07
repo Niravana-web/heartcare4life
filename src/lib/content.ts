@@ -10,6 +10,8 @@ export type Page = {
   sourceUrl: string;
   legacyUrls: string[];
   youtube: string[];
+  /** Optional shorter <title>, when the H1 plus the brand would exceed 60 chars. */
+  metaTitle?: string;
   /** ISO date the page content last changed. File mtimes are useless in CI, where a
    *  fresh clone stamps every file with the checkout time, so this is explicit. */
   updated?: string;

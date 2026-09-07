@@ -47,6 +47,14 @@ for (const p of pages) {
   if (!Array.isArray(p.legacyUrls)) bad(p.file, "legacyUrls must be an array");
   if (!Array.isArray(p.youtube)) bad(p.file, "youtube must be an array");
   if (p.updated !== undefined && !/^\d{4}-\d{2}-\d{2}$/.test(p.updated)) bad(p.file, `updated must be YYYY-MM-DD, got ${p.updated}`);
+  // The rendered <title> is metaTitle if set, else the H1 (plus a section qualifier
+  // the template only adds when it fits), and the brand is appended after.
+  // Hand-built routes set their own title in page.tsx and are checked separately.
+  if (!EXTRA.has(p.route)) {
+    const BRAND = " | HeartCare4life";
+    const base = p.metaTitle ?? p.h1 ?? "";
+    if (base && (base + BRAND).length > 60) bad(p.file, `title ${(base + BRAND).length} chars; set a shorter metaTitle`);
+  }
 }
 
 // 2. No duplicate routes, titles or descriptions

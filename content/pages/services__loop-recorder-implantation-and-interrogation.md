@@ -8,7 +8,8 @@
  "legacyUrls": [
   "https://www.heartcare4life.com/loop-recorder-implantation-and-interrogation-interventional-cardiologist-bonita-redding-ca/"
  ],
- "youtube": []
+ "youtube": [],
+ "metaTitle": "Loop Recorder Implant and Check"
 }
 ---
 

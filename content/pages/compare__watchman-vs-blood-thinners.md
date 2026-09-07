@@ -6,7 +6,8 @@
  "description": "Blood thinners or left atrial appendage closure for AFib? Dr Vimal Nanavati explains who qualifies, at HeartCare4life in San Diego and Redding, Calif.",
  "sourceUrl": "",
  "legacyUrls": [],
- "youtube": []
+ "youtube": [],
+ "metaTitle": "LAA Closure vs Blood Thinners"
 }
 ---
 

@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!page) return {};
   const label = SECTION_META[page.section]?.name ?? "Cardiology";
   return buildMetadata({
-    title: cleanTitle(page.h1, page.section),
+    title: page.metaTitle ?? cleanTitle(page.h1, page.section),
     description: page.description,
     route: page.route,
     image: `/og?t=${encodeURIComponent(page.h1)}&s=${encodeURIComponent(label)}`,
