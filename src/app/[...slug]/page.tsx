@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { allPages, getPage, childrenOf, excerpt } from "@/lib/content";
-import { CUSTOM_ROUTES, SECTION_META, crumbsFor, DIAGNOSTIC_SLUGS } from "@/lib/routes";
+import { CUSTOM_ROUTES, SECTION_META, crumbsFor, DIAGNOSTIC_SLUGS, comparesFor, NOT_A_PROCEDURE, COMPARE_ENTITIES } from "@/lib/routes";
 import { buildMetadata, graph, webPageLd, videoLd, abs } from "@/lib/seo";
 import PageHeader from "@/components/PageHeader";
 import Prose from "@/components/Prose";
@@ -64,12 +64,20 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
   const siblings = isHub ? [] : childrenOf("/" + page.section).filter((p) => p.route !== route);
   const vids = page.youtube.map((id) => videos.find((v) => v.id === id)).filter(Boolean) as typeof videos;
 
+  const compares = comparesFor(route);
   const slugTail = slug[slug.length - 1];
   const isDiagnostic = DIAGNOSTIC_SLUGS.has(slugTail);
   const crumbs = crumbsFor(route, page.h1);
 
   const entityId = abs(route) + "#entity";
-  const about = meta?.schemaType && !isHub ? { "@type": meta.schemaType, "@id": entityId, name: page.h1, description: page.description, url: abs(route) } : undefined;
+  const about = meta?.schemaType && !isHub && !NOT_A_PROCEDURE.has(slugTail)
+    ? { "@type": meta.schemaType, "@id": entityId, name: page.h1, description: page.description, url: abs(route) }
+    : undefined;
+
+  /** Comparison pages name the entities they weigh, instead of defaulting to the org. */
+  const mentions = page.section === "compare" && !isHub
+    ? (COMPARE_ENTITIES[slugTail] ?? []).map((r) => ({ "@id": abs(r) + "#entity" }))
+    : [];
 
   /** Conditions link to the services that treat them, mirroring the editorial cross-links. */
   const treatmentIds = meta?.schemaType === "MedicalCondition"
@@ -77,7 +85,12 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
     : [];
 
   const ld = graph(
-    webPageLd({ route, title: page.h1, description: page.description, about: about ? { "@id": entityId } : undefined, type: isHub ? "CollectionPage" : "MedicalWebPage" }),
+    webPageLd({
+      route, title: page.h1, description: page.description,
+      about: about ? { "@id": entityId } : undefined,
+      type: isHub ? "CollectionPage" : "MedicalWebPage",
+      ...(mentions.length ? { extra: { mentions } } : {}),
+    }),
     ...(about ? [{
       ...about,
       ...(meta?.schemaType === "MedicalProcedure" ? {
@@ -123,6 +136,19 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
                 <p className="mt-1 text-[.9rem] text-ink-muted">Board Certified in Cardiology and Interventional Cardiology</p>
                 <Link href="/appointments/online" className="btn-primary mt-4 w-full text-center">Book an appointment</Link>
               </div>
+              {compares.length > 0 && (
+                <div className="mt-8 border-t border-rule pt-5">
+                  <p className="eyebrow mb-3 text-[.72rem]">Weighing your options</p>
+                  <ul className="m-0 list-none p-0">
+                    {compares.map((c) => (
+                      <li key={c.slug} className="border-b border-rule py-2 text-[.95rem]">
+                        <Link href={`/compare/${c.slug}`} className="no-underline text-ink hover:text-navy hover:underline underline-offset-4">{c.title}</Link>
+                      </li>
+                    ))}
+                  </ul>
+                  <Link href="/compare" className="link-u mt-3 inline-block text-[.875rem]">All comparisons →</Link>
+                </div>
+              )}
               {siblings.length > 0 && (
                 <div className="mt-8 border-t border-rule pt-5">
                   <p className="eyebrow mb-3 text-[.72rem]">More {meta?.name.toLowerCase() ?? "pages"}</p>

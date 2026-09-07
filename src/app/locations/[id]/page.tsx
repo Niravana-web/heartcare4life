@@ -3,7 +3,7 @@ import Link from "next/link";
 import PageHeader from "@/components/PageHeader";
 import Cta from "@/components/Cta";
 import JsonLd from "@/components/JsonLd";
-import { buildMetadata, graph, webPageLd, locationLd, faqLd, ID } from "@/lib/seo";
+import { buildMetadata, graph, webPageLd, faqLd, ID } from "@/lib/seo";
 import { LOCATIONS, HOURS } from "@/lib/site";
 import { childrenOf } from "@/lib/content";
 
@@ -82,11 +82,13 @@ export default async function LocationPage({ params }: { params: Promise<{ id: s
   if (!l || !c) notFound();
   const route = `/locations/${id}`;
   const services = childrenOf("/services").slice(0, 12);
-  const clinic = { ...locationLd(l), "@id": ID.loc(l.id), url: undefined, mainEntityOfPage: { "@id": (process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.heartcare4life.com") + route + "#webpage" } };
+  // The clinic node itself is declared once, in the root layout graph. Re-declaring
+  // it here under the same @id produced two conflicting copies on every location
+  // page, so this page only references it via webPageLd's `about`.
   const faqs = faqsFor(id, l, c);
   return (
     <>
-      <JsonLd data={graph(webPageLd({ route, title: c.title, description: c.description, about: { "@id": ID.loc(l.id) } }), clinic, faqLd(faqs))} />
+      <JsonLd data={graph(webPageLd({ route, title: c.title, description: c.description, about: { "@id": ID.loc(l.id) }, extra: { mainEntity: { "@id": ID.loc(l.id) } } }), faqLd(faqs))} />
       <PageHeader eyebrow={`${l.city}, California`} title={l.name} lede={c.intro} crumbs={[{ name: "Home", route: "/" }, { name: "Practice Locations", route: "/locations" }, { name: l.name, route }]} />
       <div className="container-x grid gap-12 py-14 lg:grid-cols-[1fr_1.2fr]">
         <div>
