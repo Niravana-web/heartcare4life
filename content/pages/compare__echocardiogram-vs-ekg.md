@@ -54,7 +54,7 @@ Abnormal EKG findings often trigger an echocardiogram. Voltage suggesting thicke
 
 Neither test measures blood flow under stress. If exertional chest pain is the problem, a stress study is the right next step. Our [treadmill vs nuclear stress test](/compare/treadmill-vs-nuclear-stress-test) page explains those options.
 
-Both tests are safe, painless, and free of radiation, so cost and yield rather than risk usually decide the order. General orientation on cardiac testing is available from [MedlinePlus](https://medlineplus.gov/hearthealthtests.html) and the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/echocardiography).
+Both tests are safe, painless, and free of radiation, so cost and yield rather than risk usually decide the order. General orientation on cardiac testing is available from [MedlinePlus](https://medlineplus.gov/hearthealthtests.html) and the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/heart-tests).
 
 ## Questions to ask your cardiologist
 

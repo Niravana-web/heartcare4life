@@ -14,11 +14,13 @@
 
 ## What is a Carotid Ultrasound?
 
-A carotid ultrasound, often called a carotid Doppler, is a painless test that looks at the two large arteries running up either side of the neck that carry blood to the brain. A small handheld probe is pressed gently against the neck and sends high frequency sound waves into the tissue. The echoes that return are turned into a live picture of the artery wall and a measurement of how fast blood is moving through it. That combination lets your cardiologist see plaque, the fatty deposit that builds up inside artery walls, and judge how much it is narrowing the channel. Speed matters, because blood accelerates as it squeezes through a tight spot. The test uses no radiation, no dye, and no needles, so it is safe to repeat and safe in pregnancy. It takes about 30 minutes, is done in the office, and requires no recovery time afterward.
+A carotid ultrasound is a painless test of the two large arteries in your neck. These are the carotid arteries. They run up either side of the neck and carry blood to the brain. A small handheld probe rests on the skin over each one. It sends high frequency sound waves into the tissue. The echoes return as a live picture of the artery wall. The same probe also measures how fast the blood is moving. Speed matters here. Blood speeds up as it squeezes through a tight spot. That lets your cardiologist find plaque and judge how much it narrows the channel. Plaque is the fatty deposit that builds up inside artery walls. The test is often called a carotid Doppler. It uses no radiation, no dye, and no needles. It is safe to repeat and safe in pregnancy. The scan takes about 30 minutes, is done in the office, and needs no recovery time.
+
+Carotid, arterial, and venous scans all belong to the [vascular ultrasound](/services/vascular-ultrasound) family. What sets this one apart is the target. It looks at the blood supply to your brain, so the question behind it is stroke risk. The [arterial ultrasound](/services/arterial-ultrasound) covers the arms and legs instead. The [venous ultrasound](/services/venous-ultrasound) covers the veins, which fail in a different way.
 
 ## Why Dr. Nanavati may recommend this
 
-Narrowing of a carotid artery is a treatable cause of stroke. Plaque can restrict flow, and small fragments can break away and travel to the brain. Finding this early allows treatment before a stroke occurs.
+Narrowing of a carotid artery is a treatable cause of stroke. Plaque can restrict the flow of blood. Small fragments can also break loose and travel to the brain. Finding this early allows treatment before a stroke happens.
 
 Dr. Nanavati may recommend a carotid ultrasound if you have:
 
@@ -30,7 +32,7 @@ Dr. Nanavati may recommend a carotid ultrasound if you have:
 - A family history of stroke or early heart disease
 - A previous carotid procedure that needs periodic surveillance
 
-The [American Heart Association describes stroke warning signs and risk factors](https://www.heart.org/en/health-topics/stroke), and [MedlinePlus provides an overview of carotid artery disease](https://medlineplus.gov/carotidarterydisease.html). Stroke symptoms are an emergency. Call 911 rather than waiting for a scheduled test.
+The [American Heart Association describes stroke warning signs and risk factors](https://www.heart.org/en/health-topics/stroke). [MedlinePlus provides an overview of carotid artery disease](https://medlineplus.gov/carotidarterydisease.html). Stroke symptoms are an emergency. Call 911 rather than waiting for a scheduled test.
 
 ## How to prepare
 
@@ -41,43 +43,53 @@ There is almost nothing to do, which is one of the advantages of this test.
 - Wear a shirt with an open collar or no collar. A turtleneck makes the study awkward.
 - Leave necklaces, scarves, and long dangling earrings at home, or plan to remove them.
 - Skip perfume, cologne, and heavy moisturizer on the neck that morning.
-- Tell the office if you have neck pain, limited neck movement, or a recent neck surgery, so positioning can be adjusted.
+- Tell the office about neck pain, limited neck movement, or recent neck surgery. Positioning can be adjusted.
 - Allow about 45 minutes for check-in and the scan itself.
 - Bring your medication list and any prior imaging reports of the neck arteries for comparison.
 
 ## What happens during the procedure
 
-You lie on your back on an exam table, usually with a pillow under your shoulders and your head turned slightly away from the side being scanned. The room lights are dimmed so the sonographer can see the screen.
+Position is the part of this test that people notice most. You lie flat on your back. A pillow often goes under your shoulders. That tips the chin up and opens the space along the side of the neck. Your head is then turned gently away from the side being scanned. The room lights are dimmed so the screen reads clearly.
 
-Warm water-based gel is applied along one side of your neck. The gel lets the sound waves pass into the body without an air gap. It feels slightly cool and wipes off easily.
+Your collar is folded down, or you change into a gown. The neck has to be bare from the collarbone up to the jaw.
 
-The sonographer slides the probe slowly along the artery, from just above the collarbone up toward the jaw, capturing images from several angles. You will hear a rhythmic pulsing sound through the speakers. That is your own blood flow.
+Gel goes on one side of the neck at a time. The probe follows a short and well defined route. It starts low, near the collarbone. It travels up along the common carotid artery. It pauses at the fork where that artery splits into its internal and external branches. Plaque tends to collect at the fork, so the sonographer spends extra time there.
 
-You may be asked to hold still, breathe quietly, or turn your head a little further. Occasionally you will be asked to stop swallowing or talking for a few seconds while a measurement is taken. The probe presses lightly, and it should never hurt. Tell the sonographer if it does.
+Sound is part of this study. The speakers carry a pulsing tone that rises and falls with your heartbeat. That is your own blood on its way to your brain.
 
-Both sides are examined, and the vertebral arteries at the back of the neck are usually checked as well. When enough images are recorded, the gel is wiped away.
+Swallowing and talking move the neck. You may be asked to hold off for a few seconds while a measurement is captured. You may also be asked to turn your head a little further to open the angle. Pressure from the probe stays light throughout. Tell the sonographer if anything hurts.
+
+The whole route is then repeated on the other side. The vertebral arteries at the back of the neck are usually checked as well. When the images are complete, the gel is wiped away.
 
 ## Recovery and results
 
-There is no recovery. You get dressed and go, and you can drive, work, and exercise immediately.
+Nothing needs to wear off. You wipe away any leftover gel, get dressed, and carry on with your day. Driving, work, and exercise are all fine right away.
 
-The images are interpreted by a physician, and the report generally reaches Dr. Nanavati within a few days. Urgent findings are communicated sooner. He then reviews the results with you and explains what they mean for your care.
+A physician reads the images. The report usually reaches Dr. Nanavati within a few days. Urgent findings are passed along sooner. He then reviews the results with you and explains what they mean for your care.
 
-Results are usually expressed as a percentage range of narrowing, for example less than 50 percent, 50 to 69 percent, or 70 percent or greater. Mild narrowing is typically managed with cholesterol lowering, blood pressure control, blood sugar control, smoking cessation, and sometimes antiplatelet medication, guided by tests such as [advanced lipid testing](/services/advanced-lipid-testing). Moderate narrowing is watched with repeat ultrasound, often every 6 to 12 months. Severe narrowing, especially with symptoms, may lead to confirmatory imaging and a referral to discuss a procedure to open or bypass the artery.
+Carotid results are reported as a percentage range of narrowing. The common bands are less than 50 percent, 50 to 69 percent, and 70 percent or greater. That number drives what happens next.
+
+Mild narrowing is usually managed with medication and risk factor control. That means lowering cholesterol, controlling blood pressure and blood sugar, and stopping smoking. Antiplatelet medication is sometimes added. [Advanced lipid testing](/services/advanced-lipid-testing) can help guide those choices.
+
+Moderate narrowing is watched with repeat ultrasound, often every 6 to 12 months.
+
+Severe narrowing is treated differently, especially if you have had symptoms. It may lead to confirmatory imaging. It may also lead to a referral to discuss a procedure to open or bypass the artery.
 
 ## Risks and safety
 
-Carotid ultrasound carries essentially no risk. Diagnostic ultrasound has been used for decades without evidence of harm to tissue at the energy levels used, and it involves no ionizing radiation, no contrast dye, and no needles.
+There is essentially nothing to weigh against this test. Sound at diagnostic levels does not harm tissue. Nothing is injected, no dye is used, and no radiation dose is added. You leave with no restrictions of any kind.
 
-The discomforts are minor and brief. The gel feels cold, the probe pressure can be mildly uncomfortable, and holding your head turned to one side for several minutes can strain a stiff neck. Ask for a break or a repositioned pillow if you need one.
+The complaints we hear are about the neck. Holding your head turned to one side for several minutes can tire a stiff neck or a sore shoulder. The pillow can be moved, and the scan can be done in shorter stretches. Cool gel is the other common complaint, and it wipes off at the end.
 
-There are limits to what ultrasound can show. Heavy calcification in plaque can cast a shadow that hides the artery behind it. A very high or deeply placed carotid branch may be hard to reach, and body habitus or a short neck can reduce image quality. If the study is incomplete or the findings do not match your symptoms, CT or MR angiography may be recommended to complete the picture.
+What matters more is knowing what this scan can miss. Plaque that has hardened with calcium reflects sound instead of letting it pass. That casts a shadow, and the segment hidden behind the shadow cannot be graded. A carotid artery that branches unusually high can also be hard to reach. So can one that sits deep behind a short neck. When part of the artery cannot be seen, or when the pictures do not match your symptoms, CT or MR angiography is the usual next step.
 
-A normal result reduces the likelihood that neck artery disease is causing your symptoms, but it does not rule out other causes of stroke, such as [atrial fibrillation](/conditions/atrial-fibrillation).
+A clean carotid study is reassuring, but it answers one question only. Stroke has other causes. [Atrial fibrillation](/conditions/atrial-fibrillation) throws clots to the brain from the heart rather than from the neck, and it calls for a different workup.
 
 ## Related services and conditions
 
+- [Vascular ultrasound](/services/vascular-ultrasound), the overview of this family of scans
 - [Arterial Doppler ultrasound](/services/arterial-ultrasound) for arteries elsewhere in the body
+- [Venous ultrasound](/services/venous-ultrasound) for clots and leaking valves in the veins
 - [Ankle-brachial index (ABI)](/services/ankle-brachial-index-abi) to screen the leg circulation
 - [Atrial fibrillation](/conditions/atrial-fibrillation), another major cause of stroke
 - [Advanced lipid testing](/services/advanced-lipid-testing) to refine risk

@@ -30,7 +30,7 @@ Both tests show the coronary arteries, but they arrive at the picture very diffe
 
 The [2021 chest pain guideline framework summarized by the American College of Cardiology](https://www.acc.org/Guidelines) supports CT angiography as a first line test for stable chest pain in patients at intermediate risk who have no prior coronary disease. That is a meaningful endorsement of the non invasive option.
 
-There are limits. Heavy calcium in the artery wall creates glare on the images and can make a narrowing look worse than it is. An irregular or fast heart rhythm degrades picture quality, so atrial fibrillation is a practical obstacle. The scan uses ionizing radiation and iodine contrast, which requires care in reduced kidney function. General background on CT imaging is available from [MedlinePlus](https://medlineplus.gov/ct-scans.html).
+There are limits. Heavy calcium in the artery wall creates glare on the images and can make a narrowing look worse than it is. An irregular or fast heart rhythm degrades picture quality, so atrial fibrillation is a practical obstacle. The scan uses ionizing radiation and iodine contrast, which requires care in reduced kidney function. General background on CT imaging is available from [MedlinePlus](https://medlineplus.gov/ctscans.html).
 
 Most importantly, a CT scan cannot treat anything. If it finds a severe blockage, you still need a catheter procedure.
 
@@ -40,7 +40,7 @@ An invasive coronary angiogram remains the reference standard for defining coron
 
 Live imaging shows not only the narrowing but blood flow through it. Pressure wire measurements can be added to test whether a borderline lesion actually restricts flow. If a significant blockage is confirmed, [coronary stenting](/services/coronary-stenting) can often be performed during the same procedure, sparing you a second appointment.
 
-The risks are small but real, and they are not zero. Bleeding or bruising at the access site is the most common. Contrast can stress the kidneys. Rare complications include artery injury, arrhythmia, and stroke. The [American Heart Association](https://www.heart.org/en/health-topics/heart-attack/diagnosing-a-heart-attack/cardiac-catheterization) and the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/coronary-angiography) describe the procedure and its risks in detail.
+The risks are small but real, and they are not zero. Bleeding or bruising at the access site is the most common. Contrast can stress the kidneys. Rare complications include artery injury, arrhythmia, and stroke. The [American Heart Association](https://www.heart.org/en/health-topics/heart-attack/diagnosing-a-heart-attack/cardiac-catheterization) and the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/cardiac-catheterization) describe the procedure and its risks in detail.
 
 ## How Dr. Nanavati decides which is right for you
 

@@ -28,7 +28,7 @@ The choice comes down to one question: how often do your symptoms happen? A Holt
 
 [Holter monitoring](/services/holter-monitoring) is continuous ambulatory electrocardiography. Because nothing is missed, it answers quantitative questions that no other test can: how many premature beats you have in a day, what your slowest and fastest heart rates were overnight, whether pauses occur while you sleep, and how well a rate control medication is working.
 
-You keep a symptom diary while wearing it. That diary is the point of the test. Matching "felt fluttering at 3:15 pm" to the tracing at 3:15 pm is what turns a recording into a diagnosis. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/holter-event-monitors) explains this correlation clearly.
+You keep a symptom diary while wearing it. That diary is the point of the test. Matching "felt fluttering at 3:15 pm" to the tracing at 3:15 pm is what turns a recording into a diagnosis. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/heart-tests) explains this correlation clearly.
 
 The limitation is the short window. A standard 24 or 48 hour study only captures what happens on those particular days. A completely normal Holter does not rule out an arrhythmia, it simply means nothing happened while you wore it. Patients often assume otherwise, and that misunderstanding delays diagnosis.
 

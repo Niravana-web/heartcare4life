@@ -32,11 +32,15 @@ You can [book an appointment online](/appointments/online) or see [our office lo
 
 To advocate for the patient with heart condition with knowledge and education. In my practice, I see one patient at a time. Using the website, I can help many patients not just locally, but globally.
 
+<!-- TODO: practice to verify role dates; several end dates below came from a LinkedIn export and may be snapshot artifacts rather than real end dates -->
+
 ## Experience
 
 ### Advanced Heart Care
 
-Dr. Nanavati has led Advanced Heart Care in San Diego since March 1995, serving as its Chief Medical Officer. The practice, which patients know as HeartCare4life, is the center of his clinical work and the home of his cardiology and interventional cardiology practice.
+Dr. Nanavati leads Advanced Heart Care as its Chief Medical Officer. Patients know the practice as HeartCare4life. It has operated under his leadership since 1997, the year he came to California. Today it serves patients from offices in Bonita, San Diego and Redding. The practice is the center of his clinical work and the home of his cardiology and interventional cardiology practice.
+
+<!-- TODO: practice to confirm whether Advanced Heart Care was incorporated in 1995 or 1997; site-wide schema currently states 1997 -->
 
 ### Teaching and Academic Work
 
@@ -44,7 +48,7 @@ Since October 2024, Dr. Nanavati has served as a Clinical Associate Professor at
 
 He has also been a Clinical Associate Professor at Midwestern osteopathic school of medicine since January 2010, where he teaches medical students in the clinical arena of cardiovascular medicine.
 
-From October 2024 to August 2025 he served as a Clinical Research Associate at the University of California, Irvine medical school. Over the same period he was an Associate at UC Irvine's Paul Merage School of Business, bringing formal management training to bear on the business side of medicine.
+In October 2024 he took on two further roles at UC Irvine. He worked as a Clinical Research Associate at the medical school. He also served as an Associate at UC Irvine's Paul Merage School of Business. That work brings formal management training to bear on the business side of medicine.
 
 ### Organized Medicine and the California Medical Association
 
@@ -56,9 +60,9 @@ At Paradise Valley Hospital, Dr. Nanavati served as Chief of Staff from January 
 
 ### Health System and Board Roles
 
-From August 2022 to August 2025, Dr. Nanavati was Chief Medical Officer of Proactive Health Care in San Diego, an independent physician association dedicated to maintaining healthy quality of life. He was also Chief Medical Officer of Grace Medical Clinic in Calexico from December 2021 to August 2025.
+Dr. Nanavati has been Chief Medical Officer of Proactive Health Care in San Diego since August 2022. It is an independent physician association dedicated to maintaining healthy quality of life. He has also been Chief Medical Officer of Grace Medical Clinic in Calexico since December 2021.
 
-He has served on the board of directors of Health Excel in San Diego from March 2017 to August 2025, and on the board of HealthXL from December 2018 to July 2022.
+He has served on the board of directors of Health Excel in San Diego since March 2017. He also served on the board of HealthXL from December 2018 to July 2022.
 
 ## Education
 

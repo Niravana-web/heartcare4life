@@ -38,7 +38,7 @@ False positives are also more common in women and in patients with resting ST se
 
 A [nuclear stress test](/services/nuclear-stress-test), sometimes called myocardial perfusion imaging, compares blood delivery to the heart muscle in two states. Muscle supplied by a narrowed artery takes up less tracer at peak stress than at rest, and that difference appears as a defect on the images.
 
-This adds three things a treadmill test cannot provide. It localizes the problem to a specific artery territory. It estimates how much muscle is affected, which strongly influences whether a procedure is worthwhile. And it distinguishes reversible ischemia from fixed scar left by an old heart attack. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/stress-tests) outlines both formats.
+This adds three things a treadmill test cannot provide. It localizes the problem to a specific artery territory. It estimates how much muscle is affected, which strongly influences whether a procedure is worthwhile. And it distinguishes reversible ischemia from fixed scar left by an old heart attack. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/heart-tests) outlines both formats.
 
 If you cannot walk far because of arthritis, lung disease, or deconditioning, a medication can dilate the coronary arteries or raise the heart rate instead. That option is part of our [advanced stress testing](/services/advanced-stress-testing) program.
 

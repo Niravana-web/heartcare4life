@@ -8,17 +8,19 @@
  "legacyUrls": [
   "https://www.heartcare4life.com/coronary-stenting-interventional-cardiologist-bonita-redding-ca/"
  ],
- "youtube": []
+ "youtube": [
+  "c5LKdgZ-U_Q"
+ ]
 }
 ---
 
 ## What is Coronary Stenting?
 
-Coronary stenting is the placement of a small expandable metal mesh tube inside a heart artery to hold it open after a blockage has been widened. The blockage is first stretched open with a tiny balloon, a step called [angioplasty](/services/angioplasty). The stent is then delivered to the same spot on a balloon catheter and expanded until it presses firmly into the artery wall, where it stays permanently. Within weeks the artery lining grows over the mesh, making it part of the vessel. Most stents used today are drug-eluting, meaning they carry a medication coating that is released slowly to discourage scar tissue from narrowing the artery again. Stenting is done through a catheter inserted at the wrist or groin, so there is no chest incision. It is performed in a hospital catheterization laboratory rather than in the office. Dr. Vimal Nanavati is board certified in interventional cardiology and performs these procedures at affiliated hospitals.
+Coronary stenting places a small expandable metal mesh tube inside a heart artery, where it holds the vessel open after a blockage has been widened. A tiny balloon stretches the blockage open first, a step called [angioplasty](/services/angioplasty). The stent then travels to the same spot on a balloon catheter, and it expands until it presses firmly into the artery wall, where it stays permanently. Within weeks the artery lining grows over the mesh, making it part of the vessel. Most stents used today are drug-eluting. That means they carry a medication coating, released slowly to discourage scar tissue from narrowing the artery again. Stenting is done through a catheter inserted at the wrist or groin, so there is no chest incision. The work happens in a hospital catheterization laboratory rather than in the office. Dr. Vimal Nanavati is board certified in interventional cardiology, and he performs these procedures at affiliated hospitals.
 
 ## Why Dr. Nanavati may recommend this
 
-A stent is placed to restore blood flow through a narrowed artery, and to keep that artery from closing back down after the balloon is removed.
+A stent restores blood flow through a narrowed artery. It also keeps that artery from closing back down after the balloon is removed.
 
 Dr. Nanavati may recommend coronary stenting if you have:
 
@@ -28,7 +30,7 @@ Dr. Nanavati may recommend coronary stenting if you have:
 - A large area of reduced blood flow on stress imaging
 - Symptoms of [coronary artery disease](/conditions/coronary-artery-disease) that limit your daily life
 
-Not every blockage needs a stent. For stable symptoms, medication and risk factor treatment often work just as well, and multi-vessel disease is sometimes better treated with bypass surgery. The [National Heart, Lung, and Blood Institute reviews the treatment options for coronary heart disease](https://www.nhlbi.nih.gov/health/coronary-heart-disease). Dr. Nanavati will explain why a stent is or is not the right choice in your case.
+Not every blockage needs a stent. For stable symptoms, medication and risk factor treatment often work just as well. Bypass surgery is sometimes the better treatment for multi-vessel disease. The [National Heart, Lung, and Blood Institute reviews the treatment options for coronary heart disease](https://www.nhlbi.nih.gov/health/coronary-heart-disease). Dr. Nanavati will explain why a stent is or is not the right choice in your case.
 
 ## How to prepare
 
@@ -43,39 +45,39 @@ Not every blockage needs a stent. For stable symptoms, medication and risk facto
 
 ## What happens during the procedure
 
-You lie on a narrow table beneath a movable X-ray camera. Monitors track your heart rhythm, blood pressure, and oxygen, and an intravenous line is placed for fluids and medication.
+You lie on a narrow table beneath a movable X-ray camera. Monitors track your heart rhythm, blood pressure, and oxygen, and an intravenous line goes in for fluids and medication.
 
-You stay awake but relaxed. A mild sedative is usual, so many people remember little afterward. The wrist or groin is cleaned, draped, and numbed with local anesthetic. You may feel pressure while the sheath is placed, but not sharp pain.
+You stay awake but relaxed. A mild sedative is usual, so many people remember little afterward. The team cleans, drapes, and numbs the wrist or groin with local anesthetic. You may feel pressure while the sheath is placed, but not sharp pain.
 
-A thin catheter is guided through the artery to the heart. This is not painful, because arteries have no internal sensory nerves. Contrast dye is injected so the arteries appear on the screen, and you may feel a brief warm flush.
+A thin catheter is guided through the artery to the heart. This is not painful, because arteries have no internal sensory nerves. Contrast dye is then injected so the arteries appear on the screen, and you may feel a brief warm flush.
 
-A soft guidewire is passed across the blockage. The balloon is inflated to open the narrowing, which some people feel as several seconds of chest pressure that fades as the balloon deflates. The stent, mounted collapsed on a second balloon, is then advanced to the same spot and expanded into place. The balloon is deflated and removed. The stent stays.
+A soft guidewire is passed across the blockage. The balloon inflates to open the narrowing. Some people feel this as several seconds of chest pressure that fades as the balloon deflates. The stent sits collapsed on a second balloon, and it is advanced to the same spot and expanded into place. The balloon is deflated and removed. The stent stays.
 
-Final pictures confirm the artery is open. The catheter is withdrawn and the access site is sealed with a closure device or with firm pressure.
+Final pictures confirm the artery is open. The catheter is withdrawn, and a closure device or firm pressure seals the access site.
 
 ## Recovery and results
 
-If the wrist was used, a compression band stays on for a few hours and you can sit up soon after. If the groin was used, you lie flat for several hours to prevent bleeding. Stable patients often go home the same day, while a heart attack usually means several days in the hospital.
+If the wrist was used, a compression band stays on for a few hours, and you can sit up soon after. If the groin was used, you lie flat for several hours to prevent bleeding. Stable patients often go home the same day, while a heart attack usually means several days in the hospital.
 
-The result is known immediately. Your cardiologist sees the open artery on screen and will explain what was found and done.
+The result is known immediately. Your cardiologist sees the open artery on screen, and will explain what was found and what was done.
 
-At home, keep the access site clean and dry, and avoid heavy lifting, straining, and vigorous exercise for about a week. Many people return to desk work within a few days, and chest pain related to the blockage often improves quickly.
+At home, keep the access site clean and dry, and avoid heavy lifting, straining, and vigorous exercise for about a week. Many people return to desk work within a few days. Chest pain related to the blockage often improves quickly.
 
-The most important part of recovery is medication. You will take aspirin plus a second antiplatelet drug, known together as dual antiplatelet therapy, for a period your cardiologist specifies. Stopping these early is the single biggest cause of sudden stent clotting, so never stop them without checking first, including before dental work or surgery. [Cardiac rehabilitation](/services/cardiac-rehabilitation) is strongly recommended afterward.
+The most important part of recovery is medication. You will take aspirin plus a second antiplatelet drug. Together these are known as dual antiplatelet therapy. You stay on them for a period your cardiologist specifies. Stopping these early is the single biggest cause of sudden stent clotting. Never stop them without checking first, including before dental work or surgery. [Cardiac rehabilitation](/services/cardiac-rehabilitation) is strongly recommended afterward.
 
-Modern coronary stents are safe with MRI scanning.
+Modern coronary stents are generally considered safe for MRI scanning. The rules vary, though, by device and by how recently the stent was placed. Always tell the MRI facility that you have a stent and when you received it.
 
 ## Risks and safety
 
-Coronary stenting is common and generally safe, and the risks deserve a plain description.
+Coronary stenting is common and generally safe. Even so, the risks deserve a plain description.
 
-Bruising, bleeding, or soreness at the access site is the most frequent problem. Contrast dye can temporarily reduce kidney function, especially with existing kidney disease or diabetes, and can cause allergic reactions that are usually mild and treatable.
+Bruising, bleeding, or soreness at the access site is the most frequent problem. Contrast dye can temporarily reduce kidney function. That is a greater concern with existing kidney disease or diabetes. The dye can also cause allergic reactions, which are usually mild and treatable.
 
-Less common but more serious risks include an abnormal heart rhythm, tearing or injury of the coronary artery, a heart attack triggered by the procedure, stroke, and rarely the need for emergency bypass surgery. Serious complications are uncommon in stable patients and more likely during emergencies or in people who are already critically ill.
+Other risks are less common but more serious. They include an abnormal heart rhythm, tearing or injury of the coronary artery, and a heart attack triggered by the procedure. Stroke is possible, and rarely emergency bypass surgery is needed. Serious complications are uncommon in stable patients. They are more likely during emergencies, or in people who are already critically ill.
 
-Two longer term issues are specific to stents. Restenosis is gradual renarrowing from scar tissue inside the stent, now much less frequent with drug-eluting stents. Stent thrombosis is a sudden clot inside the stent. It is rare but dangerous, and it is why the antiplatelet medications matter so much.
+Two longer term issues are specific to stents. Restenosis is gradual renarrowing from scar tissue inside the stent. It is now much less frequent with drug-eluting stents. Stent thrombosis is a sudden clot inside the stent. It is rare but dangerous. That is why the antiplatelet medications matter so much.
 
-Call 911 for new severe chest pain, and call the office for fever, spreading bruising, swelling, or bleeding at the access site.
+Call 911 for new severe chest pain. Call the office for fever, spreading bruising, swelling, or bleeding at the access site.
 
 ## Related services and conditions
 

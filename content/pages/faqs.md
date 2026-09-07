@@ -53,11 +53,11 @@ To help ensure a thorough and efficient visit, please bring:
 
 ### Why are medication errors dangerous?
 
-According to the U.S. Food and Drug Administration (FDA), medication errors result in millions of emergency room visits each year and can be life-threatening. Cardiovascular patients are especially vulnerable due to the complexity of heart medications.
+A medication error is any preventable mistake in prescribing, dispensing, or taking a drug. The [U.S. Food and Drug Administration reviews reports of medication errors](https://www.fda.gov/drugs/drug-safety-and-availability/medication-errors-related-cder-regulated-drug-products) involving regulated drug products. Some errors cause no harm, but others lead to serious injury. Cardiovascular patients are especially vulnerable because heart medications are complex. Many require exact doses, careful timing, and regular monitoring.
 
 ### How do medication errors occur?
 
-Medication errors may occur:
+[Medication errors](https://medlineplus.gov/medicationerrors.html) can happen at several points in your care:
 
 - At home, due to missed doses, incorrect timing, or confusion between medications
 - At the pharmacy, due to labeling or dispensing errors
@@ -75,6 +75,8 @@ HeartCare4Life recommends:
 - Asking questions if instructions are unclear
 - Informing your physician of side effects or concerns promptly
 
+MedlinePlus offers further patient guidance on [avoiding medication errors](https://medlineplus.gov/medicationerrors.html).
+
 ## Importance of Regular Doctor Visits
 
 ### Why are routine cardiology visits important?
@@ -85,17 +87,17 @@ Regular doctor visits allow early detection of heart disease, monitoring of exis
 
 ### How dangerous is cigarette smoking for heart patients?
 
-Smoking significantly increases the risk of heart attack, stroke, and sudden cardiac death. In individuals with heart disease, even one cigarette can trigger a serious cardiac event. Modern cigarettes contain more additives and chemicals that increase both addictiveness and cardiovascular harm.
+Smoking damages the heart and blood vessels. Cigarette smoke carries more than 7,000 chemicals, and the FDA explains [how smoking affects heart health](https://www.fda.gov/tobacco-products/health-effects-tobacco-use/how-smoking-affects-heart-health). Smoking contributes to coronary heart disease, high blood pressure, and stroke. Public health agencies do not consider any level of smoking safe. For patients who already have heart disease, stopping is one of the most important steps available. [MedlinePlus](https://medlineplus.gov/smoking.html) reviews the wider health effects of smoking.
 
-### Why are cigarettes more harmful today than in the past?
+### What makes cigarettes so hard to quit?
 
-Advances in cigarette manufacturing have increased nicotine delivery and absorption through chemical additives and filter design. These changes make smoking more addictive and more damaging to the heart and blood vessels.
+Nicotine is the ingredient that keeps people using tobacco, as the FDA describes in [why tobacco products are addictive](https://www.fda.gov/tobacco-products/health-effects-tobacco-use/nicotine-why-tobacco-products-are-addictive). That addiction is why many patients keep smoking even after a cardiac event. Quitting lowers cardiovascular risk, and counseling or medication improves the odds. See [MedlinePlus on quitting smoking](https://medlineplus.gov/quittingsmoking.html) for methods that work.
 
 ## Healthy Dining & Heart-Smart Choices
 
 ### How can I eat heart-healthy when dining out?
 
-HeartCare4Life encourages home-cooked meals whenever possible, but when dining out:
+HeartCare4Life encourages home-cooked meals whenever possible. The tips below follow heart-healthy eating guidance from the [American Heart Association](https://www.heart.org/en/healthy-living/healthy-eating) and the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-foods). When dining out:
 
 - Avoid appetizers and fried foods
 - Limit bread and butter
@@ -106,4 +108,4 @@ HeartCare4Life encourages home-cooked meals whenever possible, but when dining o
 - Skip dessert or opt for fruit or sorbet
 - Avoid sugary beverages and added sugars
 
-Making mindful choices can significantly support long-term heart health.
+Mindful choices at the table support long-term heart health. [MedlinePlus](https://medlineplus.gov/nutrition.html) has more on building a balanced diet.
