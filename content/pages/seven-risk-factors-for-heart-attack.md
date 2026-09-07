@@ -2,13 +2,16 @@
 {
  "route": "/seven-risk-factors-for-heart-attack",
  "title": "Seven Risk Factors for Heart Attack Chula Vista, CA | Treatment for Heart Attack Bonita, CA",
- "h1": "Seven Risk Factors for  Heart Attack",
+ "h1": "Seven Risk Factors for Heart Attack",
  "description": "The seven major risk factors for heart attack explained by Dr. Vimal Nanavati: family history, high blood pressure, diabetes, diet, inactivity, smoking and drug use.",
  "sourceUrl": "https://www.heartcare4life.com/seven-risk-factors-for-heart-attack-interventional-cardiologist-bonita-redding-san-diego-ca/",
  "legacyUrls": [
   "https://www.heartcare4life.com/seven-risk-factors-for-heart-attack-interventional-cardiologist-bonita-redding-ca/"
  ],
- "youtube": []
+ "youtube": [
+  "MnpPWGvUZZs",
+  "b1uK6R_Ih74"
+ ]
 }
 ---
 
