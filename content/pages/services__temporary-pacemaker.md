@@ -16,9 +16,9 @@
 
 ## What is a temporary pacemaker?
 
-A temporary pacemaker is a short-term device. It keeps the heart beating at a safe rate. Nothing is implanted under the skin, unlike a permanent pacemaker. A small generator sits outside the body. Doctors often call it a pacing box. It connects to the heart through a thin wire. The wire is threaded through a vein in the neck, chest, or groin. It is then positioned inside the right side of the heart. The box sends gentle electrical pulses whenever your own heartbeat is too slow or pauses. Temporary pacing is used for hours to days. That is long enough to carry a patient through an emergency, a reaction to medication, or the period after heart surgery. It buys time. The underlying cause is treated or passes. The wire is then removed. If the slow rhythm proves permanent, a permanent pacemaker is planned instead.
+A temporary pacemaker is a short-term device that keeps the heart beating at a safe rate. Nothing is implanted under the skin, unlike a permanent pacemaker. A small generator, often called a pacing box, sits outside the body and connects to the heart through a thin wire. The wire is threaded through a vein in the neck, chest, or groin, then positioned inside the right side of the heart. The box sends gentle electrical pulses whenever your own heartbeat is too slow or pauses. Temporary pacing is used for hours to days. That is long enough to carry a patient through an emergency, a reaction to medication, or the period after heart surgery. It buys time. The underlying cause is treated or passes, and the wire is then removed. If the slow rhythm proves permanent, a permanent pacemaker is planned instead.
 
-Temporary pacing is always done in a hospital setting. The heart rhythm is watched continuously there.
+Temporary pacing is always done in a hospital setting, where the heart rhythm is watched continuously.
 
 ## Why Dr. Nanavati may recommend this
 
@@ -37,7 +37,7 @@ Slow rhythms belong to the broader family of [arrhythmias](/conditions/arrhythmi
 
 ## How to prepare
 
-Temporary pacing is often urgent. There may be little time to prepare. When there is time, the following applies.
+Temporary pacing is often urgent, so there may be little time to prepare. When there is time, the following applies.
 
 - You will be asked not to eat or drink beforehand.
 - Blood tests, including electrolytes and kidney function, are checked.
@@ -49,25 +49,25 @@ Temporary pacing is often urgent. There may be little time to prepare. When ther
 
 ## What happens during the procedure
 
-Placement usually takes twenty to forty minutes. You remain awake with local anesthetic. Mild sedation is often given.
+Placement usually takes twenty to forty minutes. You remain awake with local anesthetic, and mild sedation is often given.
 
-The skin over a large vein is cleaned and numbed. That vein is most often in the neck or under the collarbone. A short sheath is placed into it. A pacing wire is then passed through the sheath. It is guided into the right ventricle, the lower right chamber of the heart. Live X-ray confirms the position, and sometimes ultrasound is used too. You should feel pressure but not sharp pain.
+The skin over a large vein is cleaned and numbed, most often in the neck or under the collarbone. A short sheath is placed into the vein. A pacing wire is then passed through the sheath and guided into the right ventricle, the lower right chamber of the heart. Live X-ray confirms the position, and sometimes ultrasound is used too. You should feel pressure but not sharp pain.
 
-The wire is then connected to the external pacing box. Your team tests how much energy reliably triggers a heartbeat. They then set the rate and output with a safety margin. You may briefly feel your heartbeat change during testing. The wire is secured with a stitch. A sterile dressing covers it.
+The wire is then connected to the external pacing box. Your team tests how much energy reliably triggers a heartbeat, then sets the rate and output with a safety margin. You may briefly feel your heartbeat change during testing. The wire is secured with a stitch and covered with a sterile dressing.
 
-In an emergency, external pads on the chest can pace the heart through the skin. This works for a short period only. The method is uncomfortable. It is used only until a wire can be placed.
+In an emergency, external pads on the chest can pace the heart through the skin for a short period. That method is uncomfortable, and it is used only until a wire can be placed.
 
 ## Recovery and results
 
-You stay on a monitored unit for as long as the pacing wire is in place. Movement is restricted so the wire does not shift. This matters most if it enters through the groin. Nurses check the site, the connections, and the pacing thresholds regularly.
+You stay on a monitored unit for as long as the pacing wire is in place. Movement is restricted so the wire does not shift, particularly if it enters through the groin. Nurses check the site, the connections, and the pacing thresholds regularly.
 
-The effect is immediate. A steady rate is restored, and blood pressure and alertness usually improve. Symptoms such as dizziness ease as well. Your team then works on the underlying cause. That may mean adjusting medicines or correcting electrolytes.
+The effect is immediate. A steady rate is restored, and blood pressure, alertness, and symptoms such as dizziness usually improve. Your team then works on the underlying cause, adjusting medicines or correcting electrolytes.
 
-Removal is quick and done at the bedside. Pressure is held over the site afterward. If your own rhythm returns and holds, no further device is needed. If it does not, a permanent pacemaker is scheduled. You then go home with that device. Regular [pacemaker interrogation](/services/pacemaker-interrogation) checks keep the settings right. The original episode may still be unexplained. Longer monitoring such as [Holter monitoring](/services/holter-monitoring) may follow.
+Removal is quick and done at the bedside, and pressure is held over the site afterward. If your own rhythm returns and holds, no further device is needed. If it does not, a permanent pacemaker is scheduled. You then go home with that device, and regular [pacemaker interrogation](/services/pacemaker-interrogation) checks keep the settings right. The original episode may still be unexplained, and longer monitoring such as [Holter monitoring](/services/holter-monitoring) may follow.
 
 ## Risks and safety
 
-Temporary pacing is generally safe and often lifesaving. It is still an invasive procedure. Possible complications include:
+Temporary pacing is generally safe and often lifesaving, but it is an invasive procedure. Possible complications include:
 
 - Bleeding or bruising where the vein was accessed.
 - Infection at the insertion site, which becomes more likely the longer the wire stays in.

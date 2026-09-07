@@ -14,13 +14,13 @@
 
 ## What is venous ablation?
 
-Venous ablation is a minimally invasive treatment. It closes a faulty vein in the leg. Healthy leg veins carry blood upward, working against gravity. One-way valves stop it from falling back. Leaking valves let blood pool, and pressure builds. That produces bulging varicose veins, aching, swelling, and skin changes. Ablation seals the leaking vein. Blood then reroutes through healthy veins nearby. A thin catheter is placed into the vein through a needle puncture. Ultrasound guides it into place. Heat is delivered through the catheter tip, from either laser or radiofrequency energy. That heat makes the vein wall collapse and scar shut. The body gradually absorbs the closed vein. There is no vein stripping and no surgical incision. The puncture often needs no stitch. Most procedures take under an hour. They use only local numbing medicine. You are able to walk out the same day.
+Venous ablation is a minimally invasive treatment that closes a faulty vein in the leg. Healthy leg veins carry blood upward against gravity, and one-way valves stop it from falling back. Leaking valves let blood pool and pressure build, which produces bulging varicose veins, aching, swelling, and skin changes. Ablation seals the leaking vein, so blood reroutes through healthy veins nearby. A thin catheter is placed into the vein through a needle puncture, guided by ultrasound. Heat is delivered through the catheter tip, from either laser or radiofrequency energy. That heat makes the vein wall collapse and scar shut. The body gradually absorbs the closed vein. There is no vein stripping and no surgical incision, just a puncture that often needs no stitch. Most procedures take under an hour and use only local numbing medicine. You are able to walk out the same day.
 
 You may hear it called endovenous laser ablation, radiofrequency ablation, or endovenous thermal ablation.
 
 ## Why Dr. Nanavati may recommend this
 
-Ablation treats the underlying valve failure, not just the visible veins. Varicose veins are common. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/varicose-veins) notes that they often reflect a problem with vein valves rather than a purely cosmetic issue.
+Ablation treats the underlying valve failure, not just the visible veins. Varicose veins are common, and the [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/varicose-veins) notes that they often reflect a problem with vein valves rather than a purely cosmetic issue.
 
 It may be recommended when you have:
 
@@ -32,42 +32,42 @@ It may be recommended when you have:
 - A venous leg ulcer, or skin that looks close to breaking down.
 - Symptoms that persist despite compression stockings, elevation, and exercise.
 
-A [venous ultrasound](/services/venous-ultrasound) is required first. It maps which veins leak. It also confirms that the deep veins are open. That is what makes closing a surface vein safe. This mapping is part of the [vascular ultrasound](/services/vascular-ultrasound) testing done in our offices. Artery disease may also be suspected. An [ankle brachial index](/services/ankle-brachial-index-abi) may then be checked first. Compression stockings are not appropriate when blood flow into the leg is poor.
+A [venous ultrasound](/services/venous-ultrasound) is required first. It maps which veins leak and confirms that the deep veins are open, which is what makes closing a surface vein safe. This mapping is part of the [vascular ultrasound](/services/vascular-ultrasound) testing done in our offices. Artery disease may also be suspected, and an [ankle brachial index](/services/ankle-brachial-index-abi) may then be checked first. Compression stockings are not appropriate when blood flow into the leg is poor.
 
 ## How to prepare
 
-- Have your mapping ultrasound completed. Bring the report if it was done elsewhere.
-- Most patients are asked to eat lightly rather than fast. Sedation is usually not needed. Confirm the instructions for your case.
+- Have your mapping ultrasound completed, and bring the report if it was done elsewhere.
+- Most patients are asked to eat lightly rather than fast, since sedation is usually not needed. Confirm the instructions for your case.
 - Ask which medicines to hold, particularly blood thinners and anti-inflammatory drugs.
 - Report allergies to local anesthetic, latex, or adhesives.
-- Buy or bring your compression stockings ahead of time. You will need them immediately afterward.
-- Shave the leg if instructed. Skip lotion or oil on the leg that day.
+- Buy or bring your compression stockings ahead of time, since you will need them immediately afterward.
+- Shave the leg if instructed, and skip lotion or oil on the leg that day.
 - Wear loose trousers or shorts you can pull on comfortably over a dressing.
-- Arrange a ride if you expect to receive any sedation. Plan a walk afterward rather than a long drive.
+- Arrange a ride if you expect to receive any sedation, and plan a walk afterward rather than a long drive.
 
 ## What happens during the procedure
 
 You lie on the procedure table with the leg exposed. Ultrasound traces the vein and marks the skin. The area is cleaned and draped.
 
-Local anesthetic numbs a small spot. That spot is usually near the knee or calf. A needle enters the vein. A catheter is then threaded up inside it under ultrasound guidance. You should feel nothing as it advances. The inside of a vein has no pain nerves. The catheter tip is positioned a set distance below the groin crease. Its position is checked carefully.
+Local anesthetic numbs a small spot, usually near the knee or calf. A needle enters the vein, and a catheter is threaded up inside it under ultrasound guidance. You should feel nothing as it advances, since the inside of a vein has no pain nerves. The catheter tip is positioned a set distance below the groin crease, and its position is checked carefully.
 
-Next, dilute numbing fluid is injected along the length of the vein. Several small needle sticks deliver it. This step is called tumescent anesthesia. It does two jobs. It numbs the vein. It also pushes surrounding tissue and skin away from the heat. These injections are the part most patients notice. They feel like brief stings and cold pressure.
+Next, dilute numbing fluid is injected along the length of the vein through several small needle sticks. This step is called tumescent anesthesia, and it does two jobs. It numbs the vein, and it pushes surrounding tissue and skin away from the heat. These injections are the part most patients notice, and they feel like brief stings and cold pressure.
 
-The energy is then delivered as the catheter is withdrawn slowly. You may feel warmth or a pulling sensation. The catheter is removed and pressure is applied. A small adhesive dressing goes on. A compression stocking is fitted before you stand up. You then walk immediately.
+The energy is then delivered as the catheter is withdrawn slowly. You may feel warmth or a pulling sensation. The catheter is removed, pressure is applied, and a small adhesive dressing goes on. A compression stocking is fitted before you stand up, and you walk immediately.
 
 ## Recovery and results
 
-Walking is part of the treatment. Aim for ten to twenty minutes several times a day for the first two weeks. Avoid long periods of sitting or standing still. Keep the leg elevated when resting.
+Walking is part of the treatment. Aim for ten to twenty minutes several times a day for the first two weeks, and avoid long periods of sitting or standing still. Keep the leg elevated when resting.
 
-Wear the compression stocking exactly as directed. That is commonly for one to two weeks. Expect some bruising and tightness. A pulling or cord-like feeling along the treated vein lasts two to three weeks. Over-the-counter pain relief is usually enough. Ice for ten minutes at a time helps.
+Wear the compression stocking exactly as directed, commonly for one to two weeks. Expect some bruising and tightness, plus a pulling or cord-like feeling along the treated vein for two to three weeks. Over-the-counter pain relief is usually enough, and ice for ten minutes at a time helps.
 
-Most people return to desk work within a day or two. Avoid heavy lifting, running, and strenuous exercise for one to two weeks. A follow-up ultrasound is typically done within a week. It confirms the vein has closed and checks the deep veins.
+Most people return to desk work within a day or two. Avoid heavy lifting, running, and strenuous exercise for one to two weeks. A follow-up ultrasound is typically done within a week to confirm the vein has closed and to check the deep veins.
 
-Symptom relief such as reduced aching and swelling often begins within a few weeks. Cosmetic improvement takes longer. Some visible surface veins may still need additional treatment. Dr. Nanavati will review your results and any further steps at follow-up. You can [request an appointment online](/appointments/online).
+Symptom relief such as reduced aching and swelling often begins within a few weeks. Cosmetic improvement takes longer, and some visible surface veins may still need additional treatment. Dr. Nanavati will review your results and any further steps at follow-up. You can [request an appointment online](/appointments/online).
 
 ## Risks and safety
 
-Venous ablation is a well established outpatient procedure with a good safety record. No procedure is risk free. Possible complications include:
+Venous ablation is a well established outpatient procedure with a good safety record, but no procedure is risk free. Possible complications include:
 
 - Bruising, tenderness, or a firm cord along the treated vein.
 - Temporary numbness or tingling from irritation of a nearby skin nerve.

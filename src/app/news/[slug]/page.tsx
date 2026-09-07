@@ -9,7 +9,7 @@ export const dynamicParams = false;
 export function generateStaticParams() { return news.map((n) => ({ slug: n.slug })); }
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params; const n = news.find((x) => x.slug === slug); if (!n) return {};
-  return buildMetadata({ title: n.title, noBrand: true, description: n.excerpt, route: `/news/${n.slug}`, image: n.images[0], type: "article" });
+  return buildMetadata({ title: (n as { metaTitle?: string }).metaTitle ?? n.title, noBrand: true, description: n.excerpt, route: `/news/${n.slug}`, image: n.images[0], type: "article" });
 }
 
 export default async function Article({ params }: { params: Promise<{ slug: string }> }) {
