@@ -79,10 +79,20 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
     ? (COMPARE_ENTITIES[slugTail] ?? []).map((r) => ({ "@id": abs(r) + "#entity" }))
     : [];
 
-  /** Conditions link to the services that treat them, mirroring the editorial cross-links. */
+  /**
+   * Conditions link to the services that treat them, mirroring the editorial
+   * cross-links. Each is emitted as a named stub rather than a bare @id, so the
+   * reference resolves inside this document instead of dangling.
+   */
   const treatmentIds = meta?.schemaType === "MedicalCondition"
-    ? [...page.body.matchAll(/\]\((\/services\/[a-z0-9-]+)\)/g)].map((m) => abs(m[1]) + "#entity")
+    ? [...new Set([...page.body.matchAll(/\]\((\/services\/[a-z0-9-]+)\)/g)].map((m) => m[1]))]
     : [];
+  const treatments = treatmentIds
+    .map((r) => {
+      const svc = getPage(r);
+      return svc ? { "@type": "MedicalProcedure", "@id": abs(r) + "#entity", name: svc.h1, url: abs(r) } : null;
+    })
+    .filter(Boolean);
 
   const ld = graph(
     webPageLd({
@@ -101,7 +111,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
       } : {}),
       ...(meta?.schemaType === "MedicalCondition" ? {
         associatedAnatomy: { "@type": "AnatomicalStructure", name: "Heart" },
-        ...(treatmentIds.length ? { possibleTreatment: [...new Set(treatmentIds)].map((id) => ({ "@id": id })) } : {}),
+        ...(treatments.length ? { possibleTreatment: treatments } : {}),
       } : {}),
     }] : []),
     ...vids.map(videoLd),
