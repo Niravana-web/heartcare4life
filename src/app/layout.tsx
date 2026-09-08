@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import Script from "next/script";
 import { Cormorant_Garamond, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
@@ -37,6 +38,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={`${cormorant.variable} ${sourceSans.variable}`}>
       <body className="flex min-h-screen flex-col pb-[52px] lg:pb-0">
         <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-[100] focus:bg-ink focus:px-4 focus:py-2 focus:text-white">Skip to content</a>
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-QGBG8R4KY7" strategy="afterInteractive" />
+        <Script id="ga4" strategy="afterInteractive">{`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-QGBG8R4KY7');`}</Script>
         <SmoothScroll />
         <JsonLd data={graph(organizationLd(), physicianLd(), websiteLd(), ...LOCATIONS.map(locationLd))} />
         <Header />

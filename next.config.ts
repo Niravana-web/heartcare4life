@@ -16,12 +16,12 @@ const nextConfig: NextConfig = {
       { key: "Content-Security-Policy", value: [
         "default-src 'self'",
         // Next.js inlines its bootstrap and Framer Motion writes inline styles.
-        "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
+        "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com",
         "style-src 'self' 'unsafe-inline'",
-        "img-src 'self' data: blob: https://i.ytimg.com https://*.ytimg.com https://maps.gstatic.com https://*.googleapis.com https://*.ggpht.com",
+        "img-src 'self' data: blob: https://*.google-analytics.com https://*.googletagmanager.com https://i.ytimg.com https://*.ytimg.com https://maps.gstatic.com https://*.googleapis.com https://*.ggpht.com",
         "media-src 'self' https://videos.pexels.com",
         "font-src 'self' data:",
-        "connect-src 'self' https://videos.pexels.com",
+        "connect-src 'self' https://videos.pexels.com https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com",
         "frame-src https://www.youtube-nocookie.com https://www.youtube.com https://www.google.com https://maps.google.com",
         "frame-ancestors 'self'",
         "base-uri 'self'",
