@@ -134,6 +134,16 @@ for (const u of urls.filter((x) => /^\/locations\/[a-z-]+$/.test(x))) {
   if (/"physician":/.test(h)) fail("/", "`physician` predicate is not in the schema.org vocabulary");
 }
 
+// remark-gfm autolinks bare URLs, which once emptied every **[EMBED]** into a
+// nameless <a href="">. Content vanished and screen readers hit an unlabelled link.
+{
+  for (const u of ["/conditions/coronary-artery-disease", "/conditions/heart-anatomy", "/appointments/general"]) {
+    const h = await (await fetch(BASE + u)).text();
+    if (/<a href="" /.test(h)) fail(u, "empty anchor — an EMBED lost its URL");
+    if (!/class="embed/.test(h)) fail(u, "no embed rendered, but the source has one");
+  }
+}
+
 console.log(`\nWARNINGS (${warns.length})`); warns.forEach((w) => console.log("  - " + w));
 console.log(`\nFAILURES (${fails.length})`); fails.forEach((f) => console.log("  - " + f));
 process.exit(fails.length ? 1 : 0);

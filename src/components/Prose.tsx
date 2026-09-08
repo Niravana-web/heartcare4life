@@ -1,7 +1,18 @@
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import Link from "next/link";
-import type { ComponentProps } from "react";
+import { isValidElement, type ComponentProps, type ReactNode } from "react";
+
+/** Flatten a rendered markdown node back to plain text.
+ *  remark-gfm autolinks a bare URL, so "EMBED::https://…" arrives split across a
+ *  string and an <a> element. Reading only children[0] loses the URL entirely. */
+function textOf(node: ReactNode): string {
+  if (node == null || typeof node === "boolean") return "";
+  if (typeof node === "string" || typeof node === "number") return String(node);
+  if (Array.isArray(node)) return node.map(textOf).join("");
+  if (isValidElement(node)) return textOf((node.props as { children?: ReactNode }).children);
+  return "";
+}
 
 /** Renders markdown page bodies. Handles the **[EMBED]** url convention and raw <div> leftovers. */
 export default function Prose({ body, className = "" }: { body: string; className?: string }) {
@@ -19,12 +30,13 @@ export default function Prose({ body, className = "" }: { body: string; classNam
           p: (props) => {
             const { children, ...rest } = props as { children?: React.ReactNode; node?: unknown } & ComponentProps<"p">;
             delete (rest as { node?: unknown }).node;
-            const first = Array.isArray(children) ? children[0] : children;
-            if (typeof first === "string" && first.startsWith("EMBED::")) {
-              const url = first.slice(7);
+            const text = textOf(children).trim();
+            if (text.startsWith("EMBED::")) {
+              const url = text.slice("EMBED::".length).trim();
               const isMap = url.includes("google.com/maps");
               const isYt = url.includes("youtube");
-              if (!isMap && !isYt) return <p><a href={url} target="_blank" rel="noopener">{url}</a></p>;
+              if (!url) return null;
+              if (!isMap && !isYt) return <div className="embed"><iframe src={url} title="Embedded video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" /></div>;
               return (
                 <div className={`embed ${isMap ? "map" : ""}`}>
                   <iframe src={isYt ? url.replace("youtube.com", "youtube-nocookie.com").split("?")[0] : url} title={isMap ? "Office location map" : "YouTube video"} loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />

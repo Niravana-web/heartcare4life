@@ -22,7 +22,7 @@ const nextConfig: NextConfig = {
         "media-src 'self' https://videos.pexels.com",
         "font-src 'self' data:",
         "connect-src 'self' https://videos.pexels.com https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com",
-        "frame-src https://www.youtube-nocookie.com https://www.youtube.com https://www.google.com https://maps.google.com",
+        "frame-src https://www.youtube-nocookie.com https://www.youtube.com https://www.google.com https://maps.google.com https://www.ypo.education",
         "frame-ancestors 'self'",
         "base-uri 'self'",
         "form-action 'self'",

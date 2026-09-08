@@ -181,7 +181,7 @@ export function webPageLd(opts: { route: string; title: string; description: str
     // Google documents lastReviewed + reviewedBy for health content. The same date is
     // already shown to readers in AuthorBlock, so the markup matches the visible page.
     lastReviewed: opts.dateModified ?? REVIEWED,
-    speakable: { "@type": "SpeakableSpecification", cssSelector: ["h1", ".prose-hc > p:first-of-type"] },
+    speakable: { "@type": "SpeakableSpecification", cssSelector: ["h1"] },
     ...(opts.citation?.length ? { citation: opts.citation } : {}),
     ...(opts.extra ?? {}),
   };
