@@ -46,7 +46,7 @@ export default function Footer() {
               {LOCATIONS.map((l) => (
                 <li key={l.id}>
                   <Link href={`/locations/${l.id}`} className="font-semibold text-[#f4eee0] no-underline hover:underline">{l.name}</Link><br />
-                  <a href={l.maps} target="_blank" rel="noopener" className="text-[#f4eee0b8] no-underline hover:text-white">{l.street}{l.suite ? `, ${l.suite}` : ""}, {l.city}, {l.state} {l.zip}</a><br />
+                  <a href={l.maps} target="_blank" rel="noopener" className="inline-block py-1 text-[#f4eee0b8] no-underline hover:text-white">{l.street}{l.suite ? `, ${l.suite}` : ""}, {l.city}, {l.state} {l.zip}</a><br />
                   <a href={l.phoneHref} className="text-[#f4eee0] no-underline hover:underline">{l.phone}</a>
                 </li>
               ))}
@@ -66,7 +66,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="flex flex-wrap items-center gap-x-3 gap-y-2 border-t border-white/10 py-7 text-[.84rem] text-[#f4eee099]">
-          <span className="basis-full text-[.78rem] text-[#f4eee080]">Information on this website is for general education only and does not replace medical advice from your physician. If you are experiencing a medical emergency, call 911.</span>
+          <span className="basis-full text-[.78rem] text-[#f4eee0b3]">Information on this website is for general education only and does not replace medical advice from your physician. If you are experiencing a medical emergency, call 911.</span>
           <span>© {new Date().getFullYear()} HeartCare4life · Advanced Heart Care, Inc. · Dr. Vimal Nanavati</span>
           <span className="opacity-50">·</span>
           {legal.map((l, i) => (

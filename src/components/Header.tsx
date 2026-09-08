@@ -15,7 +15,7 @@ export default function Header() {
           ))}
           <span className="hidden sm:inline opacity-40">|</span>
           {LOCATIONS.slice(0, 2).map((l) => (
-            <a key={l.id} href={l.phoneHref} className="flex min-h-[44px] items-center whitespace-nowrap py-2 hover:text-white"><span className="opacity-70">{l.shortName}</span> <strong className="font-semibold text-[#f4eee0]">{l.phone}</strong></a>
+            <a key={l.id} href={l.phoneHref} className="flex min-h-[44px] items-center whitespace-nowrap py-2 hover:text-white"><span className="opacity-90">{l.shortName}</span> <strong className="font-semibold text-[#f4eee0]">{l.phone}</strong></a>
           ))}
         </div>
       </div>
@@ -24,13 +24,13 @@ export default function Header() {
         <p className="m-0 mb-2.5 text-[.69rem] uppercase tracking-[.34em] text-ink-subtle">heartcare4life.com</p>
         <Link href="/" className="font-serif text-[clamp(1.6rem,3vw,2.1rem)] font-medium uppercase tracking-[.14em] text-navy no-underline">HeartCare4life</Link>
         <p className="mt-3 text-[.72rem] uppercase tracking-[.22em] text-ink-subtle">
-          Dr. Vimal Nanavati <span className="mx-2 opacity-70">·</span> {SITE.tagline}
+          Dr. Vimal Nanavati <span className="mx-2 opacity-90">·</span> {SITE.tagline}
         </p>
         <p className="mt-1.5 text-[.72rem] uppercase tracking-[.22em] text-ink-subtle">
           <Link href="/locations#south-san-diego" className="hover:text-navy">Bonita</Link>
-          <span className="mx-2 opacity-70">·</span>
+          <span className="mx-2 opacity-90">·</span>
           <Link href="/locations#north-san-diego" className="hover:text-navy">San Diego</Link>
-          <span className="mx-2 opacity-70">·</span>
+          <span className="mx-2 opacity-90">·</span>
           <Link href="/locations#northern-california" className="hover:text-navy">Redding, California</Link>
         </p>
       </div>

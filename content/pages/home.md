@@ -30,7 +30,7 @@ Here are more reasons why you choose to do business with us.
 
 [Explore All Services](/services)
 
-![HeartCare4life - Dr. Vimal Nanavati - Board Certified in Cardiology and Interventional Cardiology](/images/dr-vimal-nanavati-hme.png)
+![HeartCare4life - Dr. Vimal Nanavati - Board Certified in Cardiology and Interventional Cardiology](/images/dr-vimal-nanavati-hme.webp)
 
 ![32 Years of Experience](/images/yrs-exprnce.png)
 

@@ -87,7 +87,7 @@ export default function Home() {
         <div className="container-x grid items-center gap-12 py-16 md:grid-cols-[380px_minmax(0,1fr)]">
           <Reveal>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/dr-vimal-nanavati-hme.png" alt="Dr. Vimal Nanavati, board certified in cardiology and interventional cardiology" className="w-full rounded-lg" loading="lazy" width={760} height={950} />
+            <img src="/images/dr-vimal-nanavati-hme.webp" alt="Dr. Vimal Nanavati, board certified in cardiology and interventional cardiology" className="w-full rounded-lg" loading="lazy" width={760} height={950} />
           </Reveal>
           <Reveal delay={0.1}>
             <p className="eyebrow mb-4">Your cardiologist</p>

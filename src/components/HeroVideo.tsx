@@ -61,7 +61,7 @@ export default function HeroVideo() {
   return (
     <section className="relative h-[68svh] max-h-[720px] min-h-[440px] overflow-hidden bg-navy-2" aria-label="Welcome">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src="/images/hero-poster.jpg" alt="" width={1600} height={686} fetchPriority="high" decoding="async" className="absolute inset-0 h-full w-full object-cover" aria-hidden="true" />
+      <img src="/images/hero-poster.webp" alt="" width={1600} height={686} fetchPriority="high" decoding="async" className="absolute inset-0 h-full w-full object-cover" aria-hidden="true" />
       <video ref={a} muted playsInline preload="none" className="absolute inset-0 h-full w-full object-cover opacity-0 transition-opacity duration-[1400ms] [&.playing]:opacity-100" />
       <video ref={b} muted playsInline preload="none" className="absolute inset-0 h-full w-full object-cover opacity-0 transition-opacity duration-[1400ms] [&.playing]:opacity-100" />
       <div className="absolute inset-0 bg-black/45" aria-hidden="true" />
