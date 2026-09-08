@@ -44,7 +44,7 @@ Board Certified in Cardiology and Interventional Cardiology, Dr. Vimal Nanavati 
 - [View Profile](/dr-vimal-nanavati)
 - [Book an Appointment](/appointments/online)
 
-![Advanced Lipid Testing](/images/advanced-lipid-testing-hme.png)
+![Advanced Lipid Testing](/images/advanced-lipid-testing-hme.webp)
 
 ## Advanced Lipid Testing
 
@@ -52,7 +52,7 @@ Evaluation of cardiovascular risk by measuring particle size, particle number, i
 
 [Know More](/services/advanced-lipid-testing)
 
-![Minimally Invasive Coronary Stenting](/images/minimally-invasive-coronary-stenting-hme.png)
+![Minimally Invasive Coronary Stenting](/images/minimally-invasive-coronary-stenting-hme.webp)
 
 ## Minimally Invasive Coronary Stenting
 
@@ -60,7 +60,7 @@ Procedure used to open narrowed or blocked coronary arteries. A small mesh tube,
 
 [Know More](/services/coronary-stenting)
 
-![Structural Heart Procedures Left Atrial Appendage Closure](/images/structural-heart-procedures-left-atrial-appendage-closure-hme.png)
+![Structural Heart Procedures Left Atrial Appendage Closure](/images/structural-heart-procedures-left-atrial-appendage-closure-hme.webp)
 
 ## Structural Heart Procedures Left Atrial
 Appendage Closure
