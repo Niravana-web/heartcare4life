@@ -193,7 +193,7 @@ export function webPageLd(opts: { route: string; title: string; description: str
  * and the content already links them inline. Allowlisted to medical/government
  * bodies so a stray outbound link never poses as a clinical reference.
  */
-const CITABLE = /^https?:\/\/(?:www\.)?(?:heart\.org|nhlbi\.nih\.gov|medlineplus\.gov|cdc\.gov|acc\.org|fda\.gov|hhs\.gov|nih\.gov|ncbi\.nlm\.nih\.gov|pubmed\.ncbi\.nlm\.nih\.gov|ahajournals\.org|cms\.gov)\//i;
+const CITABLE = /^https?:\/\/(?:www\.)?(?:heart\.org|stroke\.org|nhlbi\.nih\.gov|medlineplus\.gov|cdc\.gov|acc\.org|fda\.gov|hhs\.gov|nih\.gov|ncbi\.nlm\.nih\.gov|pubmed\.ncbi\.nlm\.nih\.gov|ahajournals\.org|cms\.gov)\//i;
 
 export function citationsFrom(body: string) {
   const seen = new Map<string, string>();

@@ -32,7 +32,7 @@ Dr. Nanavati may recommend a carotid ultrasound if you have:
 - A family history of stroke or early heart disease.
 - A previous carotid procedure that needs periodic surveillance.
 
-The [American Heart Association describes stroke warning signs and risk factors](https://www.heart.org/en/health-topics/stroke). [MedlinePlus provides an overview of carotid artery disease](https://medlineplus.gov/carotidarterydisease.html). Stroke symptoms are an emergency. Call 911 rather than waiting for a scheduled test.
+The [American Stroke Association describes stroke warning signs](https://www.stroke.org/en/about-stroke/stroke-symptoms). [MedlinePlus provides an overview of carotid artery disease](https://medlineplus.gov/carotidarterydisease.html). Stroke symptoms are an emergency. Call 911 rather than waiting for a scheduled test.
 
 ## How to prepare
 

@@ -89,7 +89,7 @@ for (const p of pages.filter((x) => CLINICAL.test(x.file) && x.route.split("/").
   if (n < 700) bad(p.file, `body ${n} words, want 700+`);
   const links = [...p.body.matchAll(/\]\(\/[^)\s#]*/g)].length;
   if (links < 4) bad(p.file, `${links} internal links, want 4+`);
-  const cites = [...p.body.matchAll(/\]\(https?:\/\/(?:www\.)?(heart\.org|acc\.org|nhlbi\.nih\.gov|medlineplus\.gov|cdc\.gov)/g)].length;
+  const cites = [...p.body.matchAll(/\]\(https?:\/\/(?:www\.)?(heart\.org|stroke\.org|acc\.org|nhlbi\.nih\.gov|medlineplus\.gov|cdc\.gov)/g)].length;
   if (cites < 2) bad(p.file, `${cites} authoritative citations, want 2+`);
 }
 

@@ -17,9 +17,9 @@ for (const f of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
 
 // These hosts return 403 to any scripted request regardless of whether the page
 // exists, so a 403 from them is not evidence of a broken link.
-const BOT_WALLED = /^https?:\/\/(www\.)?(heart|acc|cdc|hhs|fda|freedomscientific)\.(org|gov|com)/;
+const BOT_WALLED = /^https?:\/\/(www\.)?(heart|stroke|acc|cdc|hhs|fda|freedomscientific)\.(org|gov|com)/;
 
-async function check(u) {
+async function check(u, attempt = 0) {
   for (const method of ["HEAD", "GET"]) {
     try {
       const r = await fetch(u, {
@@ -32,6 +32,12 @@ async function check(u) {
       return r.status;
     } catch {
       if (method === "HEAD") continue;
+      // A single network blip should not condemn a citation. Retry once, slowly,
+      // before calling it dead: these hosts rate-limit bursts.
+      if (attempt < 2) {
+        await new Promise((r) => setTimeout(r, 1500 * (attempt + 1)));
+        return check(u, attempt + 1);
+      }
       return "ERR";
     }
   }
@@ -49,7 +55,9 @@ const dead = [];
 const walled = [];
 for (const [u, status] of results) {
   if (status === 200) continue;
-  if (status === 403 && BOT_WALLED.test(u)) walled.push([u, status]);
+  // Akamai in front of heart.org drops Node's fetch outright, so ERR from a
+  // bot-walled host is no more evidence of breakage than its 403 is.
+  if ((status === 403 || status === "ERR") && BOT_WALLED.test(u)) walled.push([u, status]);
   else dead.push([u, status]);
 }
 
