@@ -65,7 +65,7 @@
 75 y/o female I placed a stent in her diagonal artery 2008, comes to my office complaining of shortness of breath and chest pain. First picture was X-ray showing silhouette of stent. Second picture shows coronary angiogram showing stent to be widely patent today December 14,2022 (14 years later).
 
 -![HeartCare4life, Dr. Vimal Nanavati, Board Certified in Cardiology and Interventional Before Stent](/images/before-stent-1.jpg)
--![](/images/wire-in-lcx.jpg)
+-![Cardiology and Interventional Cardiology Guidewire in Left Circumflex Artery - During Stent](/images/wire-in-lcx.jpg)
 -![Cardiology and Interventional Cardiology After Stent 1](/images/after-stent-1.jpg)
 
 These are the 3 pictures of the 41 y/o male I described on earlier post. They show before (the blockages in the coronary arteries look like pinched off area), during and after the stents were successfully implanted. It’s imperative to remain on the anti-platelet medication for at least one year.

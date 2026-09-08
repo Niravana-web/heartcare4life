@@ -76,6 +76,12 @@ for (const p of pages) {
     const clean = href.replace(/\/$/, "") || "/";
     if (!routes.has(clean) && !EXTRA.has(clean)) bad(p.file, `dead internal link ${href}`);
   }
+  // A content image with no alt text is invisible to screen readers and to Bing,
+  // whose Site Scan flags it. Decorative images live in components, not markdown,
+  // so every markdown image should carry a real description.
+  for (const [, alt] of p.body.matchAll(/!\[([^\]]*)\]\(/g)) {
+    if (!alt.trim()) bad(p.file, "an image has empty alt text");
+  }
   // Referenced assets must exist on disk.
   for (const [, href] of p.body.matchAll(/\((\/images\/[^)\s]+)\)/g)) {
     if (!fs.existsSync(path.join(root, "public", href.replace(/^\//, "")))) bad(p.file, `missing asset ${href}`);
