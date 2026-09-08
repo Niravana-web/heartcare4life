@@ -45,9 +45,9 @@ export default function Footer() {
             <ul className="m-0 list-none space-y-4 p-0 text-[.85rem] leading-relaxed">
               {LOCATIONS.map((l) => (
                 <li key={l.id}>
-                  <Link href={`/locations/${l.id}`} className="font-semibold text-[#f4eee0] no-underline hover:underline">{l.name}</Link><br />
+                  <Link href={`/locations/${l.id}`} className="inline-block py-1 font-semibold text-[#f4eee0] no-underline hover:underline">{l.name}</Link><br />
                   <a href={l.maps} target="_blank" rel="noopener" className="inline-block py-1 text-[#f4eee0b8] no-underline hover:text-white">{l.street}{l.suite ? `, ${l.suite}` : ""}, {l.city}, {l.state} {l.zip}</a><br />
-                  <a href={l.phoneHref} className="text-[#f4eee0] no-underline hover:underline">{l.phone}</a>
+                  <a href={l.phoneHref} className="inline-block py-1 text-[#f4eee0] no-underline hover:underline">{l.phone}</a>
                 </li>
               ))}
             </ul>
