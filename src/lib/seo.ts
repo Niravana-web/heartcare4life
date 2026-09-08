@@ -158,7 +158,7 @@ export function breadcrumbLd(items: { name: string; route: string }[]) {
   };
 }
 
-export function webPageLd(opts: { route: string; title: string; description: string; type?: string; about?: object; dateModified?: string; extra?: object }) {
+export function webPageLd(opts: { route: string; title: string; description: string; type?: string; about?: object; dateModified?: string; citation?: object[]; extra?: object }) {
   return {
     "@type": opts.type ?? "MedicalWebPage",
     "@id": abs(opts.route) + "#webpage",
@@ -173,8 +173,29 @@ export function webPageLd(opts: { route: string; title: string; description: str
     inLanguage: "en-US",
     audience: { "@type": "MedicalAudience", audienceType: "Patient" },
     dateModified: opts.dateModified ?? REVIEWED,
+    // Google documents lastReviewed + reviewedBy for health content. The same date is
+    // already shown to readers in AuthorBlock, so the markup matches the visible page.
+    lastReviewed: opts.dateModified ?? REVIEWED,
+    speakable: { "@type": "SpeakableSpecification", cssSelector: ["h1", ".prose-hc > p:first-of-type"] },
+    ...(opts.citation?.length ? { citation: opts.citation } : {}),
     ...(opts.extra ?? {}),
   };
+}
+
+/**
+ * Authoritative sources a page actually cites, emitted as schema `citation`.
+ * On a YMYL medical site these are the strongest trust signal answer engines read,
+ * and the content already links them inline. Allowlisted to medical/government
+ * bodies so a stray outbound link never poses as a clinical reference.
+ */
+const CITABLE = /^https?:\/\/(?:www\.)?(?:heart\.org|nhlbi\.nih\.gov|medlineplus\.gov|cdc\.gov|acc\.org|fda\.gov|hhs\.gov|nih\.gov|ncbi\.nlm\.nih\.gov|pubmed\.ncbi\.nlm\.nih\.gov|ahajournals\.org|cms\.gov)\//i;
+
+export function citationsFrom(body: string) {
+  const seen = new Map<string, string>();
+  for (const [, name, url] of body.matchAll(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g)) {
+    if (CITABLE.test(url) && !seen.has(url)) seen.set(url, name.replace(/\s+/g, " ").trim());
+  }
+  return [...seen].map(([url, name]) => ({ "@type": "WebPage", name, url }));
 }
 
 export function faqLd(pairs: { q: string; a: string }[]) {

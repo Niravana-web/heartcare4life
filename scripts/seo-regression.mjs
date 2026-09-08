@@ -112,6 +112,20 @@ for (const u of urls.filter((x) => /^\/locations\/[a-z-]+$/.test(x))) {
   if (/PercutaneousProcedure/.test(h)) fail("/services/echocardiogram", "diagnostic test typed PercutaneousProcedure");
 }
 
+// Clinical pages must expose lastReviewed, speakable, and the authoritative sources
+// they cite. These are what answer engines read; losing them is silent.
+{
+  const sample = ["/services/coronary-stenting", "/conditions/coronary-artery-disease", "/compare/stent-vs-medication"];
+  for (const u of sample) {
+    const h = await (await fetch(BASE + u)).text();
+    if (!/"lastReviewed"/.test(h)) fail(u, "no lastReviewed in schema");
+    if (!/"speakable"/.test(h)) fail(u, "no speakable in schema");
+    const cites = [...h.matchAll(/"citation":\[(.*?)\]/gs)].map((m) => m[1]);
+    if (!cites.length) fail(u, "no citation array in schema");
+    else if (!/nhlbi|heart\.org|medlineplus|cdc\.gov|acc\.org/.test(cites[0])) fail(u, "citations name no authoritative source");
+  }
+}
+
 console.log(`\nWARNINGS (${warns.length})`); warns.forEach((w) => console.log("  - " + w));
 console.log(`\nFAILURES (${fails.length})`); fails.forEach((f) => console.log("  - " + f));
 process.exit(fails.length ? 1 : 0);

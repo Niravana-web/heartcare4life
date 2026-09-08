@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { allPages, getPage, childrenOf, excerpt } from "@/lib/content";
 import { CUSTOM_ROUTES, SECTION_META, crumbsFor, DIAGNOSTIC_SLUGS, comparesFor, NOT_A_PROCEDURE, COMPARE_ENTITIES } from "@/lib/routes";
-import { buildMetadata, graph, webPageLd, videoLd, abs } from "@/lib/seo";
+import { buildMetadata, graph, webPageLd, videoLd, abs, citationsFrom } from "@/lib/seo";
 import PageHeader from "@/components/PageHeader";
 import Prose from "@/components/Prose";
 import JsonLd from "@/components/JsonLd";
@@ -99,6 +99,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string[
       route, title: page.h1, description: page.description,
       about: about ? { "@id": entityId } : undefined,
       type: isHub ? "CollectionPage" : "MedicalWebPage",
+      citation: citationsFrom(page.body),
       ...(mentions.length ? { extra: { mentions } } : {}),
     }),
     ...(about ? [{
