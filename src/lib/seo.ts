@@ -70,9 +70,14 @@ export function locationLd(l: (typeof LOCATIONS)[number]) {
       ...OPENING_SPEC.map((s) => ({ "@type": "OpeningHoursSpecification", ...s })),
       ...(l.saturdays ? [{ "@type": "OpeningHoursSpecification", ...SATURDAY_SPEC }] : []),
     ],
-    medicalSpecialty: ["Cardiovascular", "Cardiology", "Interventional Cardiology"],
+    // Cardiovascular is the only cardiology member of the MedicalSpecialty
+    // enumeration; "Cardiology" and "Interventional Cardiology" are free text and
+    // were rejected as invalid enum values. The readable form lives in the copy.
+    medicalSpecialty: "Cardiovascular",
     parentOrganization: { "@id": ID.org },
-    physician: { "@id": ID.doctor },
+    // schema.org no longer defines a `physician` predicate. employee is the valid
+    // Organization property and carries the same meaning.
+    employee: { "@id": ID.doctor },
   };
 }
 
@@ -96,7 +101,7 @@ export function organizationLd() {
       postalCode: LOCATIONS[0].zip,
       addressCountry: "US",
     },
-    medicalSpecialty: ["Cardiovascular", "Cardiology", "Interventional Cardiology"],
+    medicalSpecialty: "Cardiovascular",
     areaServed: ["San Diego County, CA", "Chula Vista, CA", "Bonita, CA", "Redding, CA", "Shasta County, CA", "Northern California", "International patients"],
     sameAs: Object.values(SITE.social),
     founder: { "@id": ID.doctor },
@@ -120,7 +125,7 @@ export function physicianLd() {
     description: `${DOCTOR.fullName} is ${DOCTOR.boardCertified.toLowerCase()} with ${DOCTOR.yearsExperience} years of experience. Recruited to Northern California from Ohio in 1997, he founded ${SITE.name} (${SITE.legalName}) and practices in Bonita, San Diego and Redding, California.`,
     image: abs(DOCTOR.image),
     url: abs(DOCTOR.route),
-    medicalSpecialty: ["Cardiovascular", "Cardiology", "Interventional Cardiology"],
+    medicalSpecialty: "Cardiovascular",
     knowsAbout: ["Coronary artery disease", "Coronary stenting", "Angioplasty", "Left atrial appendage closure", "Atrial fibrillation", "Venous ablation", "Advanced lipid testing", "Echocardiography", "Stress testing", "Preventive cardiology", "Telehealth cardiology second opinions"],
     worksFor: { "@id": ID.org },
     affiliation: { "@id": ID.org },

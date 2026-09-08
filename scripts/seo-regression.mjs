@@ -126,6 +126,14 @@ for (const u of urls.filter((x) => /^\/locations\/[a-z-]+$/.test(x))) {
   }
 }
 
+// Schema.org rejects free-text medicalSpecialty and no longer defines `physician`.
+// Both shipped for a while; keep them from coming back.
+{
+  const h = await (await fetch(BASE + "/")).text();
+  if (/"medicalSpecialty":\s*(\[[^\]]*)?"(?!Cardiovascular")/.test(h)) fail("/", "medicalSpecialty carries a non-enum value");
+  if (/"physician":/.test(h)) fail("/", "`physician` predicate is not in the schema.org vocabulary");
+}
+
 console.log(`\nWARNINGS (${warns.length})`); warns.forEach((w) => console.log("  - " + w));
 console.log(`\nFAILURES (${fails.length})`); fails.forEach((f) => console.log("  - " + f));
 process.exit(fails.length ? 1 : 0);
