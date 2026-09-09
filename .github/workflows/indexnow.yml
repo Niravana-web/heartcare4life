@@ -1,0 +1,23 @@
+name: IndexNow
+
+# Vercel creates a GitHub deployment for every push, so this waits for production to
+# actually be live instead of sleeping and hoping. The script reads the live sitemap,
+# which is why the timing matters: fire too early and it submits the previous URL set.
+on:
+  deployment_status:
+  workflow_dispatch:
+
+jobs:
+  ping:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.deployment_status.state == 'success' &&
+       github.event.deployment_status.environment == 'Production')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      # No install step: the script only uses node builtins and fetch.
+      - run: node scripts/indexnow.mjs
