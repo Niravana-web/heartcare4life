@@ -22,7 +22,13 @@ export const metadata: Metadata = {
   creator: "Dr. Vimal Nanavati",
   publisher: SITE.name,
   formatDetection: { telephone: true },
-  icons: { icon: "/favicon.svg" },
+  // Google reads the favicon from the home page's <link rel="icon"> and caches it
+  // for a long time. src/app/favicon.ico is emitted by Next automatically; the SVG
+  // covers high-DPI and the apple icon covers iOS home screens.
+  icons: {
+    icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
+  },
   manifest: "/manifest.webmanifest",
 };
 
