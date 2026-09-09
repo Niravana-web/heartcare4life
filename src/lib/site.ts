@@ -1,6 +1,8 @@
 export const SITE = {
   name: "HeartCare4life",
   legalName: "Advanced Heart Care, Inc.",
+  /** Organisation NPI-2 for Advanced Heart Care, Inc., verified in the CMS registry. */
+  npi: "1801018593",
   url: "https://www.heartcare4life.com",
   tagline: "Board Certified in Cardiology and Interventional Cardiology",
   description:
@@ -29,9 +31,11 @@ export const DOCTOR = {
   yearsExperience: 32,
   image: "/images/dr-vimal-nanavati-prfle.jpg",
   route: "/dr-vimal-nanavati",
-  // TODO: practice to supply the 10-digit NPI. Once set, it is emitted as a schema
-  // identifier and linked to the CMS NPI Registry. Left undefined so nothing is invented.
-  npi: undefined as string | undefined,
+  // Individual NPI-1, verified against the CMS NPI Registry: sole national match for
+  // this name, and the registry's location, phone and taxonomy (Internal Medicine,
+  // Interventional Cardiology) all match this practice. Emitted as a schema identifier
+  // so answer engines can resolve the physician against federal data.
+  npi: "1851408082" as string | undefined,
   /** Only credentials already asserted in site copy. Do not add unverified ones. */
   credentials: [
     { name: "Board Certified in Cardiovascular Disease", by: "American Board of Internal Medicine", category: "certification" },

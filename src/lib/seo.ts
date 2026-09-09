@@ -102,6 +102,7 @@ export function organizationLd() {
       addressCountry: "US",
     },
     medicalSpecialty: "Cardiovascular",
+    identifier: { "@type": "PropertyValue", propertyID: "NPI", value: SITE.npi, url: `https://npiregistry.cms.hhs.gov/provider-view/${SITE.npi}` },
     areaServed: ["San Diego County, CA", "Chula Vista, CA", "Bonita, CA", "Redding, CA", "Shasta County, CA", "Northern California", "International patients"],
     sameAs: Object.values(SITE.social),
     founder: { "@id": ID.doctor },
