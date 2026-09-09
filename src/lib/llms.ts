@@ -28,7 +28,7 @@ ${HOURS.map((h) => `- ${h.days}: ${h.hours}`).join("\n")}
 - Concierge cardiology: ${SITE.url}/appointments/concierge
 
 ## Reputation
-- ${testimonials.length} patient reviews (Google ${testimonials.filter((t) => t.source === "Google").length}, Healthgrades ${testimonials.filter((t) => t.source === "Healthgrades").length}, Zocdoc ${testimonials.filter((t) => t.source === "Zocdoc").length}, website ${testimonials.filter((t) => t.source === "Website").length}), all 5 stars: ${SITE.url}/testimonials
+- ${testimonials.length} patient testimonials published by patients (Google ${testimonials.filter((t) => t.source === "Google").length}, Healthgrades ${testimonials.filter((t) => t.source === "Healthgrades").length}, Zocdoc ${testimonials.filter((t) => t.source === "Zocdoc").length}, website ${testimonials.filter((t) => t.source === "Website").length}). These are selected testimonials, not an aggregate rating; see the live Google Business Profile for the current star average: ${SITE.url}/testimonials
 - YouTube channel "Heart Matters": ${SITE.social.youtube}
 
 _Last generated: ${new Date().toISOString().slice(0, 10)}_

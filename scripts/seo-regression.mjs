@@ -144,6 +144,15 @@ for (const u of urls.filter((x) => /^\/locations\/[a-z-]+$/.test(x))) {
   }
 }
 
+// Google ignores self-serving AggregateRating on a LocalBusiness and can penalise it,
+// and the on-page average it mirrored contradicted the public Google profile.
+{
+  for (const u of ["/", "/testimonials", "/locations/south-san-diego", "/dr-vimal-nanavati"]) {
+    const h = await (await fetch(BASE + u)).text();
+    if (/"@type":\s*"(AggregateRating|Review)"/.test(h)) fail(u, "self-serving review markup is back");
+  }
+}
+
 console.log(`\nWARNINGS (${warns.length})`); warns.forEach((w) => console.log("  - " + w));
 console.log(`\nFAILURES (${fails.length})`); fails.forEach((f) => console.log("  - " + f));
 process.exit(fails.length ? 1 : 0);

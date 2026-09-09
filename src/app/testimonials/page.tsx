@@ -6,16 +6,15 @@ import JsonLd from "@/components/JsonLd";
 import { buildMetadata, graph, webPageLd } from "@/lib/seo";
 import testimonials from "../../../content/testimonials.json";
 
-export const metadata = buildMetadata({ title: "Patient Testimonials | 95 Reviews", description: "Read 95 patient reviews of Dr. Vimal Nanavati and HeartCare4life from Google, Healthgrades, Zocdoc and our website. Interventional cardiologist in Bonita, San Diego and Redding, CA.", route: "/testimonials" });
+export const metadata = buildMetadata({ title: "Patient Testimonials", description: "Published patient testimonials for Dr. Vimal Nanavati and HeartCare4life, collected from Google, Healthgrades, Zocdoc and patients who wrote to us. Interventional cardiologist in Bonita, San Diego and Redding, CA.", route: "/testimonials" });
 
 const SOURCES = ["Website", "Google", "Healthgrades", "Zocdoc"] as const;
 
 export default function Testimonials() {
-  const avg = testimonials.reduce((s, t) => s + t.stars, 0) / testimonials.length;
   return (
     <>
       <JsonLd data={graph(webPageLd({ route: "/testimonials", title: "Patient Testimonials", description: metadata.description as string, type: "CollectionPage" }))} />
-      <PageHeader eyebrow="Media" title="Patient Testimonials" lede={`${testimonials.length} reviews · ${avg.toFixed(1)} / 5 average from Google, Healthgrades, Zocdoc and patients who wrote to us directly.`} crumbs={[{ name: "Home", route: "/" }, { name: "Patient Testimonials", route: "/testimonials" }]} />
+      <PageHeader eyebrow="Media" title="Patient Testimonials" lede={`${testimonials.length} testimonials patients have published about this practice, on Google, Healthgrades, Zocdoc and directly to us. These are the ones they chose to share, not an average of every visit.`} crumbs={[{ name: "Home", route: "/" }, { name: "Patient Testimonials", route: "/testimonials" }]} />
       <div className="container-x py-14">
         <div className="mb-10 flex flex-wrap items-center gap-3">
           {SOURCES.map((s) => (<a key={s} href={`#${s.toLowerCase()}`} className="btn-secondary py-2 text-[.85rem]">{s} reviews ({testimonials.filter((t) => t.source === s).length})</a>))}

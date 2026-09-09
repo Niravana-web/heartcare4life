@@ -7,7 +7,7 @@ import JsonLd from "@/components/JsonLd";
 export const metadata = buildMetadata({ title: "Media: Videos, Testimonials & News", description: "Videos, patient testimonials, before-and-after angiogram results, photo gallery and news from Dr. Vimal Nanavati and HeartCare4life.", route: "/media" });
 const ITEMS = [
   ["Videos", "/videos", "Educational talks and interviews from Dr. Nanavati's Heart Matters channel."],
-  ["Patient Testimonials", "/testimonials", "95 five-star reviews from Google, Healthgrades, Zocdoc and our patients."],
+  ["Patient Testimonials", "/testimonials", "95 patient testimonials published on Google, Healthgrades, Zocdoc and sent to us directly."],
   ["Before and After", "/before-and-after", "Real angiogram images showing coronary blockages before and after stenting."],
   ["Gallery", "/gallery", "Photos from the practice, events and community."],
   ["In the News", "/news", "Updates from Dr. Nanavati's work in cardiovascular medicine."],
