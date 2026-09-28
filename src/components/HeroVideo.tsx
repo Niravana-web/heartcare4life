@@ -4,13 +4,11 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 
 const CLIPS = [
-  { u: "https://videos.pexels.com/video-files/11458070/11458070-hd_1920_1080_25fps.mp4", c: "La Jolla Cove, San Diego" },
-  { u: "https://videos.pexels.com/video-files/17595973/17595973-hd_1920_1080_24fps.mp4", c: "Coronado Bridge at golden hour" },
-  { u: "https://videos.pexels.com/video-files/14869825/14869825-hd_1920_1080_24fps.mp4", c: "Crystal Pier, Pacific Beach" },
-  { u: "https://videos.pexels.com/video-files/13149719/13149719-hd_1920_1080_24fps.mp4", c: "Coronado Bridge, from above" },
-  { u: "https://videos.pexels.com/video-files/9701851/9701851-hd_1920_1080_25fps.mp4", c: "California Tower, Balboa Park" },
-  { u: "https://videos.pexels.com/video-files/18149679/18149679-hd_1920_1080_24fps.mp4", c: "Hotel del Coronado" },
-  { u: "https://videos.pexels.com/video-files/11456833/11456833-hd_1920_1080_25fps.mp4", c: "San Diego harbor" },
+  { u: "/hero/hero-iZB1j2XHO0I.mp4", c: "Hatchet Creek, Redding" },
+  { u: "/hero/hero-L9MhmGhgqzA.mp4", c: "Whiskeytown Lake, Redding" },
+  { u: "/hero/hero-8Jg5no4jYHo.mp4", c: "Whiskeytown Lake, Redding" },
+  { u: "/hero/hero-G6wTKjWc2ZI.mp4", c: "Whiskeytown Lake, Redding" },
+  { u: "/hero/hero-6eASzgPt6-U.mp4", c: "Lake Shasta, Redding" },
 ];
 const MAX = 12000, START_TIMEOUT = 8000;
 
@@ -21,7 +19,7 @@ export default function HeroVideo() {
 
   useEffect(() => {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-    // The clips are 19-34MB each and cycle. That is an unacceptable cost on a phone,
+    // The clips are 1-8MB each and cycle. That is an unacceptable cost on a phone,
     // especially for an older patient audience on cellular, so small screens and
     // data-saver sessions keep the poster image instead.
     if (window.matchMedia("(max-width: 899px)").matches) return;
