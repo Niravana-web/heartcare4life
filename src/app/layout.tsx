@@ -23,10 +23,10 @@ export const metadata: Metadata = {
   publisher: SITE.name,
   formatDetection: { telephone: true },
   // Google reads the favicon from the home page's <link rel="icon"> and caches it
-  // for a long time. src/app/favicon.ico is emitted by Next automatically; the SVG
+  // for a long time. src/app/favicon.ico is emitted by Next automatically; the PNG
   // covers high-DPI and the apple icon covers iOS home screens.
   icons: {
-    icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
+    icon: [{ url: "/icon-192.png", sizes: "192x192", type: "image/png" }],
     apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
   },
   manifest: "/manifest.webmanifest",

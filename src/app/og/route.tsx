@@ -31,7 +31,10 @@ export function GET(req: Request) {
             <div style={{ fontSize: 24, color: MUTED, marginTop: 8 }}>Board Certified in Cardiology and Interventional Cardiology</div>
             <div style={{ fontSize: 24, color: MUTED, marginTop: 6 }}>Bonita · San Diego · Redding, California</div>
           </div>
-          <div style={{ fontSize: 24, letterSpacing: 4, textTransform: "uppercase", color: MUTED }}>heartcare4life.com</div>
+          <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end" }}>
+            <img src={new URL(SITE.logo, req.url).href} width={120} height={114} alt="" />
+            <div style={{ fontSize: 24, letterSpacing: 4, textTransform: "uppercase", color: MUTED, marginTop: 16 }}>heartcare4life.com</div>
+          </div>
         </div>
       </div>
     ),

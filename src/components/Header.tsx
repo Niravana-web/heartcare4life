@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { NAV, UTILITY_NAV, LOCATIONS, SITE } from "@/lib/site";
@@ -21,6 +22,7 @@ export default function Header() {
       </div>
 
       <div className="px-6 pb-[26px] pt-8 text-center">
+        <Link href="/" aria-label="HeartCare4life home"><Image src={SITE.logo} alt="" width={1024} height={972} sizes="80px" priority className="mx-auto mb-4 h-[72px] w-auto" /></Link>
         <p className="m-0 mb-2.5 text-[.69rem] uppercase tracking-[.34em] text-ink-subtle">heartcare4life.com</p>
         <Link href="/" className="font-serif text-[clamp(1.6rem,3vw,2.1rem)] font-medium uppercase tracking-[.14em] text-navy no-underline">HeartCare4life</Link>
         <p className="mt-3 text-[.72rem] uppercase tracking-[.22em] text-ink-subtle">

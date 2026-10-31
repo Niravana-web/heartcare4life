@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { SITE, LOCATIONS, HOURS } from "@/lib/site";
 
 const social = [
@@ -25,6 +26,7 @@ export default function Footer() {
       <div className="container-x">
         <div className="grid gap-10 py-14 md:grid-cols-[1.4fr_1fr_1fr]">
           <div>
+            <Image src="/images/heartcare4life-logo-light.png" alt="" width={1024} height={972} sizes="64px" className="mb-4 h-14 w-auto" />
             <p className="m-0 mb-3.5 font-serif text-[1.35rem] font-medium uppercase tracking-[.14em] text-[#f4eee0]">HeartCare4life</p>
             <p className="m-0 max-w-[52ch] text-[.85rem] leading-[1.65] text-[#f4eee099]">
               Dr. Vimal Nanavati, MD, FACC — {SITE.tagline}. Advanced Heart Care, Inc. serves patients in Bonita and North San Diego (South &amp; North San Diego County), Redding (Northern California), and worldwide through telehealth consultations.
