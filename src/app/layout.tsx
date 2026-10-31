@@ -1,6 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import Script from "next/script";
-import { Cormorant_Garamond, Source_Sans_3 } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -10,8 +10,17 @@ import JsonLd from "@/components/JsonLd";
 import { SITE, LOCATIONS } from "@/lib/site";
 import { graph, organizationLd, physicianLd, websiteLd, locationLd } from "@/lib/seo";
 
-const cormorant = Cormorant_Garamond({ subsets: ["latin"], weight: ["400", "500", "600"], style: ["normal", "italic"], variable: "--font-cormorant", display: "swap" });
-const sourceSans = Source_Sans_3({ subsets: ["latin"], weight: ["400", "500", "600", "700"], variable: "--font-source-sans", display: "swap" });
+// Self-hosted: Google Fonts intermittently returns URLs Turbopack cannot resolve,
+// which failed production builds (vercel/next.js#99114). Latin subset, variable weight.
+const cormorant = localFont({
+  src: [
+    { path: "../fonts/cormorant-garamond.woff2", weight: "400 600", style: "normal" },
+    { path: "../fonts/cormorant-garamond-italic.woff2", weight: "400 600", style: "italic" },
+  ],
+  variable: "--font-cormorant",
+  display: "swap",
+});
+const sourceSans = localFont({ src: "../fonts/source-sans-3.woff2", weight: "400 700", variable: "--font-source-sans", display: "swap" });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
