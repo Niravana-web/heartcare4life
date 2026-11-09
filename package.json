@@ -13,6 +13,7 @@
     "seo:links": "node scripts/seo-links.mjs"
   },
   "dependencies": {
+    "@vercel/blob": "^2.9.0",
     "framer-motion": "^13.2.0",
     "gray-matter": "^4.0.3",
     "lenis": "^1.3.26",

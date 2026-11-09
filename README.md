@@ -17,10 +17,10 @@ node scripts/seo-regression.mjs   # BASE=http://localhost:3000 — crawls sitema
 - `src/lib/seo.ts` — metadata + JSON-LD builders (MedicalOrganization, Physician, MedicalClinic ×3, MedicalWebPage, MedicalProcedure/MedicalCondition, FAQPage, VideoObject, NewsArticle, AggregateRating/Review, BreadcrumbList).
 - `src/app/sitemap.ts`, `robots.ts`, `llms.txt/route.ts`, `llms-full.txt/route.ts` — SEO/GEO endpoints.
 - `redirects.json` — 301s from every old `-interventional-cardiologist-bonita-redding(-san-diego)-ca` URL and testimonial/news paths.
-- `src/app/api/forms/route.ts` — receives all forms (appointment, contact, feedback, tell-a-friend, testimonial). **Currently logs only** — wire to email/EHR before launch.
+- `src/app/api/forms/route.ts` — receives all forms (appointment, contact, feedback, tell-a-friend, testimonial). Saves each submission as a private JSON file in Vercel Blob (`form-submissions/`) and emails it via Resend. Env: `RESEND_API_KEY`, `BLOB_READ_WRITE_TOKEN`, optional `FORM_RECIPIENTS` (comma-separated) and `FORM_FROM` (must be on a Resend-verified domain).
 
 ## Before launch
-1. Wire `/api/forms` to an email provider or the practice intake system.
+1. Verify `heartcare4life.com` in Resend and connect a Blob store to the Vercel project (see `/api/forms` above).
 2. Confirm the North San Diego phone number (site used the Bonita number) and NPI for the Physician schema.
 3. Replace `public/images/hero-poster.jpg` with a practice photo if desired; hero clips are the practice banner video + 3 Pexels San Diego clips (free license).
 4. Patient Forms and Bill Payment pages still say "Coming soon" (as on the old site).
